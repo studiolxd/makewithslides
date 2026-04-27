@@ -1,0 +1,147 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+@use 'animations';
+
+.layout-tabs {
+  @include slide-fill;
+  @include flex-column;
+  position: relative;
+  padding: $spacing-2xl;
+
+  &__header {
+    @include flex-column;
+    margin-bottom: $spacing-xl;
+    flex-shrink: 0;
+  }
+
+  &__title {
+    font-size: $font-size-2xl;
+    font-weight: $font-weight-heading;
+    color: $color-primary;
+    margin: 0 0 $spacing-lg;
+  }
+
+  &__text {
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    color: $color-text;
+    max-width: 860px;
+
+    p {
+      margin: 0 0 $spacing-md;
+    }
+
+    ul,
+    ol {
+      margin: 0 0 $spacing-md;
+      padding-left: $spacing-lg;
+    }
+
+    li {
+      margin-bottom: $spacing-xs;
+    }
+
+    strong {
+      color: $color-primary;
+    }
+  }
+
+  &__tab-bar {
+    display: flex;
+    gap: 0;
+    border-bottom: 2px solid $color-border;
+    flex-shrink: 0;
+  }
+
+  &__tab {
+    display: flex;
+    align-items: center;
+    gap: $spacing-sm;
+    padding: $spacing-md $spacing-lg;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: $font-size-base;
+    font-weight: $font-weight-heading;
+    color: $color-text-light;
+    position: relative;
+    transition: color $transition-fast;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: transparent;
+      transition: background $transition-fast;
+    }
+
+    &:hover {
+      color: $color-text;
+
+      &::after {
+        background: $color-primary;
+      }
+    }
+
+    &--active {
+      color: $color-text;
+
+      &::after {
+        background: $color-primary;
+      }
+    }
+
+    &:focus-visible {
+      outline: 3px solid $color-focus;
+      outline-offset: 2px;
+    }
+  }
+
+  &__tab-icon {
+    display: flex;
+    align-items: center;
+    font-size: $font-size-sm;
+  }
+
+  &__panel {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    padding: $spacing-xl 0;
+    animation: it-fadeIn 0.25s ease-out forwards;
+  }
+
+  &__panel-title {
+    font-size: $font-size-lg;
+    font-weight: $font-weight-heading;
+    color: $color-primary;
+    margin: 0 0 $spacing-md;
+  }
+
+  &__panel-text {
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    color: $color-text;
+
+    p {
+      margin: 0 0 $spacing-sm;
+    }
+
+    ul,
+    ol {
+      margin: 0 0 $spacing-md;
+      padding-left: $spacing-lg;
+    }
+
+    li {
+      margin-bottom: $spacing-xs;
+    }
+
+    strong {
+      color: $color-primary;
+    }
+  }
+}

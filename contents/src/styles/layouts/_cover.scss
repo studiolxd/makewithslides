@@ -1,0 +1,122 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+
+// === Cover variables ===
+
+$_cover-left: calc(3 / 6 * 100%);
+$_cover-width: calc(2 / 6 * 100%);
+$_cover-min-width: 450px;
+$_cover-stripe-opacity: 0.75;
+$_cover-stripe-duration: 0.8s;
+$_cover-fade-duration: 0.6s;
+$_cover-fade-delay: $_cover-stripe-duration;
+$_cover-title-size: 38px;
+$_cover-title-weight: $font-weight-heading;
+$_cover-title-bold-weight: 700;
+
+// === Keyframes ===
+
+@keyframes cover-stripe-grow {
+  from {
+    transform: scaleY(0);
+  }
+  to {
+    transform: scaleY(1);
+  }
+}
+
+@keyframes cover-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+// === Layout ===
+
+.layout-cover {
+  @include slide-fill;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+
+  &__video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+  }
+
+  &__stripe {
+    position: absolute;
+    left: $_cover-left;
+    top: 0;
+    width: $_cover-width;
+    min-width: $_cover-min-width;
+    height: 100%;
+    background: rgba($color-primary, $_cover-stripe-opacity);
+    transform-origin: top;
+    transform: scaleY(0);
+    animation: cover-stripe-grow $_cover-stripe-duration ease-out forwards;
+  }
+
+  &__content {
+    position: absolute;
+    left: $_cover-left;
+    top: 0;
+    width: $_cover-width;
+    min-width: $_cover-min-width;
+    height: 100%;
+    @include flex-column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    padding: $spacing-2xl;
+    opacity: 0;
+    animation: cover-fade-in $_cover-fade-duration $_cover-fade-delay ease-out forwards;
+  }
+
+  &__unit-title {
+    font-size: $_cover-title-size;
+    font-weight: $_cover-title-weight;
+    color: $color-text-inverse;
+    margin: 0;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    max-width: 100%;
+
+    b,
+    strong {
+      font-weight: $_cover-title-bold-weight;
+    }
+  }
+
+  &__start-btn {
+    position: absolute;
+    bottom: $spacing-2xl;
+    padding: $spacing-md $spacing-2xl;
+    background: $color-white;
+    color: $color-black;
+    border: 1px solid $color-white;
+    border-radius: 0;
+    font-family: $font-family-headings;
+    font-weight: $font-weight-heading;
+    font-size: $font-size-base;
+    letter-spacing: $letter-spacing-wide;
+    cursor: pointer;
+    transition: background $transition-fast, color $transition-fast;
+
+    &:hover {
+      background: $color-primary;
+      color: $color-white;
+      border-color: $color-white;
+    }
+  }
+}

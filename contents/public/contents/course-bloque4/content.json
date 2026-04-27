@@ -1,0 +1,2373 @@
+{
+  "config": {
+    "lockIndex": false,
+    "scormVersion": "1.2"
+  },
+  "index": [
+    {
+      "title": "Inicio",
+      "numbered": false,
+      "level": 1,
+      "slideId": 0
+    },
+    {
+      "title": "Procedimiento para la aplicación de medidas correctoras",
+      "numbered": true,
+      "level": 1,
+      "slideId": 1
+    },
+    {
+      "title": "Justificación",
+      "numbered": true,
+      "level": 2,
+      "slideId": 2
+    },
+    {
+      "title": "Objetivos",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3
+    },
+    {
+      "title": "Consideraciones Generales",
+      "numbered": true,
+      "level": 2,
+      "slideId": 4
+    },
+    {
+      "title": "Clasificación de las conductas inadecuadas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 5
+    },
+    {
+      "title": "Medidas correctoras",
+      "numbered": true,
+      "level": 2,
+      "slideId": 6
+    },
+    {
+      "title": "Responsables",
+      "numbered": true,
+      "level": 2,
+      "slideId": 7
+    },
+    {
+      "title": "Procedimiento",
+      "numbered": true,
+      "level": 2,
+      "slideId": 8
+    },
+    {
+      "title": "Anexo: Tabla de aplicación de medidas educativas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 9
+    },
+    {
+      "title": "Conclusión",
+      "numbered": true,
+      "level": 2,
+      "slideId": 10
+    },
+    {
+      "title": "Propuestas de privilegios por fases",
+      "numbered": true,
+      "level": 1,
+      "slideId": 11
+    },
+    {
+      "title": "Fase 0 - Ingreso y observación",
+      "numbered": true,
+      "level": 2,
+      "slideId": 12
+    },
+    {
+      "title": "El menor no...",
+      "numbered": true,
+      "level": 3,
+      "slideId": 13
+    },
+    {
+      "title": "Asignación semanal",
+      "numbered": true,
+      "level": 3,
+      "slideId": 14
+    },
+    {
+      "title": "Fase 1",
+      "numbered": true,
+      "level": 2,
+      "slideId": 15
+    },
+    {
+      "title": "Comunicaciones",
+      "numbered": true,
+      "level": 3,
+      "slideId": 16
+    },
+    {
+      "title": "Productos de higiene",
+      "numbered": true,
+      "level": 3,
+      "slideId": 17
+    },
+    {
+      "title": "Asignación semanal",
+      "numbered": true,
+      "level": 3,
+      "slideId": 18
+    },
+    {
+      "title": "Fase 2",
+      "numbered": true,
+      "level": 2,
+      "slideId": 19
+    },
+    {
+      "title": "Comunicaciones",
+      "numbered": true,
+      "level": 3,
+      "slideId": 20
+    },
+    {
+      "title": "Asignación semanal",
+      "numbered": true,
+      "level": 3,
+      "slideId": 21
+    },
+    {
+      "title": "Fase 3",
+      "numbered": true,
+      "level": 2,
+      "slideId": 22
+    },
+    {
+      "title": "Asignación semanal",
+      "numbered": true,
+      "level": 3,
+      "slideId": 23
+    },
+    {
+      "title": "Fase 4",
+      "numbered": true,
+      "level": 2,
+      "slideId": 24
+    },
+    {
+      "title": "Asignación semanal",
+      "numbered": true,
+      "level": 3,
+      "slideId": 25
+    },
+    {
+      "title": "Fase 5",
+      "numbered": true,
+      "level": 2,
+      "slideId": 26
+    },
+    {
+      "title": "Asignación semanal",
+      "numbered": true,
+      "level": 3,
+      "slideId": 27
+    },
+    {
+      "title": "Autonomía",
+      "numbered": true,
+      "level": 2,
+      "slideId": 28
+    },
+    {
+      "title": "Requisitos para ser autónomo",
+      "numbered": true,
+      "level": 3,
+      "slideId": 29
+    },
+    {
+      "title": "Privilegios de la condición de autónomo",
+      "numbered": true,
+      "level": 3,
+      "slideId": 30
+    },
+    {
+      "title": "Sistema de fases en el marco de intervención en CRZ",
+      "numbered": true,
+      "level": 2,
+      "slideId": 31
+    },
+    {
+      "title": "Comportamientos recompensados",
+      "numbered": true,
+      "level": 3,
+      "slideId": 32
+    },
+    {
+      "title": "Marco normativo de la asignación económica",
+      "numbered": true,
+      "level": 3,
+      "slideId": 33
+    },
+    {
+      "title": "Asignación económica semanal a los menores",
+      "numbered": true,
+      "level": 3,
+      "slideId": 34
+    },
+    {
+      "title": "Atendiendo a cada fase",
+      "numbered": true,
+      "level": 3,
+      "slideId": 35
+    },
+    {
+      "title": "Actuaciones de preparación del daño",
+      "numbered": true,
+      "level": 2,
+      "slideId": 36
+    },
+    {
+      "title": "Compromiso de pago",
+      "numbered": true,
+      "level": 3,
+      "slideId": 37
+    },
+    {
+      "title": "Suma y resta de créditos",
+      "numbered": true,
+      "level": 1,
+      "slideId": 38
+    },
+    {
+      "title": "Inclumplimiento del Deber",
+      "numbered": true,
+      "level": 2,
+      "slideId": 39
+    },
+    {
+      "title": "Corrección Educativa",
+      "numbered": true,
+      "level": 2,
+      "slideId": 40
+    },
+    {
+      "title": "Condiciones",
+      "numbered": true,
+      "level": 2,
+      "slideId": 41
+    },
+    {
+      "title": "Hechos de falta",
+      "numbered": true,
+      "level": 2,
+      "slideId": 42
+    },
+    {
+      "title": "Créditos incentivos por buen comportamiento",
+      "numbered": true,
+      "level": 2,
+      "slideId": 43
+    },
+    {
+      "title": "Efectividad",
+      "numbered": true,
+      "level": 2,
+      "slideId": 44
+    },
+    {
+      "title": "Comunicación de pérdida de crédito",
+      "numbered": true,
+      "level": 2,
+      "slideId": 45
+    },
+    {
+      "title": "Criterios de Actuación del Personal de Seguridad en el Centro de Reforma de Menores Zambrana",
+      "numbered": true,
+      "level": 1,
+      "slideId": 46
+    },
+    {
+      "title": "Marco general y finalidad del documento",
+      "numbered": true,
+      "level": 2,
+      "slideId": 47
+    },
+    {
+      "title": "Principios rectores de actuación",
+      "numbered": true,
+      "level": 2,
+      "slideId": 48
+    },
+    {
+      "title": "Funciones del personal de seguridad",
+      "numbered": true,
+      "level": 2,
+      "slideId": 49
+    },
+    {
+      "title": "Control de accesos y registros",
+      "numbered": true,
+      "level": 2,
+      "slideId": 50
+    },
+    {
+      "title": "Actuación ante incidentes con menores",
+      "numbered": true,
+      "level": 2,
+      "slideId": 51
+    },
+    {
+      "title": "Coordinación con el equipo educativo",
+      "numbered": true,
+      "level": 2,
+      "slideId": 52
+    },
+    {
+      "title": "Actuación ante intentos de fuga",
+      "numbered": true,
+      "level": 2,
+      "slideId": 53
+    },
+    {
+      "title": "Intervención en situaciones de violencia",
+      "numbered": true,
+      "level": 2,
+      "slideId": 54
+    },
+    {
+      "title": "Respeto a la dignidad y trato adecuado",
+      "numbered": true,
+      "level": 2,
+      "slideId": 55
+    },
+    {
+      "title": "Protocolos de comunicación y reporte",
+      "numbered": true,
+      "level": 2,
+      "slideId": 56
+    },
+    {
+      "title": "Actuación en situaciones especiales",
+      "numbered": true,
+      "level": 2,
+      "slideId": 57
+    },
+    {
+      "title": "Límites de actuación",
+      "numbered": true,
+      "level": 2,
+      "slideId": 58
+    },
+    {
+      "title": "Conclusión General",
+      "numbered": true,
+      "level": 2,
+      "slideId": 59
+    }
+  ],
+  "slides": [
+    {
+      "id": 0,
+      "layout": "cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "unitTitle": "MEDIDAS CORRECTORAS, SISTEMAS DE FASES, <b>ECONOMÍA DE FICHAS Y CRITERIOS DE ACTUACIÓN</b> DEL PERSONAL DE SEGURIDAD"
+      }
+    },
+    {
+      "id": 1,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Procedimiento para la aplicación de medidas correctoras en el Centro Regional Zambrana",
+        "image": "./contents/course-bloque4/images/id 1.jpg",
+        "imagePosition": "left",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1
+      }
+    },
+    {
+      "id": 2,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque4/images/id 2.jpg",
+        "title": "Justificación",
+        "text": "<p>La modificación del comportamiento mediante la intervención educativa y las medidas correctoras es esencial para garantizar una convivencia ordenada en el centro. Estas medidas fomentan la responsabilidad, un ambiente seguro y respetuoso, el desarrollo de habilidades sociales y emocionales, y la preparación de los menores para su reintegración en la sociedad. Además, buscan transmitir una imagen de cohesión y trabajo en equipo entre los profesionales del centro.</p>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 3,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Objetivos",
+        "blocking": true,
+        "items": [
+          {
+            "id": "obj-general",
+            "label": "Generales",
+            "text": "<ol><li>Regular y definir el procedimiento de intervención educativa para corregir comportamientos disruptivos.</li><li>Establecer criterios homogéneos para el personal educativo.</li><li>Evaluar y ajustar continuamente la efectividad de las medidas correctoras.</li></ol>"
+          },
+          {
+            "id": "obj-especifico",
+            "label": "Específicos",
+            "text": "<ol><li>Reducir comportamientos disruptivos como agresividad, desobediencia y falta de respeto.</li><li>Fomentar la responsabilidad personal y la reflexión sobre las consecuencias de las acciones.</li><li>Mejorar la convivencia y promover un ambiente seguro y respetuoso.</li><li>Desarrollar habilidades de autocontrol y motivar a los menores en su proceso de cambio.</li></ol>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Consideraciones Generales",
+        "text": "<p>Aspectos clave en la <strong>aplicación de medidas correctoras</strong> en el centro.</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Aplicación inmediata",
+            "text": "<p>Las medidas correctoras deben aplicarse de manera inmediata, respetando la dignidad de los menores y siguiendo los principios de proporcionalidad y legalidad.</p>"
+          },
+          {
+            "title": "Entorno seguro",
+            "text": "<p>La ejecución de las medidas debe realizarse en un entorno seguro y adecuado.</p>"
+          },
+          {
+            "title": "Objetivo principal",
+            "text": "<p>El objetivo principal es contribuir a la desescalada de conflictos, minimizando riesgos.</p>"
+          },
+          {
+            "title": "Preparación de medidas",
+            "text": "<p>Los educadores deben anticipar y preparar las medidas de contención, incluyendo el aislamiento del incidente y el apoyo de personal de seguridad si es necesario.</p>"
+          },
+          {
+            "title": "Incumplimiento de medidas",
+            "text": "<p>Las correcciones pueden ser incumplidas por los menores, lo que puede requerir medidas adicionales como contención.</p>"
+          },
+          {
+            "title": "Tiempo de reflexión",
+            "text": "<p>Se puede aplicar un tiempo de reflexión para realizar entrevistas motivacionales con los menores.</p>"
+          },
+          {
+            "title": "Parte de incidencias",
+            "text": "<p>No todas las medidas correctoras implican la realización de un parte de incidencias, que solo se utiliza para incumplimientos graves que ameriten un expediente disciplinario.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Clasificación de las conductas inadecuadas",
+        "text": "<p>Las conductas se clasifican según su gravedad:</p>",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "muy-graves",
+            "title": "Muy graves (F)",
+            "text": "<p>Pérdida del 50% de los créditos.</p>"
+          },
+          {
+            "id": "graves",
+            "title": "Graves (I)",
+            "text": "<p>Pérdida del 15% de los créditos.</p>"
+          },
+          {
+            "id": "leves",
+            "title": "Leves (A)",
+            "text": "<p>Pérdida del 5% de los créditos.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "blocking": true,
+        "title": "Medidas correctoras",
+        "text": "<p>Las medidas correctoras se aplican según la gravedad de la conducta y el contexto. Algunas de las más relevantes son:</p>",
+        "items": [
+          {
+            "id": "conductas-leves",
+            "image": "./contents/course-bloque4/images/id 6.1.png",
+            "popupTitle": "Conductas leves (A)",
+            "popupContent": "<ul><li><strong>Levantarse sin permiso:</strong> Corregir la acción y pedir que vuelva a su sitio. En caso de negativa, aplicar medidas adicionales.</li><li><strong>No limpiar la mesa o los platos:</strong> Instar al menor a realizar la acción. En caso de negativa, acumular medidas correctoras.</li><li><strong>No comer un mínimo de cada plato:</strong> Pedir que coma un mínimo y realizar entrevista motivacional para analizar las causas.</li><li><strong>Jugar con la comida:</strong> Corregir la acción y, en caso de negativa, aplicar medidas como recoger el comedor.</li><li><strong>No tener ordenadas las pertenencias:</strong> Instar al menor a limpiar y ordenar su habitación.</li></ul>"
+          },
+          {
+            "id": "conductas-graves",
+            "image": "./contents/course-bloque4/images/id 6.2.png",
+            "popupTitle": "Conductas graves (I)",
+            "popupContent": "<ul><li><strong>Sustraer comida:</strong> Corregir la acción y devolver la comida. En caso de negativa, aplicar medidas adicionales.</li><li><strong>No realizar traslados adecuadamente:</strong> Corregir en el momento y ajustar horarios para evitar impuntualidades.</li><li><strong>Mentir:</strong> Corregir la conducta y pedir disculpas por escrito.</li><li><strong>Hacer mal uso del material deportivo:</strong> Retirar de la actividad y explicar las normas de uso. En caso de rotura, costear la reparación.</li></ul>"
+          },
+          {
+            "id": "conductas-muy-graves",
+            "image": "./contents/course-bloque4/images/id 6.3.png",
+            "popupTitle": "Conductas muy graves (F)",
+            "popupContent": "<ul><li><strong>Faltas de respeto a compañeros o personal del centro:</strong> Retirar de la actividad y solicitar disculpas. En caso de negativa, aplicar medidas adicionales.</li><li><strong>Insultos o amenazas:</strong> Retirar de la actividad, pedir disculpas por escrito y aplicar medidas correctoras.</li><li><strong>Agredir a compañeros o personal del centro:</strong> Aplicar medidas de contención, tiempo fuera, aislamiento y entrevista motivacional. Reparar daños y pedir disculpas.</li><li><strong>Fumar hachís/marihuana o tenencia de sustancias no permitidas:</strong> Realizar registros, supervisión continua y actividades relacionadas con el consumo de sustancias. Se realiza parte de incidencias.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Responsables",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "direccion-tecnica",
+            "title": "Dirección Técnica",
+            "text": "<p>Aprobación del procedimiento.</p>"
+          },
+          {
+            "id": "coordinacion-general",
+            "title": "Coordinación General",
+            "text": "<p>Supervisión del cumplimiento del procedimiento.</p>"
+          },
+          {
+            "id": "coordinacion-educativa",
+            "title": "Coordinación Educativa",
+            "text": "<p>Supervisar la correcta aplicación del procedimiento y resolver dudas.</p>"
+          },
+          {
+            "id": "equipos-educativos",
+            "title": "Equipos educativos",
+            "text": "<p>Aplicación directa del procedimiento y propuestas de mejora.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "blocking": true,
+        "titlePosition": "top",
+        "title": "Procedimiento",
+        "text": "<p>El procedimiento se detalla en el Anexo I, que incluye una tabla con las conductas a corregir y las medidas educativas correspondientes. Este documento es dinámico y está abierto a propuestas de mejora por parte de los profesionales del centro.</p>",
+        "images": [
+          {
+            "id": "proc-doc",
+            "image": "./contents/course-bloque4/images/id 8.jpg",
+            "title": "Nota final",
+            "overlayContent": "<p>El procedimiento busca establecer un criterio unificado para los educadores en su intervención con los menores. Las propuestas de mejora serán evaluadas anualmente por la coordinación educativa en una mesa de trabajo.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque4/images/id 9.jpg",
+        "title": "Anexo: Tabla de aplicación de medidas educativas",
+        "text": "<p>La tabla incluye una lista de conductas inadecuadas clasificadas por gravedad, junto con las medidas correctoras correspondientes. Estas medidas incluyen correcciones inmediatas, entrevistas motivacionales, actividades comunitarias, tiempo fuera, aislamiento, reparación de daños, y otras acciones específicas según el tipo de conducta.</p>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 10,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque4/images/id 10.jpg",
+        "title": "Conclusión",
+        "text": "<p>El procedimiento de ADIS Meridianos en el Centro Regional Zambrana busca garantizar una convivencia ordenada y segura, promoviendo la responsabilidad y el desarrollo personal de los menores. La aplicación de medidas correctoras se realiza de manera inmediata, proporcional y respetuosa, con el objetivo de fomentar el cambio positivo en los menores y su reintegración en la sociedad.</p>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 11,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Propuestas de Privilegios por Fases",
+        "image": "./contents/course-bloque4/images/id 11.jpg",
+        "imagePosition": "left",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1
+      }
+    },
+    {
+      "id": 12,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Fase 0 - Ingreso y observación",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Vestuario",
+            "text": "<p>En la unidad de acogida o separación de grupo se usará ropa de Centro. Podrá tener en su habitación cuatro mudas de ropa propia y un par de calzado y las deportivas del centro, además de su ropa interior propia.</p>"
+          },
+          {
+            "title": "Llamadas telefónicas",
+            "text": "<p>Realizar dos llamadas semanales de diez minutos cada una de ellas, siempre y cuando se realicen en días distintos. No son acumulativas. Recibir una llamada de cinco minutos cada una los lunes, miércoles y viernes de cada semana. No son acumulativas.</p>"
+          },
+          {
+            "title": "Aseo personal",
+            "text": "<p>Productos de aseo básicos del Centro, con la excepción de que haya una prescripción médica. Una vez por semana podrá afeitarse y realizar estética facial (depilación con pinzas).</p>"
+          },
+          {
+            "title": "Material escolar",
+            "text": "<p>Sólo podrá utilizar un bolígrafo, un lápiz y una goma cuando requiera material. El material vuelve al equipo educativo al finalizar la actividad.</p>"
+          },
+          {
+            "title": "Actividades al aire libre",
+            "text": "<p>Cuando tenga patio podrá hacer uso de un balón facilitado por el Equipo Educativo.</p>"
+          },
+          {
+            "title": "Tiempo libre y pasatiempos",
+            "text": "<p>Cuando puedan disfrutar de su tiempo libre, podrán tener pasatiempos en papel: autodefinidos, sudokus, crucigramas, palabras cruzadas, sopas de letras, etc. Podrá usar juegos de mesa: ajedrez, damas, parchís y oca; en ningún caso a juegos de cartas.</p>"
+          },
+          {
+            "title": "Horario de descanso",
+            "text": "<p>A las 22:00 tendrá que estar acostado y con la puerta de su habitación cerrada.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque4/images/id 13.jpg",
+        "title": "El menor no...",
+        "text": "<ul><li>No podrá tener fotos ni imágenes en su habitación.</li><li>No podrá usar el mando a distancia ni elegir el programa que se ve.</li><li>No tendrá acceso a MP3 o dispositivo que reproduzca música.</li></ul>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 14,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Asignación semanal",
+        "text": "<p>Tendrá una asignación semanal de <strong>8€</strong>, de los cuales podrá gastarse <strong>2€</strong> (para comprar sobres y sellos podrá gastarse lo que quiera del dinero total del que disponga, salvo que tenga que saldar alguna deuda contraída en el Centro).</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "falta-leve",
+            "label": "Falta leve",
+            "text": "<p>Con cada falta leve se le restarán <strong>1€</strong> de los 8€.</p>"
+          },
+          {
+            "id": "falta-grave",
+            "label": "Falta grave",
+            "text": "<p>Con cada falta grave se le restarán <strong>2€</strong> de los 8€.</p>"
+          },
+          {
+            "id": "falta-muy-grave",
+            "label": "Falta muy grave",
+            "text": "<p>Con cada falta muy grave, solo dispondrá de <strong>2€</strong> para comprar sobres y sellos.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Fase 1",
+        "text": "<p>Se mantienen los privilegios de la fase anterior y se <strong>añaden los siguientes</strong>:</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Vestuario",
+            "text": "<p>Podrá tener en su habitación cinco mudas de ropa propia y un par de calzado y las deportivas del centro, además de su ropa interior propia.</p>"
+          },
+          {
+            "title": "Acceso a MP3",
+            "text": "<p>Acceso a un MP3 sin grabadora. Si el menor no dispone de uno, el centro le proporcionará uno, que costeará el propio menor (4€). Cuando esté cumpliendo SAR, no podrá usarlo. Si el menor tiene PCCAA, no podrá usarlo en la habitación.</p>"
+          },
+          {
+            "title": "Accesorios personales",
+            "text": "<p>Podrá tener un reloj sencillo de plástico. Podrá usar pendientes/piercing para salir al exterior. Todos los sábados podrán utilizar dos pendientes/piercing por la noche. A la mañana siguiente, deben entregarlos al equipo educativo.</p>"
+          },
+          {
+            "title": "Juegos y ocio",
+            "text": "<p>Podrá usar todos los juegos de mesa de la Unidad, y jugar al tenis de mesa y futbolín, en sus tiempos de ocio. Durante el ocio, siempre y cuando disponga de él, tendrá acceso a un kit de escritura en el que encontrará: lápiz, goma, bolígrafo y un paquete de doce lápices de colores. Podrá solicitar al Equipo Educativo que le imprima un dibujo en el tiempo de ocio después de comer los lunes y jueves.</p>"
+          },
+          {
+            "title": "Videollamadas",
+            "text": "<p>Si el interno tiene una medida en régimen cerrado de más de dos años de duración, tendrá opción, si consigue las dos llamadas de incentivo antes mencionadas, a una video llamada al mes, atendiendo a sus restricciones en las comunicaciones; los tutelados nos acogeremos a lo que diga el SPI.</p>"
+          },
+          {
+            "title": "Decoración y lectura",
+            "text": "<p>Podrá tener en su corchera/panel de fotos: dos fotografías, siempre y cuando sus imágenes no sean ni recuerden acciones ilegales o no educativas en el centro. En su habitación podrá tener un libro, el cual será el que se esté leyendo, siendo responsable de su estado y mantenimiento. En su habitación podrá tener cartas personales/correspondencia, hasta un máximo de 10 folios.</p>"
+          },
+          {
+            "title": "Televisión",
+            "text": "<p>Podrá elegir qué ver en la televisión, bajo consenso entre todos y con supervisión del equipo educativo; podrá coger el mando a distancia.</p>"
+          },
+          {
+            "title": "Hora de descanso",
+            "text": "<p>Hora máxima de acostarse 22:20h. A esa hora tendrá que estar acostado y con la puerta cerrada.</p>"
+          },
+          {
+            "title": "Higiene personal",
+            "text": "<p>Después de la ducha, siempre y cuando haya tiempo suficiente hasta la siguiente actividad, podrá usar la plancha del pelo o secador.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque4/images/id 16.jpg",
+        "objectPosition": "center top",
+        "contentAlign": "end",
+        "title": "Comunicaciones",
+        "text": "<ul><li>Podrá recibir una video llamada de cinco minutos al día todos los días de la semana.</li><li>Si consigue ganar todos los créditos del día 1 al 15 del mes, emitirá una llamada de incentivo.</li><li>Si consigue ganar todos los créditos del día 16 al 30 del mes, emitirá una llamada de incentivo.</li></ul>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 17,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque4/images/id 17.jpg",
+        "contentAlign": "end",
+        "title": "Productos de higiene",
+        "text": "<p>Podrá tener acceso a <strong>productos de higiene propios</strong>: champú y gel, desodorante, crema hidratante, dentífrico, cacao, colonia (en dosificador de plástico), mascarilla facial, sérum, crema hidratante, aceite capilar, gomina, espuma capilar, espuma de afeitar, cera, otros.</p><p>Todos los productos serán <strong>custodiados por el Equipo Educativo</strong> que se los proporcionará en los tiempos destinados para ello. Tendrá en la caja del menor solamente <strong>un producto de cada</strong>. Si tuviera más productos de cada se guardarán en las <strong>pertenencias del menor</strong>.</p>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 18,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Asignación semanal",
+        "text": "<p>Tendrá una asignación semanal de <strong>8€</strong>, de los cuales podrá gastarse <strong>3€</strong> (para comprar sobres y sellos podrá gastarse lo que quiera del dinero total del que disponga, salvo que tenga que saldar alguna deuda contraída en el Centro).</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "falta-leve-f1",
+            "label": "Falta leve",
+            "text": "<p>Con cada falta leve se le restará <strong>1€</strong>.</p>"
+          },
+          {
+            "id": "falta-grave-f1",
+            "label": "Falta grave",
+            "text": "<p>Con cada falta grave se le restarán <strong>2€</strong>.</p>"
+          },
+          {
+            "id": "falta-muy-grave-f1",
+            "label": "Falta muy grave",
+            "text": "<p>Con cada falta muy grave, <strong>no podrá hacer pedido</strong>.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Fase 2",
+        "text": "<p>Se mantienen los privilegios de la fase anterior y se <strong>añaden los siguientes</strong>:</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Vestuario adicional",
+            "text": "<p>Podrá tener en su habitación seis mudas de ropa propia y dos pares de calzado y las deportivas del centro, además de ropa interior propia.</p>"
+          },
+          {
+            "title": "Videoconsola",
+            "text": "<p>Los viernes, sábados y domingos podrán usar la videoconsola después de comer desde las 15:30h, durante el tiempo de ocio.</p>"
+          },
+          {
+            "title": "Kit de arte y coloración",
+            "text": "<p>Durante el ocio, siempre y cuando disponga de él, tendrá acceso al kit de la fase 1 y un paquete de doce rotuladores de colores. Podrá solicitar al Equipo Educativo que le imprima dos dibujos en el tiempo de ocio después de comer los lunes y jueves.</p>"
+          },
+          {
+            "title": "Decoración y lectura",
+            "text": "<p>Podrá tener en su corchera/panel de fotos: cuatro fotografías, siempre y cuando sus imágenes no sean ni recuerden acciones ilegales o no educativas en el centro. Podrá tener en su habitación un libro y una revista o un cómic siempre y cuando sus contenidos sean compatibles con la normativa interna del centro.</p>"
+          },
+          {
+            "title": "Accesorios personales",
+            "text": "<p>Todos los sábados podrán utilizar tres pendientes/piercing por la noche. A la mañana siguiente, deben entregarlos al equipo educativo.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque4/images/id 20.jpg",
+        "objectPosition": "center top",
+        "title": "Comunicaciones",
+        "text": "<ul><li>Podrá realizar una llamada más (3 en total) de diez minutos a la semana (no acumulativas y en días distintos).</li><li>Podrá recibir una llamada de siete minutos al día todos los días de la semana.</li></ul>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 21,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Asignación semanal",
+        "text": "<p>Tendrá una asignación semanal de <strong>8€</strong>, de los cuales podrá gastarse <strong>4€</strong> (para comprar sobres y sellos podrá gastarse lo que quiera del dinero total del que disponga, salvo que tenga que saldar alguna deuda contraída en el Centro).</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "falta-leve-f2",
+            "label": "Falta leve",
+            "text": "<p>Con cada falta leve se le restarán <strong>1€</strong> de los 8€.</p>"
+          },
+          {
+            "id": "falta-grave-f2",
+            "label": "Falta grave",
+            "text": "<p>Con cada falta grave se le restarán <strong>2€</strong> de los 8€.</p>"
+          },
+          {
+            "id": "falta-muy-grave-f2",
+            "label": "Falta muy grave",
+            "text": "<p>Con cada falta muy grave, solo dispondrá de <strong>2€</strong> para comprar sobres y sellos.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Fase 3",
+        "text": "<p>Se mantienen los privilegios de la fase anterior y se <strong>añaden los siguientes</strong>:</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Vestuario adicional",
+            "text": "<p>Podrá tener en su habitación siete mudas de ropa propia y tres pares de calzado y de las deportivas del centro, además de ropa interior propia.</p>"
+          },
+          {
+            "title": "Videoconsola y lectura",
+            "text": "<p>Disfrutará de la videoconsola todos los días durante los tiempos de ocio de después de comer, desde las 15:30h. Podrá tener en su habitación dos libros, una revista o un cómic y un libro de pasatiempos.</p>"
+          },
+          {
+            "title": "Llamadas telefónicas",
+            "text": "<p>Podrá realizar una llamada más (4 en total), de diez minutos a la semana.</p>"
+          },
+          {
+            "title": "Decoración personal",
+            "text": "<p>Podrá tener en su corchera/panel de fotos: ocho fotografías y dos dibujos, siempre y cuando sus imágenes no sean ni recuerden acciones ilegales o no educativas en el centro.</p>"
+          },
+          {
+            "title": "Estética personal",
+            "text": "<p>Dos veces por semana podrán afeitarse la barba. Podrá tener acceso a productos de estética facial (lápiz de ojos, rímel, polvos y pintauñas), siempre bajo supervisión y custodia del Equipo Educativo.</p>"
+          },
+          {
+            "title": "Arte e impresiones",
+            "text": "<p>Podrá solicitar al Equipo Educativo que le imprima tres dibujos en el tiempo de ocio después de comer los lunes y jueves. Los sábados podrá elegir una película, de las que se encuentren en la unidad, para verla todos juntos.</p>"
+          },
+          {
+            "title": "Accesorios personales",
+            "text": "<p>Todos los sábados podrán utilizar cuatro pendientes/piercing por la noche. A la mañana siguiente, deben entregarlos al equipo educativo.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Asignación semanal",
+        "text": "<p>Tendrá una asignación semanal de <strong>8€</strong>, de los cuales podrá gastarse <strong>5€</strong> (para comprar sobres y sellos podrá gastarse lo que quiera del dinero total del que disponga, salvo que tenga que saldar alguna deuda contraída en el Centro).</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "falta-leve-f3",
+            "label": "Falta leve",
+            "text": "<p>Con cada falta leve se le restarán <strong>1€</strong> de los 8€.</p>"
+          },
+          {
+            "id": "falta-grave-f3",
+            "label": "Falta grave",
+            "text": "<p>Con cada falta grave se le restarán <strong>2€</strong> de los 8€.</p>"
+          },
+          {
+            "id": "falta-muy-grave-f3",
+            "label": "Falta muy grave",
+            "text": "<p>Con cada falta muy grave, solo dispondrá de <strong>2€</strong> para comprar sobres y sellos.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Fase 4",
+        "text": "<p>Se mantienen los privilegios de la fase anterior y se <strong>añaden los siguientes</strong>:</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Vestuario adicional",
+            "text": "<p>Podrá tener en su habitación ocho mudas de ropa propia y tres pares de calzado y las deportivas del centro, además de ropa interior propia.</p>"
+          },
+          {
+            "title": "Comunicaciones",
+            "text": "<p>Podrá recibir todos los días una llamada de diez minutos cada una. Podrá realizar una videollamada de diez minutos a la semana en el lugar que el equipo educativo haya estipulado a las personas que tenga autorizadas en las llamadas semanales.</p>"
+          },
+          {
+            "title": "Decoración personal",
+            "text": "<p>Podrá tener en su corchera/panel de fotos: llena de fotografías y dibujos, siempre y cuando sus imágenes no sean ni recuerden acciones ilegales o no educativas en el centro.</p>"
+          },
+          {
+            "title": "Dispositivos personales",
+            "text": "<p>Podrán disponer en su cuarto de una PSP (sin cámara ni grabadora) o un libro electrónico de su propiedad, siempre que haga buen uso de ello y no lo comparta con los compañeros que no tienen este privilegio. En la habitación solo podrá tener un juego, el resto lo mantendrá con sus pertenencias que custodia el equipo educativo.</p>"
+          },
+          {
+            "title": "Accesorios personales",
+            "text": "<p>Podrá tener dos pendientes/piercing de punto, nunca de aro, en las orejas o nariz.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Asignación semanal",
+        "text": "<p>Tendrá una asignación semanal de <strong>8€</strong>, de los cuales podrá gastarse <strong>6€</strong> (para comprar sobres y sellos podrá gastarse lo que quiera del dinero total del que disponga, salvo que tenga que saldar alguna deuda contraída en el Centro).</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "falta-leve-f4",
+            "label": "Falta leve",
+            "text": "<p>Con cada falta leve se le restarán <strong>1€</strong> de los 8€.</p>"
+          },
+          {
+            "id": "falta-grave-f4",
+            "label": "Falta grave",
+            "text": "<p>Con cada falta grave se le restarán <strong>2€</strong> de los 8€.</p>"
+          },
+          {
+            "id": "falta-muy-grave-f4",
+            "label": "Falta muy grave",
+            "text": "<p>Con cada falta muy grave, solo dispondrá de <strong>2€</strong> para comprar sobres y sellos.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Fase 5",
+        "text": "<p>Se mantienen los privilegios de la fase anterior y se <strong>añaden los siguientes</strong>:</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Videollamadas adicionales",
+            "text": "<p>Podrá realizar dos videollamadas de diez minutos a la semana en el lugar que el equipo educativo haya estipulado a las personas que tenga autorizadas en las llamadas semanales.</p>"
+          },
+          {
+            "title": "Decoración de habitación",
+            "text": "<p>Podrá tener y colgar en una de las paredes de su habitación un póster a su elección siempre y cuando los símbolos y lo que represente estén dentro de la normativa interna del centro.</p>"
+          },
+          {
+            "title": "Lectura y materiales",
+            "text": "<p>Podrá tener varios libros y revistas en su habitación. Ésta será de su elección siempre y cuando sus contenidos sean compatibles con la normativa interna del centro.</p>"
+          },
+          {
+            "title": "Accesorios personales",
+            "text": "<p>Podrá tener tres pendientes/piercing de punto, nunca de aro, en las orejas o nariz.</p>"
+          },
+          {
+            "title": "Servicio de comidas a domicilio",
+            "text": "<p>Cada viernes o sábado podrá solicitar una cena a domicilio que pagará con su dinero (máximo 15€).</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Asignación semanal",
+        "text": "<p>Tendrá una asignación semanal de <strong>8€</strong>, de los cuales podrá gastarse <strong>5€</strong> (para comprar sobres y sellos podrá gastarse lo que quiera del dinero total del que disponga, salvo que tenga que saldar alguna deuda contraída en el Centro).</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "falta-leve-f5",
+            "label": "Falta leve",
+            "text": "<p>Con cada falta leve se le restarán <strong>1€</strong> de los 8€.</p>"
+          },
+          {
+            "id": "falta-grave-f5",
+            "label": "Falta grave",
+            "text": "<p>Con cada falta grave se le restarán <strong>2€</strong> de los 8€.</p>"
+          },
+          {
+            "id": "falta-muy-grave-f5",
+            "label": "Falta muy grave",
+            "text": "<p>Con cada falta muy grave, solo dispondrá de <strong>2€</strong> para comprar sobres y sellos.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "layout": "section-cover",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "sectionTitle": "Autonomía",
+        "image": "./contents/course-bloque4/images/id 28.jpg",
+        "imagePosition": "left",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1
+      }
+    },
+    {
+      "id": 29,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "blocking": true,
+        "titlePosition": "top",
+        "title": "Requisitos para ser autónomo",
+        "text": "<p>Será autónomo a propuesta del Equipo Educativo y siempre previa autorización de la Coordinación del Centro. Podrá disfrutar de los privilegios de fase 5, pero si pierden la condición de autónomo volverán a tener los privilegios de la fase que le corresponden según sus créditos.</p>",
+        "images": [
+          {
+            "id": "ii-27-1",
+            "image": "./contents/course-bloque4/images/id 29.jpg",
+            "title": "A estos privilegios se añaden los siguientes:",
+            "overlayContent": "<ul><li>Implicarse en su proceso educativo en el centro.</li><li>Demostrar ser responsable en los diferentes ámbitos del centro.</li><li>Realizar sus obligaciones de forma autónoma.</li><li>Ser un referente positivo y mediador ante el conflicto en el grupo.</li><li>Actitud colaboradora y participativa.</li><li>Respetar todas las normas del centro y tener buen comportamiento sin necesidad de supervisión educativa.</li><li>Predisposición para colaborar ciertas tareas que puedan surgir en la dinámica del centro y que requieran cierta responsabilidad.</li></ul>"
+          }
+        ],
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 30,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Privilegios de la condición de autónomo",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideRight",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "contentAlign": "start",
+        "iconDirection": "vertical",
+        "iconJustify": "space-around",
+        "inline": true,
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "auto-1",
+            "icon": "fi fi-tr-shirt-long-sleeve",
+            "title": "",
+            "text": "<p>Los menores/jóvenes podrán disponer de toda su ropa en sus dormitorios. Se podrá acostar a las 00.00h, permaneciendo en la sala común, siempre supervisado por el equipo educativo.</p>"
+          },
+          {
+            "id": "auto-2",
+            "icon": "fi fi-tr-swimming-pool",
+            "title": "",
+            "text": "<p>Podrá disfrutar del tiempo libre en patio, piscina o en cualquier otro lugar habilitado para ello, deberán siempre estar autorizados/as por el coordinador/a del turno.</p>"
+          },
+          {
+            "id": "auto-3",
+            "icon": "fi fi-tr-door-open",
+            "title": "",
+            "text": "<p>Si el menor está disfrutando de su itinerario de salidas y permisos, podrá salir diariamente durante un tiempo estipulado y siempre deberán estar autorizados/as por la coordinación del turno, durante un tiempo máximo de 1 hora. Podrán sacar su teléfono móvil durante esta hora de salida (salvo que tengan prohibición de comunicación con alguna persona durante su internamiento), y su dinero (2€)</p>"
+          },
+          {
+            "id": "auto-4",
+            "icon": "fi fi-tr-phone-call",
+            "title": "",
+            "text": "<p>Hacer una llamada extra (a quien quieran-salvo resoluciones judiciales) cada vez que el interno logre sumar 7 días consecutivos con los 2 créditos diarios. (desde fase 1).</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque4/images/id 31.jpg",
+        "title": "Sistema de fases en el marco de intervención en CRZ",
+        "text": "<p>Con el objetivo general de garantizar estos principios antes expuestos, se está implementado en el CRZ un sistema de privilegios por fases con la finalidad de <strong>incrementar las conductas positivas y eliminar las conductas inadecuadas</strong>, así como dar <strong>cumplimiento de las normas de funcionamiento del centro</strong>.</p>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 32,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque4/images/id 32.jpg",
+        "title": "Comportamientos recompensados",
+        "text": "<p>Los comportamientos del menor que pongan de manifiesto adquisición de habilidades, desarrollo adecuado de rutinas, esfuerzo y motivación para el cambio, sentido de la responsabilidad, solidaridad, así como la participación positiva en las actividades derivadas del PIE, serán recompensadas con este sistema de privilegios por fases.</p>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 33,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque4/images/id 33.jpg",
+        "title": "Marco normativo de la asignación económica",
+        "text": "<p>La resolución del 16 de mayo de 2024 de la Gerencia de Servicios Sociales de Castilla y León, por la que se convoca la acción concertada en el ámbito de infancia para la prestación del servicio de atención residencial para menores infractores en el Centro Zambrana, en su apartado 3.2 dice: <em>\"corresponderá a la entidad concertada facilitar a los menores y jóvenes las asignaciones económicas necesarias para la atención de sus gastos personales. A tal fin se asignará a cada menor una cantidad mínima semanal de ocho euros cuya disponibilidad estará condicionada a los criterios establecidos por la dirección del centro\"</em>.</p>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 34,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "blocking": true,
+        "titlePosition": "top",
+        "title": "Asignación económica semanal a los menores",
+        "text": "<p>Atendiendo a la citada resolución todos los menores dispondrán de una cantidad de 8€ desde el día de su ingreso en el centro, esta cantidad podrán gastarla en su pedido semanal y dependiendo de la fase en la que se encuentre, en chucherías, sobres, sellos, refrescos, bollería...</p>",
+        "images": [
+          {
+            "id": "ii-34-1",
+            "image": "./contents/course-bloque4/images/id 34.jpg",
+            "title": "De forma consensuada por el Equipo Socioeducativo:",
+            "titleTheme": "light",
+            "overlayContent": "<p>Por ello se ha establecido de forma consensuada por el Equipo Socioeducativo, una cantidad a gastar de esta asignación en cada fase en la que se encuentre el menor, y que según progresan de fase se verá incrementada y a la vez cuando cometan faltas disciplinarias y en función de la calificación de esta falta podrán ser restadas cantidades de esta asignación semanal.</p>"
+          }
+        ],
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 35,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "title": "Título pendiente",
+        "text": "<p>En todo caso todos los menores independientemente de la fase en la que se encuentren podrán comprar los sobres y sellos hasta un máximo de 2 euros semanales, abonándolos con su paga semanal, si se quedaran sin paga para gastar, siempre podrán comprarlos con la parte mínima de dos euros asignada en la fase 0.</p><p>El dinero ahorrado de esta asignación mensual se le entregarán cuando cause baja.</p><table><tbody><tr><td><strong>Fase 0 – Ingreso y observación</strong></td><td>Podrá gastar 2€</td></tr><tr><td><strong>Fase 1</strong></td><td>Podrá gastar 3€</td></tr><tr><td><strong>Fase 2</strong></td><td>Podrá gastar 4€</td></tr><tr><td><strong>Fase 3</strong></td><td>Podrá gastar 5€</td></tr><tr><td><strong>Fase 4</strong></td><td>Podrá gastar 6€</td></tr><tr><td><strong>Fase 5</strong></td><td>Podrá gastar 8€</td></tr></tbody></table>",
+        "iconPopup": {
+          "icon": "fi fi-br-coin",
+          "popupTitle": "Deducciones por faltas",
+          "popupContent": "<ul><li>Con cada falta <strong>leve</strong> se le restará <strong>1€</strong> de los 8€.</li><li>Con cada falta <strong>grave</strong> se le restará <strong>2€</strong> de los 8€.</li><li>Con cada falta <strong>muy grave</strong>, solo dispondrá de <strong>2€</strong> para comprar sobres y sellos.</li></ul>"
+        },
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 36,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque4/images/id 36.jpg",
+        "title": "Actuaciones de preparación del daño",
+        "text": "<p>Cuando el menor realice una acción que suponga un daño o consecuencia negativa para otra persona o en las instalaciones o materiales del centro, esta asignación semanal económica podrá ir encaminada a la reparación del daño causado, por lo que el menor podrá hacer frente a la reposición de materiales o pago de desperfectos originados durante su internamiento, así como al pago de la Responsabilidad Civil derivada de la comisión de los hechos delictivos por los que cumple medida en el CRZ.</p>",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 37,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque4/images/id 37.jpg",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "title": "Compromiso de pago",
+        "text": "<p>Para realizar el pago de Responsabilidad Civil el menor firmara un <strong>\"Compromiso de Pago\"</strong> en el que se comprometerá a abonar la cantidad fija de 2€ cada semana, procedente del total de asignación semanal recibida, y además podrá ampliar el ingreso de manera voluntaria cuando desee.</p>",
+        "overlayContent": "<p>En este compromiso constara la fecha de inicio y finalizará cuando acabe de pagar la cantidad designada o cause baja en el Centro. Además puede ser revisado y cesar en cualquier momento y el pago se ingresará en la cuenta del Juzgado que lo requiere, con carácter trimestral.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95,
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        }
+      }
+    },
+    {
+      "id": 38,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Suma y resta de créditos",
+        "image": "./contents/course-bloque4/images/id 38.jpg",
+        "imagePosition": "left",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1
+      }
+    },
+    {
+      "id": 39,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque4/images/id 39.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.12
+        },
+        "contentAlign": "start",
+        "title": "Inclumplimiento del Deber",
+        "text": "<p>Cuando algún chico incumple la normativa o tiene un comportamiento inadecuado le llamamos <strong>Incumplimiento del Deber (ID)</strong> y el menor no alcanzará el crédito del turno donde se produzcan dichos hechos.</p>"
+      }
+    },
+    {
+      "id": 40,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque4/images/id 40.jpg",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Corrección Educativa",
+        "text": "<p>Cuando un menor tiene un ID el equipo educativo actúa aplicando una <strong>Corrección Educativa (CE)</strong>, equivalente a lo que actualmente se ha venido llamando Medida Correctora. Esa CE puede ser muy diversa dependiendo del menor y de la causa del ID, variando desde una charla educativa (antes, durante o después de la comunicación del ID al menor), hasta restauración del daño causado, pedir disculpas, realizar una tarea escrita relacionada con los hechos en el tiempo de ocio, etc.</p><p>Pulsa sobre la imagen para saber más.</p>",
+        "overlayContent": "<p>Sin embargo, en ocasiones puntuales puede suceder que un menor tenga un comportamiento inadecuado no muy relevante pero que queremos corregir, y el resto del turno ha tenido un comportamiento muy bueno. En esos casos podemos decidir aplicar una CE sin que pierda el crédito.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 41,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Condiciones",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "cond-1",
+            "title": "Sin ID",
+            "text": "<p>Si un menor <strong>no tiene ningún ID</strong> durante un turno alcanza su crédito y se marca con <strong>C</strong>.</p>"
+          },
+          {
+            "id": "cond-2",
+            "title": "Uno o dos ID",
+            "text": "<p>Si un menor tiene <strong>uno o dos ID</strong> en un turno no obtendrá el crédito de ese turno (mañana o tarde). La pérdida de crédito se marca con <strong>V</strong> (vacío).</p>"
+          },
+          {
+            "id": "cond-3",
+            "title": "Tres o más ID",
+            "text": "<p>Si un menor tiene <strong>tres o más ID</strong> un mismo día, da igual si son por mañana, por tarde o algunas por la mañana y otras por la tarde, no conseguirá ningún crédito ese día y se le restará el <strong>5%</strong> de los obtenidos hasta ese momento.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Hechos de falta",
+        "titleAnimation": {
+          "type": "slideRight",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideRight",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "contentAlign": "start",
+        "iconDirection": "vertical",
+        "iconJustify": "space-around",
+        "exclusive": false,
+        "closable": true,
+        "items": [
+          {
+            "id": "falta-1",
+            "icon": "fi fi-tr-flag",
+            "title": "Falta leve",
+            "text": "<p>Si un menor protagoniza hechos de falta leve, no conseguirá ningún crédito ese día, ni por la mañana ni por la tarde, y se le restará el <strong>10%</strong> de los obtenidos hasta ese momento.</p>"
+          },
+          {
+            "id": "falta-2",
+            "icon": "fi fi-tr-shield-exclamation",
+            "title": "Falta grave",
+            "text": "<p>Si un menor protagoniza hechos de falta grave, no conseguirá ningún crédito ese día y se le restará el <strong>15%</strong> de los obtenidos hasta ese momento. En los dos turnos se marca <strong>V</strong>.</p>"
+          },
+          {
+            "id": "falta-3",
+            "icon": "fi fi-tr-triangle-warning",
+            "title": "Falta muy grave",
+            "text": "<p>Si un menor protagoniza hechos de falta muy grave, no conseguirá ningún crédito ese día y se le restará el <strong>50%</strong> de los obtenidos hasta ese momento. En los dos turnos se marca <strong>V</strong>.</p>"
+          },
+          {
+            "id": "falta-4",
+            "icon": "fi fi-tr-moon",
+            "title": "Turno de noche",
+            "text": "<p>Cuando un menor protagoniza alguna incidencia en el turno de noche merecedora de ID o expediente disciplinario, se considerarán del día que acaba de pasar, no del siguiente, y los créditos se restarán de ese día anterior. Esto es así, ya que, si se restasen del siguiente, el menor ya daría el día por perdido y afectaría a su comportamiento.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Créditos incentivos por buen comportamiento",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "text": "<p>Si un menor pasa una semana sin perder ningún crédito sumará <strong>4 créditos extra</strong>.</p>"
+          },
+          {
+            "text": "<p>Si pasa dos semanas sin perder ningún crédito sumará <strong>8 créditos extra</strong>.</p>"
+          },
+          {
+            "text": "<p>Si pasa tres semanas sin perder ningún crédito sumará <strong>12 créditos extra</strong>.</p>"
+          },
+          {
+            "text": "<p>Si pasa cuatro semanas sin perder ningún crédito sumará <strong>16 créditos</strong>.</p>"
+          },
+          {
+            "text": "<p>A partir de la quinta semana sin perder ningún crédito se le seguirá sumando <strong>16 créditos extra</strong>.</p>"
+          },
+          {
+            "text": "<p>Si estando en proceso de suma de créditos por incentivos se pierde algún crédito, se suspende. A partir de entonces, cuando vuelva a tener semanas sin perder créditos se vuelve a iniciar desde <strong>+4</strong>.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque4/images/id 44.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.12
+        },
+        "title": "Efectividad",
+        "text": "<p>Las pérdidas o consecución de créditos no se consideran efectivos hasta la apertura de la unidad el día siguiente, ya que por la noche los menores pueden protagonizar hechos que les afecte a los créditos del día que acaba de pasar.</p>"
+      }
+    },
+    {
+      "id": 45,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Comunicación de pérdida de crédito",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "text": "<p>Diariamente, hay que comunicar la pérdida del crédito a los/as menores. Esta comunicación debe ser <strong>consensuada y aprobada</strong> por la Coordinación de centro.</p>"
+          },
+          {
+            "text": "<p>Normalmente se suele comunicar antes de que acabe el turno y, siempre, viendo cuando es el <strong>momento más oportuno</strong>, teniendo en cuenta las posibles consecuencias de dicha comunicación.</p>"
+          },
+          {
+            "text": "<p>La comunicación se debe hacer en un <strong>lugar visible</strong> para los VS por si la situación se complica, es decir, el menor no reacciona bien y se pone más nervioso, alterado, etc.</p>"
+          },
+          {
+            "text": "<p>Durante la comunicación, el resto de menores debe permanecer dentro de sus <strong>habitaciones con puerta cerrada</strong>.</p>"
+          },
+          {
+            "text": "<p>Una vez que Coordinación nos dé permiso para comunicar, se informará al <strong>equipo de seguridad</strong> para que esté pendiente de la comunicación.</p>"
+          },
+          {
+            "text": "<p>Las comunicaciones deben ser <strong>claras, concisas</strong> teniendo una duración del mínimo tiempo posible. Las charlas educativas se podrán hacer siempre y cuando el/a menor tenga una actitud correcta y mantenga una escucha activa.</p>"
+          },
+          {
+            "text": "<p>No se debe comunicar a la vez en varias unidades, es decir, se irán realizando <strong>por orden</strong>, con previa autorización del equipo de coordinación y equipo de seguridad.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Criterios de actuación del personal de seguridad en el centro de reforma de menores Zambrana",
+        "image": "./contents/course-bloque4/images/id 46.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1
+      }
+    },
+    {
+      "id": 47,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque4/images/id 47.jpg",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Marco general y finalidad del documento",
+        "text": "<p>El documento establece los criterios operativos que deben regir la actuación del personal de seguridad en un centro de reforma de menores. Su finalidad principal es garantizar:</p><ul><li>La seguridad del centro.</li><li>La protección de los menores internos.</li><li>La integridad del personal.</li><li>El mantenimiento del orden.</li><li>El respeto a la legalidad y a los derechos fundamentales.</li></ul><p>Pulsa sobre la imagen para saber más.</p>",
+        "overlayContent": "<p>Se subraya que el contexto de actuación es especialmente sensible, ya que se trata de menores sometidos a medidas judiciales, lo que exige una intervención profesional, proporcional y ajustada a derecho.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 48,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Principios rectores de actuación",
+        "text": "<p>La actuación de los vigilantes debe regirse por principios claros que delimitan su intervención:</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "princ-1",
+            "icon": "fi fi-tr-balance-scale-right",
+            "title": "Legalidad",
+            "text": "<p>Toda actuación debe ajustarse estrictamente a la <strong>normativa vigente</strong> que regula la seguridad privada y el régimen de los centros de menores.</p>"
+          },
+          {
+            "id": "princ-2",
+            "icon": "fi fi-tr-scale",
+            "title": "Proporcionalidad",
+            "text": "<p>Las medidas adoptadas deben ser <strong>adecuadas a la situación concreta</strong>, evitando actuaciones desproporcionadas o innecesarias.</p>"
+          },
+          {
+            "id": "princ-3",
+            "icon": "fi fi-tr-bullseye-arrow",
+            "title": "Congruencia y oportunidad",
+            "text": "<p>La intervención debe responder a una <strong>necesidad real</strong> y ejecutarse en el momento adecuado, utilizando el medio menos lesivo posible.</p>"
+          },
+          {
+            "id": "princ-4",
+            "icon": "fi fi-tr-hand-holding-heart",
+            "title": "Respeto a los derechos del menor",
+            "text": "<p>Dado que se trata de menores, la intervención debe preservar su <strong>dignidad, integridad física y moral</strong>.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque4/images/id 49.jpg",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Funciones del personal de seguridad",
+        "text": "<p>El documento delimita con precisión las funciones de los vigilantes dentro del centro:</p><ul><li>Control de accesos.</li><li>Vigilancia perimetral e interior.</li><li>Prevención de incidentes.</li><li>Apoyo al personal educativo cuando sea requerido.</li><li>Intervención en situaciones de alteración del orden.</li></ul><p>Pulsa sobre la imagen para saber más.</p>",
+        "overlayContent": "<p>Se aclara que los vigilantes no sustituyen al personal educativo ni asumen funciones propias de tratamiento o intervención pedagógica.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 50,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Control de accesos y registros",
+        "text": "<p>Una de las funciones esenciales es el <strong>control de entradas y salidas</strong>.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "blocking": true,
+        "items": [
+          {
+            "id": "acc-1",
+            "label": "Personas",
+            "title": "Control de personas",
+            "text": "<p>Se debe verificar la <strong>identidad</strong> de:</p><ul><li>Personal del centro.</li><li>Visitantes.</li><li>Proveedores.</li><li>Profesionales externos.</li></ul>"
+          },
+          {
+            "id": "acc-2",
+            "label": "Objetos",
+            "title": "Control de objetos",
+            "text": "<p>Se inspeccionarán paquetes, bolsos y materiales para evitar la <strong>introducción de objetos prohibidos</strong>.</p>"
+          },
+          {
+            "id": "acc-3",
+            "label": "Incidencias",
+            "title": "Registro de incidencias",
+            "text": "<p>Todo acceso relevante o situación irregular debe quedar <strong>documentado</strong>.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "title": "Actuación ante incidentes con menores",
+        "text": "<p>El documento dedica especial atención a la intervención en situaciones conflictivas.</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "incid-1",
+            "image": "./contents/course-bloque4/images/id 51.1.jpg",
+            "title": "Alteraciones del orden",
+            "popupTitle": "Alteraciones del orden",
+            "popupContent": "<p>Ante conductas agresivas, motines o desobediencia grave, la intervención debe:</p><ul><li>Intentar primero la contención verbal.</li><li>Coordinarse con el personal educativo.</li><li>Aplicar medidas físicas solo si es imprescindible.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.3,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "incid-2",
+            "image": "./contents/course-bloque4/images/51.2.jpg",
+            "title": "Uso de la fuerza",
+            "popupTitle": "Uso de la fuerza",
+            "popupContent": "<p>Solo está permitido cuando sea estrictamente necesario para:</p><ul><li>Evitar daños a personas.</li><li>Impedir fugas.</li><li>Restablecer el orden.</li></ul><p>Debe aplicarse con criterios de mínima intensidad y duración limitada.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.5,
+              "duration": 0.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque4/images/id 52.jpg",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Coordinación con el equipo educativo",
+        "text": "<p>Un elemento clave del documento es la delimitación clara de competencias.</p><ul><li>El equipo educativo dirige la intervención socioeducativa.</li><li>El personal de seguridad interviene en el ámbito estrictamente relacionado con la seguridad.</li></ul><p>Pulsa sobre la imagen para saber más.</p>",
+        "overlayContent": "<p>La comunicación entre ambos es fundamental para evitar actuaciones contradictorias o invasión de funciones.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 53,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Actuación ante intentos de fuga",
+        "text": "<p>Se establecen pautas específicas para estos casos:</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "inline": true,
+        "exclusive": true,
+        "closable": false,
+        "blocking": true,
+        "completedContent": "<p><strong>La prioridad es evitar riesgos mayores, tanto para el menor como para terceros.</strong></p>",
+        "items": [
+          {
+            "id": "fuga-1",
+            "icon": "fi fi-tr-bell-ring",
+            "title": "Activación inmediata del protocolo",
+            "text": "<p>Ante cualquier intento de fuga, se debe activar de forma inmediata el protocolo establecido por el centro, siguiendo los pasos definidos sin demora.</p>"
+          },
+          {
+            "id": "fuga-2",
+            "icon": "fi fi-tr-megaphone",
+            "title": "Comunicación al responsable del centro",
+            "text": "<p>Se debe informar al responsable del centro de manera inmediata para que coordine las acciones necesarias y active los recursos disponibles.</p>"
+          },
+          {
+            "id": "fuga-3",
+            "icon": "fi fi-tr-door-closed",
+            "title": "Cierre de accesos",
+            "text": "<p>Se procederá al cierre controlado de los accesos del centro para impedir la salida del menor, garantizando la seguridad del resto de personas.</p>"
+          },
+          {
+            "id": "fuga-4",
+            "icon": "fi fi-tr-user-shield",
+            "title": "Intervención directa solo si es viable y segura",
+            "text": "<p>La intervención física directa solo se llevará a cabo cuando sea viable y no suponga un riesgo añadido para el menor ni para terceras personas.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Intervención en situaciones de violencia",
+        "text": "<p>Cuando se produzcan agresiones entre menores o contra el personal:</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "text": "<p>Separar a las partes.</p>"
+          },
+          {
+            "text": "<p>Garantizar la seguridad inmediata.</p>"
+          },
+          {
+            "text": "<p>Solicitar apoyo si es necesario.</p>"
+          },
+          {
+            "text": "<p>Informar y documentar lo sucedido.</p>"
+          },
+          {
+            "text": "<p>El uso de técnicas de inmovilización debe ajustarse a protocolos específicos y evitar causar lesiones.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque4/images/id. 55.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.12
+        },
+        "contentAlign": "start",
+        "imageAlign": "end",
+        "objectPosition": "top",
+        "title": "Respeto a la dignidad y trato adecuado",
+        "text": "<p>El documento insiste en que el trato debe ser:</p><ul><li>Profesional.</li><li>Respetuoso.</li><li>Libre de provocaciones.</li><li>Exento de abusos verbales o físicos.</li></ul><p>La intervención debe evitar humillaciones o conductas intimidatorias innecesarias.</p>"
+      }
+    },
+    {
+      "id": 56,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque4/images/id. 56.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "contentAlign": "end",
+        "title": "Protocolos de comunicación y reporte",
+        "text": "<p>Toda actuación relevante debe:</p><ul><li>Ser comunicada al responsable jerárquico.</li><li>Quedar reflejada por escrito.</li><li>Detallar circunstancias, medidas adoptadas y resultado.</li></ul><p>La trazabilidad es esencial para garantizar transparencia y control interno.</p>"
+      }
+    },
+    {
+      "id": 57,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Actuación en situaciones especiales",
+        "text": "<p>El documento contempla escenarios específicos como:</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "exclusive": true,
+        "closable": true,
+        "completedContent": "<p>En todos los casos se exige planificación previa y coordinación institucional.</p>",
+        "items": [
+          {
+            "id": "sit-1",
+            "icon": "fi fi-tr-child",
+            "title": "Traslados de menores"
+          },
+          {
+            "id": "sit-2",
+            "icon": "fi fi-tr-route",
+            "title": "Acompañamientos externos"
+          },
+          {
+            "id": "sit-3",
+            "icon": "fi fi-tr-box-open-full",
+            "title": "Intervención en requisas"
+          },
+          {
+            "id": "sit-4",
+            "icon": "fi fi-tr-siren-on",
+            "title": "Situaciones de emergencia general"
+          }
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "title": "Límites de actuación",
+        "blocking": true,
+        "items": [
+          {
+            "id": "limit-1",
+            "image": "./contents/course-bloque4/images/id 58.1.jpg",
+            "title": "El vigilante no puede...",
+            "popupTitle": "El vigilante no puede...",
+            "popupContent": "<p>Se establece claramente lo que el vigilante no puede hacer:</p><ul><li>Aplicar sanciones disciplinarias.</li><li>Intervenir en decisiones educativas.</li><li>Utilizar fuerza fuera de los supuestos legalmente previstos.</li><li>Actuar sin coordinación cuando la situación lo permita.</li></ul><p>Estos límites protegen tanto al menor como al propio profesional.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.3,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "limit-2",
+            "image": "./contents/course-bloque4/images/id 58.2.jpg",
+            "title": "El personal de seguridad...",
+            "popupTitle": "El personal de seguridad...",
+            "popupContent": "<p>El documento recuerda que el personal de seguridad:</p><ul><li>Actúa bajo responsabilidad profesional.</li><li>Debe mantener autocontrol emocional.</li><li>Está sujeto a supervisión.</li><li>Puede responder disciplinaria o legalmente por actuaciones indebidas.</li></ul><p>Se enfatiza la importancia de la formación continua y del conocimiento de protocolos específicos.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.5,
+              "duration": 0.6
+            }
+          }
+        ],
+        "text": ""
+      }
+    },
+    {
+      "id": 59,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque4/images/id 59.jpg",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Conclusión General",
+        "text": "<p>El documento configura un modelo de actuación profesional, garantista y delimitado, donde el vigilante de seguridad:</p><ul><li>Es responsable de la protección física y el mantenimiento del orden.</li><li>Actúa bajo criterios de legalidad, proporcionalidad y mínima intervención.</li><li>Respeta la condición de menor de los internos.</li><li>Coordina su actuación con el equipo educativo.</li><li>Documenta todas las incidencias relevantes.</li></ul><p>Pulsa sobre la imagen para saber más.</p>",
+        "overlayContent": "<p>En definitiva, no se trata de un modelo coercitivo, sino de un sistema de seguridad integrado en el entorno socioeducativo del centro, donde la intervención debe ser siempre excepcional, proporcionada y jurídicamente fundamentada.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    }
+  ],
+  "meta": {
+    "title": "Medidas Correctoras, Sistemas de Fases y Economía de Fichas",
+    "identifier": "curso-bloque-4",
+    "masteryScore": 100
+  }
+}

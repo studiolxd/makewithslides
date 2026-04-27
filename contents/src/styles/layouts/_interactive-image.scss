@@ -1,0 +1,321 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+@use 'animations';
+
+// === Layout ===
+
+.layout-interactive-image {
+  @include slide-fill;
+  position: relative;
+  display: flex;
+
+  // Horizontal: left / right
+  &--left,
+  &--right {
+    flex-direction: row;
+
+    .layout-interactive-image__content {
+      height: 100%;
+    }
+
+    .layout-interactive-image__images-wrapper {
+      align-items: stretch;
+    }
+
+    .layout-interactive-image__images {
+      flex-direction: column;
+      flex-wrap: nowrap;
+      align-items: stretch;
+      height: 100%;
+    }
+
+    .ii-card {
+      flex: 1 1 0;
+      max-width: none;
+      aspect-ratio: auto;
+      min-height: 180px;
+    }
+  }
+
+  &--right {
+    .ii-card__title-block {
+      align-items: flex-end;
+    }
+  }
+
+  &--left {
+    flex-direction: row-reverse;
+  }
+
+  // Override: force title to bottom
+  &--title-bottom {
+    .ii-card__title-block {
+      top: auto;
+      bottom: $spacing-lg;
+    }
+  }
+
+  // Vertical: top / bottom
+  &--top,
+  &--bottom {
+    flex-direction: column;
+
+    .layout-interactive-image__content {
+      width: 100%;
+    }
+
+    .layout-interactive-image__images {
+      flex-wrap: nowrap;
+    }
+
+    .ii-card {
+      flex: 1 1 0;
+      max-width: none;
+    }
+  }
+
+  &--top {
+    flex-direction: column-reverse;
+  }
+
+  &--top .layout-interactive-image__images-wrapper {
+    align-items: flex-start;
+  }
+
+  &--bottom .layout-interactive-image__images-wrapper {
+    align-items: flex-end;
+  }
+
+  &__content {
+    @include flex-column;
+    flex: 1;
+    min-width: 0;
+    min-height: 0;
+    justify-content: center;
+    padding: $spacing-2xl;
+    overflow-y: auto;
+  }
+
+  &__title {
+    font-size: $font-size-2xl;
+    font-weight: $font-weight-heading;
+    color: $color-primary;
+    margin: 0 0 $spacing-lg;
+  }
+
+  &__text {
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    color: $color-text;
+
+    p {
+      margin: 0 0 $spacing-md;
+    }
+
+    ul,
+    ol {
+      margin: 0 0 $spacing-md;
+      padding-left: $spacing-lg;
+    }
+
+    li {
+      margin-bottom: $spacing-xs;
+    }
+
+    strong {
+      color: $color-primary;
+    }
+  }
+
+  &__images-wrapper {
+    position: relative;
+    flex-shrink: 0;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding: $spacing-lg;
+    overflow: hidden;
+    max-height: 100%;
+  }
+
+  &__images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: $spacing-md;
+    align-items: center;
+    
+    width: 100%;
+  }
+}
+
+// === Interactive Card ===
+
+.ii-card {
+  position: relative;
+  border: none;
+  padding: 0;
+  background: none;
+  cursor: pointer;
+  overflow: hidden;
+  flex: 1 1 calc(50% - #{$spacing-md});
+  max-width: calc(50% - #{$spacing-md} / 2);
+  aspect-ratio: 4 / 3;
+  transition: transform $transition-normal;
+
+  &:hover:not(.ii-card--open) {
+    transform: scale(var(--hover-scale, 0.85));
+  }
+
+  // Bloqueantes: hover más suave y lento
+  &--blocking {
+    transition: transform 0.5s ease;
+
+    &.ii-card--open {
+      cursor: default;
+    }
+  }
+
+  &:focus-visible {
+    outline: 3px solid $color-focus;
+    outline-offset: 2px;
+  }
+
+  &__image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  // Título siempre visible, arriba-derecha
+  &__title-block {
+    position: absolute;
+    top: $spacing-lg;
+    left: $spacing-lg;
+    right: $spacing-lg;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: $spacing-xs;
+    z-index: 3;
+
+    // Tema oscuro: título y línea en negro (solo sin overlay)
+    &--dark .ii-card__title {
+      color: $color-text-dark;
+      text-shadow: 0 1px 4px rgba($color-white, 0.5);
+    }
+
+    // Con overlay abierto: siempre light
+    .ii-card--open &--dark .ii-card__title {
+      color: $color-white;
+      text-shadow: 0 1px 4px $overlay-dark;
+    }
+  }
+
+  &__title {
+    font-family: $font-family-headings;
+    font-size: $font-size-xl;
+    font-weight: $font-weight-heading;
+    color: $color-white;
+    text-shadow: 0 1px 4px $overlay-dark;
+    text-align: right;
+  }
+
+  // Línea decorativa: aparece al pulsar, de derecha a izquierda, ancho completo
+  &__title-line {
+    display: block;
+    width: 100%;
+    height: 1px;
+    background: $color-white;
+    transform-origin: right;
+    transform: scaleX(0);
+    animation: ii-line-grow 0.6s ease-out forwards;
+  }
+
+  // Overlay: cubre toda la imagen
+  &__overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba($color-primary, 0.85);
+    animation: it-fadeIn 0.3s ease-out forwards;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__overlay-content {
+    flex: 1;
+    margin: calc(#{$spacing-lg} + 4.5em) $spacing-lg $spacing-lg;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    color: $color-white;
+
+    &::before {
+      content: '';
+      flex: 1 1 auto;
+    }
+    font-family: $font-family;
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    text-align: left;
+
+    p {
+      margin: 0 0 $spacing-sm;
+    }
+
+    strong {
+      color: $color-white;
+    }
+  }
+}
+
+@keyframes ii-line-grow {
+  to {
+    transform: scaleX(1);
+  }
+}
+
+// === Help Tooltip ===
+
+.help-tooltip {
+  position: absolute;
+  top: $spacing-md;
+  right: $spacing-md;
+  z-index: 10;
+
+  &__trigger {
+    border: none;
+    background: none;
+    color: $color-primary;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0;
+    transition: opacity $transition-fast;
+
+    &:hover {
+      opacity: 0.7;
+    }
+
+    &:focus-visible {
+      outline: 3px solid $color-focus;
+      outline-offset: 2px;
+    }
+  }
+
+  &__content {
+    position: absolute;
+    background: $color-text-dark;
+    color: $color-white;
+    padding: $spacing-sm $spacing-md;
+    border-radius: $border-radius-sm;
+    font-size: 14px;
+    white-space: nowrap;
+    pointer-events: none;
+    animation: it-fadeIn 0.2s ease-out forwards;
+  }
+}

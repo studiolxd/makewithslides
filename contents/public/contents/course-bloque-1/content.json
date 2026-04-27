@@ -1,0 +1,2590 @@
+{
+  "config": {
+    "lockIndex": false,
+    "scormVersion": "1.2"
+  },
+  "index": [
+    {
+      "title": "Portada",
+      "numbered": false,
+      "level": 1,
+      "slideId": 0
+    },
+    {
+      "title": "La Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores (LORPM)",
+      "numbered": true,
+      "level": 1,
+      "slideId": 2
+    },
+    {
+      "title": "Finalidad y principios generales",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3
+    },
+    {
+      "title": "Ámbito de aplicación",
+      "numbered": true,
+      "level": 3,
+      "slideId": 4
+    },
+    {
+      "title": "Principios rectores",
+      "numbered": true,
+      "level": 3,
+      "slideId": 5
+    },
+    {
+      "title": "Responsabilidad penal del menor",
+      "numbered": true,
+      "level": 2,
+      "slideId": 6
+    },
+    {
+      "title": "Medidas aplicables",
+      "numbered": true,
+      "level": 2,
+      "slideId": 7
+    },
+    {
+      "title": "Tipos de medidas",
+      "numbered": true,
+      "level": 3,
+      "slideId": 8
+    },
+    {
+      "title": "Duración de las medidas",
+      "numbered": true,
+      "level": 3,
+      "slideId": 9
+    },
+    {
+      "title": "Procedimiento ante los Juzgados de Menores",
+      "numbered": true,
+      "level": 2,
+      "slideId": 10
+    },
+    {
+      "title": "Ejecución de las medidas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 11
+    },
+    {
+      "title": "Responsabilidad civil",
+      "numbered": true,
+      "level": 2,
+      "slideId": 12
+    },
+    {
+      "title": "Conciliación y reparación",
+      "numbered": true,
+      "level": 2,
+      "slideId": 13
+    },
+    {
+      "title": "Derechos del menor",
+      "numbered": true,
+      "level": 2,
+      "slideId": 14
+    },
+    {
+      "title": "Especialización del sistema",
+      "numbered": true,
+      "level": 2,
+      "slideId": 15
+    },
+    {
+      "title": "Reformas posteriores",
+      "numbered": true,
+      "level": 2,
+      "slideId": 16
+    },
+    {
+      "title": "Valoración general",
+      "numbered": true,
+      "level": 2,
+      "slideId": 17
+    },
+    {
+      "title": "Conclusión",
+      "numbered": true,
+      "level": 2,
+      "slideId": 18
+    },
+    {
+      "title": "Real Decreto 1774/2004 (Reglamento de desarrollo de la Ley Orgánica 5/2000)",
+      "numbered": true,
+      "level": 1,
+      "slideId": 19
+    },
+    {
+      "title": "Naturaleza y finalidad del Reglamento",
+      "numbered": true,
+      "level": 2,
+      "slideId": 20
+    },
+    {
+      "title": "Principios generales de ejecución",
+      "numbered": true,
+      "level": 2,
+      "slideId": 21
+    },
+    {
+      "title": "Competencias y organización administrativa",
+      "numbered": true,
+      "level": 2,
+      "slideId": 22
+    },
+    {
+      "title": "Ejecución de medidas privativas de libertad",
+      "numbered": true,
+      "level": 2,
+      "slideId": 23
+    },
+    {
+      "title": "Régimen disciplinario",
+      "numbered": true,
+      "level": 2,
+      "slideId": 24
+    },
+    {
+      "title": "Principios",
+      "numbered": true,
+      "level": 3,
+      "slideId": 25
+    },
+    {
+      "title": "Tipos de faltas",
+      "numbered": true,
+      "level": 3,
+      "slideId": 26
+    },
+    {
+      "title": "Sanciones",
+      "numbered": true,
+      "level": 3,
+      "slideId": 27
+    },
+    {
+      "title": "Medidas no privativas de libertad",
+      "numbered": true,
+      "level": 2,
+      "slideId": 28
+    },
+    {
+      "title": "Programa Individualizado de Ejecución (PIE)",
+      "numbered": true,
+      "level": 2,
+      "slideId": 29
+    },
+    {
+      "title": "Modificación, suspensión y sustitución de medidas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 30
+    },
+    {
+      "title": "Comunicaciones y salidas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 31
+    },
+    {
+      "title": "Protección de datos y confidencialidad",
+      "numbered": true,
+      "level": 2,
+      "slideId": 32
+    },
+    {
+      "title": "Coordinación interinstitucional",
+      "numbered": true,
+      "level": 2,
+      "slideId": 33
+    },
+    {
+      "title": "Evaluación y control",
+      "numbered": true,
+      "level": 2,
+      "slideId": 34
+    },
+    {
+      "title": "Valoración global del Reglamento",
+      "numbered": true,
+      "level": 2,
+      "slideId": 35
+    },
+    {
+      "title": "Conclusión",
+      "numbered": true,
+      "level": 2,
+      "slideId": 36
+    },
+    {
+      "title": "Ley Orgánica 8/2021 (LOPIVI – Ley de Protección Integral a la Infancia y la Adolescencia frente a la Violencia)",
+      "numbered": true,
+      "level": 1,
+      "slideId": 37
+    },
+    {
+      "title": "Contexto, finalidad y alcance",
+      "numbered": true,
+      "level": 2,
+      "slideId": 38
+    },
+    {
+      "title": "Concepto amplio de violencia",
+      "numbered": true,
+      "level": 2,
+      "slideId": 39
+    },
+    {
+      "title": "Principios rectores",
+      "numbered": true,
+      "level": 2,
+      "slideId": 40
+    },
+    {
+      "title": "Medidas en el ámbito educativo",
+      "numbered": true,
+      "level": 2,
+      "slideId": 41
+    },
+    {
+      "title": "Ámbito deportivo y de ocio",
+      "numbered": true,
+      "level": 2,
+      "slideId": 42
+    },
+    {
+      "title": "Ámbito sanitario",
+      "numbered": true,
+      "level": 2,
+      "slideId": 43
+    },
+    {
+      "title": "Reforma del sistema judicial",
+      "numbered": true,
+      "level": 2,
+      "slideId": 44
+    },
+    {
+      "title": "Protección frente a la violencia digital",
+      "numbered": true,
+      "level": 2,
+      "slideId": 45
+    },
+    {
+      "title": "Derechos de los menores víctimas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 46
+    },
+    {
+      "title": "Violencia institucional",
+      "numbered": true,
+      "level": 2,
+      "slideId": 47
+    },
+    {
+      "title": "Formación obligatoria de profesionales",
+      "numbered": true,
+      "level": 2,
+      "slideId": 48
+    },
+    {
+      "title": "Participación infantil",
+      "numbered": true,
+      "level": 2,
+      "slideId": 49
+    },
+    {
+      "title": "Modificaciones legislativas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 50
+    },
+    {
+      "title": "Evaluación y seguimiento",
+      "numbered": true,
+      "level": 2,
+      "slideId": 51
+    },
+    {
+      "title": "Valoración global",
+      "numbered": true,
+      "level": 2,
+      "slideId": 52
+    },
+    {
+      "title": "Conclusión",
+      "numbered": true,
+      "level": 2,
+      "slideId": 53
+    },
+    {
+      "title": "Protocolo de detección, prevención y actuación",
+      "numbered": true,
+      "level": 1,
+      "slideId": 54
+    },
+    {
+      "title": "Finalidad del protocolo",
+      "numbered": true,
+      "level": 2,
+      "slideId": 55
+    },
+    {
+      "title": "Tipos de violencia",
+      "numbered": true,
+      "level": 2,
+      "slideId": 56
+    },
+    {
+      "title": "Definición de conceptos o situaciones",
+      "numbered": true,
+      "level": 2,
+      "slideId": 57
+    },
+    {
+      "title": "Procedimiento",
+      "numbered": true,
+      "level": 2,
+      "slideId": 58
+    },
+    {
+      "title": "Posibles actuaciones específicas para adoptar",
+      "numbered": true,
+      "level": 2,
+      "slideId": 59
+    },
+    {
+      "title": "Prevención frente a la situación de acoso, abuso o cualquier otro tipo de violencia",
+      "numbered": true,
+      "level": 2,
+      "slideId": 60
+    },
+    {
+      "title": "Cierre",
+      "numbered": false,
+      "level": 1,
+      "slideId": 1
+    }
+  ],
+  "slides": [
+    {
+      "id": 0,
+      "layout": "cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "unitTitle": "MARCO LEGAL Y ADMINISTRATIVO",
+        "backgroundVideo": "./contents/course-bloque-1/videos/cover.mp4"
+      }
+    },
+    {
+      "id": 2,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "La Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores (LORPM)",
+        "image": "./contents/course-bloque-1/images/lorpm_intro.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 3,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque-1/images/lorpm_finalidad.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Finalidad y principios generales",
+        "text": "<p>La <strong>Ley Orgánica 5/2000</strong> establece un sistema de justicia juvenil diferente al de los adultos, basado en principios educativos y reeducadores más que estrictamente punitivos.</p>"
+      }
+    },
+    {
+      "id": 4,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Ámbito de aplicación",
+        "text": "<p>Explora los <strong>tres supuestos</strong> del ámbito de aplicación de la LORPM.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "inline": true,
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "items": [
+          {
+            "id": "ambito-1",
+            "icon": "fi fi-tr-legal",
+            "title": "Mayores de 14 y menores de 18",
+            "text": "<p>Se aplica a <strong>mayores de 14 y menores de 18 años</strong> que hayan cometido hechos tipificados como delitos o faltas en el Código Penal o en las leyes penales especiales.</p>"
+          },
+          {
+            "id": "ambito-2",
+            "icon": "fi fi-tr-balance-scale-right",
+            "title": "Jóvenes entre 18 y 21 años",
+            "text": "<p>Excepcionalmente puede aplicarse a <strong>jóvenes entre 18 y 21 años</strong>, según la redacción original de la ley y las reformas posteriores que han ido modulando esta posibilidad.</p>"
+          },
+          {
+            "id": "ambito-3",
+            "icon": "fi fi-tr-child-head",
+            "title": "Menores de 14 años",
+            "text": "<p>Los <strong>menores de 14 años son inimputables</strong> penalmente y quedan bajo el sistema de protección de menores, no pudiendo ser objeto de procedimiento penal juvenil.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque-1/images/lorpm_principios_rectores.jpg",
+        "imageSize": 30,
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Principios rectores",
+        "text": "<ul><li><strong>Interés superior del menor.</strong></li><li><strong>Finalidad educativa y resocializadora.</strong></li><li><strong>Flexibilidad</strong> en la adopción y ejecución de medidas.</li><li><strong>Intervención mínima.</strong></li><li><strong>Proporcionalidad</strong> entre el hecho cometido y la medida impuesta.</li><li><strong>Especialización</strong> de jueces, fiscales y equipos técnicos.</li></ul>",
+        "overlayContent": "<p>El objetivo no es castigar sino reeducar y reintegrar socialmente al menor.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 6,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Responsabilidad penal del menor",
+        "text": "<p>La ley establece que los menores entre 14 y 18 años son responsables penalmente, pero su responsabilidad tiene un <strong>régimen especial</strong> distinto al del Código Penal de adultos.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "blocking": true,
+        "items": [
+          {
+            "id": "resp-1",
+            "label": "Reglas generales",
+            "text": "<ul><li>Se exige la comisión de un <strong>hecho tipificado como delito</strong>.</li><li>Se aplican reglas especiales en materia de tentativa, participación y autoría.</li><li>Se contemplan <strong>circunstancias atenuantes y agravantes</strong> adaptadas al menor.</li></ul>"
+          },
+          {
+            "id": "resp-2",
+            "label": "Eximentes y atenuantes",
+            "text": "<p>Se aplican las mismas causas de <strong>exención de responsabilidad</strong> que en el Código Penal (legítima defensa, estado de necesidad, etc.), pero con adaptación al sistema juvenil.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque-1/images/lorpm_medidas_aplicables.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Medidas aplicables",
+        "text": "<p>En lugar de penas, la ley prevé <strong>medidas</strong>, que tienen carácter educativo.</p>"
+      }
+    },
+    {
+      "id": 8,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Tipos de medidas",
+        "text": "<p>Conoce las <strong>principales medidas</strong> previstas en la ley como alternativa a las penas del sistema penal de adultos.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "medida-1",
+            "title": "Medidas privativas de libertad",
+            "text": "<ol><li><strong>Internamiento en régimen cerrado.</strong></li><li><strong>Internamiento en régimen semiabierto.</strong></li><li><strong>Internamiento en régimen abierto.</strong></li><li><strong>Internamiento terapéutico</strong> (para menores con problemas psíquicos o adicciones).</li></ol><p>El régimen cerrado se reserva para <strong>delitos graves</strong>.</p>"
+          },
+          {
+            "id": "medida-2",
+            "title": "Medidas no privativas de libertad",
+            "text": "<ul><li>Libertad vigilada.</li><li>Prestaciones en beneficio de la comunidad.</li><li>Realización de tareas socioeducativas.</li><li>Convivencia con otra persona, familia o grupo educativo.</li><li>Amonestación.</li><li>Permanencia de fin de semana.</li><li>Tratamiento ambulatorio.</li><li>Prohibiciones de aproximarse o comunicarse con la víctima.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque-1/images/lorpm_duracion_medidas.jpg",
+        "imageSize": 40,
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Duración de las medidas",
+        "text": "<p>La duración depende de:</p><ul><li>La <strong>edad</strong> del menor.</li><li>La <strong>gravedad</strong> del delito.</li><li>La existencia de <strong>violencia o intimidación</strong>.</li><li><strong>Reincidencia</strong>.</li></ul>",
+        "overlayContent": "<p><strong>En delitos muy graves</strong> (como homicidio o agresión sexual), pueden imponerse internamientos prolongados, con límites máximos establecidos por ley.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 10,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 60,
+        "contentAlign": "end",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "title": "Procedimiento ante los Juzgados de Menores",
+        "text": "<p>La competencia corresponde a los <strong>Juzgados de Menores</strong>, órganos especializados.</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "proc-1",
+            "image": "./contents/course-bloque-1/images/lorpm_proc_instruccion.jpg",
+            "title": "Instrucción",
+            "popupTitle": "Instrucción",
+            "popupContent": "<ul><li>La instrucción la realiza el <strong>Ministerio Fiscal</strong>.</li><li>Se solicita informe del equipo técnico (psicólogos, trabajadores sociales, educadores).</li><li>Puede acordarse el <strong>sobreseimiento por conciliación o reparación</strong>.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.2,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "proc-2",
+            "image": "./contents/course-bloque-1/images/lorpm_proc_cautelares.jpg",
+            "title": "Medidas cautelares",
+            "popupTitle": "Medidas cautelares",
+            "popupContent": "<p>Se pueden imponer medidas provisionales como:</p><ul><li>Internamiento cautelar.</li><li>Libertad vigilada provisional.</li><li>Prohibiciones de acercamiento.</li></ul><p>Siempre deben respetar el <strong>principio de proporcionalidad</strong>.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.4,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "proc-3",
+            "image": "./contents/course-bloque-1/images/lorpm_proc_audiencia.jpg",
+            "title": "Audiencia",
+            "popupTitle": "Audiencia",
+            "popupContent": "<ul><li>El procedimiento es <strong>más flexible</strong> que el de adultos.</li><li>Se garantiza el <strong>derecho de defensa</strong>.</li><li>Puede celebrarse a puerta cerrada.</li><li>Se da especial importancia al <strong>informe del equipo técnico</strong>.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.6,
+              "duration": 0.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 75,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Ejecución de las medidas",
+        "text": "<p>La ejecución corresponde a las <strong>Comunidades Autónomas</strong>.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "ejec-1",
+            "image": "./contents/course-bloque-1/images/lorpm_ejec_principios.jpg",
+            "title": "Principios de ejecución",
+            "overlayContent": "<ul><li>Individualización.</li><li>Seguimiento educativo.</li><li>Revisión periódica.</li><li>Posibilidad de <strong>modificación o sustitución</strong> de la medida.</li></ul><p>El juez puede modificar la medida si el menor evoluciona favorablemente.</p>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "ejec-2",
+            "image": "./contents/course-bloque-1/images/lorpm_ejec_suspension.jpg",
+            "title": "Suspensión y sustitución",
+            "overlayContent": "<p>Puede suspenderse la ejecución si el menor:</p><ul><li>Muestra <strong>arrepentimiento</strong>.</li><li>Repara el daño.</li><li>Se compromete a seguir <strong>pautas educativas</strong>.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.4,
+              "duration": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Responsabilidad civil",
+        "text": "<p>El menor responde civilmente por los <strong>daños causados</strong>.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "inline": true,
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "items": [
+          {
+            "id": "civil-1",
+            "icon": "fi fi-tr-family",
+            "text": "<p>También pueden responder <strong>solidariamente</strong> los padres, tutores o guardadores legales del menor por los daños que este haya causado.</p>"
+          },
+          {
+            "id": "civil-2",
+            "icon": "fi fi-tr-hand-holding-usd",
+            "text": "<p>Se regula la <strong>indemnización a la víctima</strong>, garantizando la reparación económica de los daños y perjuicios ocasionados por el menor infractor.</p>"
+          },
+          {
+            "id": "civil-3",
+            "icon": "fi fi-tr-handshake",
+            "text": "<p>Se fomenta la <strong>mediación y reparación del daño</strong> como vía alternativa, promoviendo el acuerdo entre las partes y la responsabilización del menor.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque-1/images/lorpm_conciliacion.jpg",
+        "imageSize": 40,
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Conciliación y reparación",
+        "text": "<p>Uno de los elementos más innovadores es la posibilidad de:</p><ul><li>Conciliación con la víctima.</li><li>Reparación del daño.</li><li>Mediación penal juvenil.</li></ul>",
+        "overlayContent": "<p>Si el menor repara el daño y la víctima acepta, puede archivarse el procedimiento.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 14,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque-1/images/lorpm_derechos_menor.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Derechos del menor",
+        "text": "<p>La ley garantiza:</p><ul><li>Derecho a <strong>abogado</strong>.</li><li>Derecho a ser <strong>informado</strong>.</li><li>Derecho a <strong>no declarar contra sí mismo</strong>.</li><li>Derecho a la asistencia de sus <strong>padres o representantes</strong>.</li><li>Derecho a la <strong>educación</strong> incluso en internamiento.</li></ul><p>Se protege especialmente la <strong>intimidad del menor</strong>.</p>"
+      }
+    },
+    {
+      "id": 15,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/lorpm_especializacion.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Especialización del sistema",
+        "text": "<p>Intervienen:</p><ul><li><strong>Jueces de Menores.</strong></li><li><strong>Fiscales especializados.</strong></li><li><strong>Equipos técnicos</strong> multidisciplinares.</li><li><strong>Centros específicos</strong> de internamiento.</li></ul><p>El sistema busca evitar la <strong>estigmatización</strong> y favorecer la <strong>reinserción</strong>.</p>"
+      }
+    },
+    {
+      "id": 16,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Reformas posteriores",
+        "text": "<p>La ley ha sido <strong>modificada en varias ocasiones</strong> para:</p>",
+        "titleAnimation": {
+          "type": "slideRight",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideRight",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "inline": true,
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "items": [
+          {
+            "id": "reforma-1",
+            "icon": "fi fi-tr-shield-exclamation",
+            "text": "<p>Endurecer medidas en delitos graves.</p>"
+          },
+          {
+            "id": "reforma-2",
+            "icon": "fi fi-tr-shield-cross",
+            "text": "<p>Regular delitos de terrorismo.</p>"
+          },
+          {
+            "id": "reforma-3",
+            "icon": "fi fi-tr-earth-europa",
+            "text": "<p>Adaptar la normativa a directivas europeas.</p>"
+          },
+          {
+            "id": "reforma-4",
+            "icon": "fi fi-tr-document-signed",
+            "text": "<p>Introducir mejoras procesales.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/lorpm_valoracion.jpg",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Valoración general",
+        "text": "<p>La <strong>Ley Orgánica 5/2000</strong> configura un modelo mixto:</p><ul><li>Reconoce <strong>responsabilidad penal</strong>.</li><li>Prioriza la <strong>educación</strong> frente al castigo.</li><li>Introduce <strong>justicia restaurativa</strong>.</li><li>Establece <strong>límites máximos</strong> para evitar excesos punitivos.</li></ul>",
+        "overlayContent": "<p><strong>Se trata de un sistema garantista pero con instrumentos para actuar frente a delincuencia juvenil grave.</strong></p>",
+        "overlayAlignX": "right",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 18,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/lorpm_conclusion.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Conclusión",
+        "text": "<p>La <strong>Ley Orgánica 5/2000</strong> regula la responsabilidad penal de los menores en España bajo un enfoque educativo y resocializador. Sustituye las penas por medidas, introduce la mediación y la reparación del daño, y establece un procedimiento especializado.</p><p>Su finalidad principal es la <strong>reinserción del menor</strong>, manteniendo un equilibrio entre protección social, derechos del menor y atención a la víctima.</p>"
+      }
+    },
+    {
+      "id": 19,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Real Decreto 1774/2004 (Reglamento de desarrollo de la Ley Orgánica 5/2000)",
+        "image": "./contents/course-bloque-1/images/rd1774_intro.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 20,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Naturaleza y finalidad del Reglamento",
+        "text": "<p>El <strong>Real Decreto 1774/2004</strong> aprueba el Reglamento de la Ley Orgánica 5/2000, regulando de forma detallada la ejecución de las medidas impuestas a menores por los Juzgados de Menores.</p><p>Mientras que la Ley Orgánica 5/2000 establece el marco general de responsabilidad penal del menor, este Reglamento concreta:</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "completedContent": "<p><strong>Su finalidad es garantizar una ejecución educativa, individualizada y respetuosa con los derechos fundamentales, asegurando el carácter reeducador del sistema.</strong></p>",
+        "completedContentDelay": 1,
+        "items": [
+          {
+            "id": "nat-1",
+            "icon": "fi fi-tr-gavel",
+            "text": "<p>Cómo se ejecutan las medidas.</p>"
+          },
+          {
+            "id": "nat-2",
+            "icon": "fi fi-tr-building",
+            "text": "<p>Organización y funcionamiento de los centros.</p>"
+          },
+          {
+            "id": "nat-3",
+            "icon": "fi fi-tr-clipboard-list",
+            "text": "<p>Derechos y deberes de los menores internados.</p>"
+          },
+          {
+            "id": "nat-4",
+            "icon": "fi fi-tr-balance-scale-right",
+            "text": "<p>Régimen disciplinario.</p>"
+          },
+          {
+            "id": "nat-5",
+            "icon": "fi fi-tr-diploma",
+            "text": "<p>Actuación de las Comunidades Autónomas.</p>"
+          },
+          {
+            "id": "nat-6",
+            "icon": "fi fi-tr-handshake",
+            "text": "<p>Coordinación institucional.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 55,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "slideRight",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.5
+        },
+        "title": "Principios generales de ejecución",
+        "text": "<p>El Reglamento refuerza los <strong>principios</strong> ya recogidos en la Ley del Menor.</p>",
+        "blocking": false,
+        "items": [
+          {
+            "id": "princ-1",
+            "image": "./contents/course-bloque-1/images/rd1774_princ_legalidad.jpg",
+            "title": "Principio de legalidad",
+            "popupTitle": "Principio de legalidad",
+            "popupContent": "<p>Las medidas solo pueden ejecutarse conforme a lo dispuesto en la ley y bajo <strong>control judicial</strong>.</p>",
+            "imageAnimation": {
+              "type": "slideUp",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "princ-2",
+            "image": "./contents/course-bloque-1/images/rd1774_princ_educativa.jpg",
+            "title": "Intervención educativa",
+            "popupTitle": "Principio de intervención educativa",
+            "popupContent": "<p>La ejecución debe orientarse a:</p><ul><li>La <strong>reeducación</strong>.</li><li>La <strong>reinserción social</strong>.</li><li>La adquisición de <strong>habilidades sociales</strong>.</li><li>La <strong>responsabilidad</strong> por los hechos cometidos.</li></ul>",
+            "imageAnimation": {
+              "type": "slideUp",
+              "delay": 0.3,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "princ-3",
+            "image": "./contents/course-bloque-1/images/rd1774_princ_individualizacion.jpg",
+            "title": "Individualización",
+            "popupTitle": "Individualización",
+            "popupContent": "<p>Cada menor contará con un <strong>Programa Individualizado de Ejecución de la Medida (PIE)</strong>, elaborado por el equipo técnico.</p>",
+            "imageAnimation": {
+              "type": "slideUp",
+              "delay": 0.4,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "princ-4",
+            "image": "./contents/course-bloque-1/images/rd1774_princ_control.jpg",
+            "title": "Control judicial",
+            "popupTitle": "Control judicial",
+            "popupContent": "<p>El juez de menores mantiene el control sobre:</p><ul><li><strong>Modificación</strong> de medidas.</li><li><strong>Sustitución</strong>.</li><li><strong>Suspensión</strong>.</li><li><strong>Incidencias</strong> relevantes.</li></ul>",
+            "imageAnimation": {
+              "type": "slideUp",
+              "delay": 0.5,
+              "duration": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Competencias y organización administrativa",
+        "text": "<p>Conoce las <strong>competencias</strong> y la <strong>organización administrativa</strong> en la ejecución de medidas.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "comp-1",
+            "title": "La ejecución de las medidas corresponde a las Comunidades Autónomas, que deben:",
+            "text": "<ul><li>Crear centros específicos.</li><li>Disponer de equipos técnicos multidisciplinares.</li><li>Garantizar la escolarización.</li><li>Proporcionar asistencia sanitaria y psicológica.</li></ul>"
+          },
+          {
+            "id": "comp-2",
+            "title": "El Reglamento regula:",
+            "text": "<ul><li>Coordinación entre Fiscalía, juzgados y administraciones.</li><li>Registro de medidas.</li><li>Comunicación periódica al juez.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Ejecución de medidas privativas de libertad",
+        "text": "<p>Las <strong>medidas de internamiento</strong> se desarrollan con gran detalle en el Reglamento.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "blocking": true,
+        "items": [
+          {
+            "id": "ejec-priv-1",
+            "label": "Tipos de internamiento",
+            "text": "<ul><li>Régimen cerrado.</li><li>Régimen semiabierto.</li><li>Régimen abierto.</li><li>Internamiento terapéutico.</li></ul><p>Cada régimen determina:</p><ul><li>Nivel de control.</li><li>Posibilidad de salidas.</li><li>Contacto con el exterior.</li><li>Participación en actividades educativas.</li></ul>"
+          },
+          {
+            "id": "ejec-priv-2",
+            "label": "Centros de internamiento",
+            "text": "<p>Los centros deben ser:</p><ul><li>Específicos para menores.</li><li>Separados de adultos.</li><li>Adecuados a su edad y características.</li></ul><p>Se regula:</p><ul><li>Ingreso.</li><li>Periodo de observación inicial.</li><li>Elaboración del programa individual.</li><li>Clasificación interna.</li></ul>"
+          },
+          {
+            "id": "ejec-priv-3",
+            "label": "Derechos del menor",
+            "text": "<p>El Reglamento desarrolla ampliamente los derechos:</p><ul><li>Derecho a la dignidad.</li><li>Derecho a la educación.</li><li>Derecho a la asistencia sanitaria.</li><li>Derecho a comunicaciones y visitas.</li><li>Derecho a formular quejas.</li><li>Derecho a asistencia religiosa.</li></ul><p>También garantiza la protección frente a malos tratos y medidas arbitrarias.</p>"
+          },
+          {
+            "id": "ejec-priv-4",
+            "label": "Deberes del menor",
+            "text": "<ul><li>Respetar normas del centro.</li><li>Participar en actividades formativas.</li><li>Respetar a profesionales y compañeros.</li><li>Cumplir el programa educativo.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque-1/images/rd1774_regimen_disciplinario.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Régimen disciplinario",
+        "text": "<p>Uno de los aspectos más desarrollados del Reglamento es el régimen disciplinario.</p>"
+      }
+    },
+    {
+      "id": 25,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/rd1774_principios_disciplina.jpg",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Principios",
+        "text": "<ul><li>Legalidad.</li><li>Proporcionalidad.</li><li>Intervención mínima.</li><li>Finalidad educativa.</li></ul>",
+        "overlayContent": "<p>Las sanciones nunca pueden implicar:</p><ul><li>Aislamiento prolongado.</li><li>Tratos degradantes.</li><li>Vulneración de derechos fundamentales.</li></ul>",
+        "overlayAlignX": "right",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 26,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque-1/images/rd1774_tipos_faltas.jpg",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Tipos de faltas",
+        "text": "<p>Se clasifican en:</p><ul><li>Leves.</li><li>Graves.</li><li>Muy graves.</li></ul>",
+        "overlayContent": "<p>Ejemplos:</p><ul><li>Desobediencia.</li><li>Alteración del orden.</li><li>Agresiones.</li><li>Intento de fuga.</li></ul>",
+        "overlayAlignX": "left",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 27,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque-1/images/rd1774_sanciones.jpg",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Sanciones",
+        "text": "<p>Entre otras:</p><ul><li>Amonestación.</li><li>Privación de actividades recreativas.</li><li>Separación de grupo (con límites temporales estrictos).</li></ul>",
+        "overlayContent": "<p>Toda sanción requiere procedimiento con audiencia del menor y posibilidad de recurso ante el juez.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 28,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Medidas no privativas de libertad",
+        "text": "<p>Las <strong>medidas no privativas de libertad</strong> reguladas en el Reglamento del RD 1774/2004.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "blocking": true,
+        "items": [
+          {
+            "id": "tab-28-1",
+            "label": "Libertad vigilada",
+            "text": "<p>Incluye:</p><ul><li>Seguimiento por educador.</li><li>Obligación de asistir a centro educativo.</li><li>Programas formativos.</li><li>Prohibiciones de aproximación.</li></ul><p>Se establece un plan individual con revisiones periódicas.</p>"
+          },
+          {
+            "id": "tab-28-2",
+            "label": "Prestaciones en beneficio de la comunidad",
+            "text": "<ul><li>Deben tener contenido educativo.</li><li>No pueden ser humillantes.</li><li>Deben adecuarse a edad y capacidades.</li></ul>"
+          },
+          {
+            "id": "tab-28-3",
+            "label": "Convivencia con otra persona o grupo educativo",
+            "text": "<p>Se regula:</p><ul><li>Selección de la familia o entidad.</li><li>Seguimiento.</li><li>Evaluación periódica.</li></ul>"
+          },
+          {
+            "id": "tab-28-4",
+            "label": "Tratamiento ambulatorio",
+            "text": "<p>Dirigido a menores con:</p><ul><li>Trastornos psicológicos.</li><li>Adicciones.</li><li>Problemas conductuales graves.</li></ul><p>Debe contar con consentimiento y supervisión médica.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/rd1774_pie.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Programa Individualizado de Ejecución (PIE)",
+        "text": "<p>Elemento clave del Reglamento.</p><p>Incluye:</p><ul><li>Evaluación psicológica.</li><li>Situación familiar.</li><li>Nivel educativo.</li><li>Riesgo de reincidencia.</li><li>Objetivos educativos concretos.</li><li>Actividades programadas.</li></ul><p>El PIE se revisa periódicamente y puede modificarse según evolución.</p>"
+      }
+    },
+    {
+      "id": 30,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque-1/images/rd1774_modificacion_medidas.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Modificación, suspensión y sustitución de medidas",
+        "text": "<p>El Reglamento desarrolla el procedimiento para:</p><ul><li>Sustituir internamiento por libertad vigilada.</li><li>Suspender la medida por buena evolución.</li><li>Revocar beneficios si hay incumplimiento.</li></ul><p>El juez decide tras informe técnico.</p>"
+      }
+    },
+    {
+      "id": 31,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 30,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Comunicaciones y salidas",
+        "text": "<p>Se regulan:</p><ul><li>Visitas familiares.</li><li>Comunicaciones telefónicas.</li><li>Correspondencia.</li><li>Salidas programadas.</li><li>Permisos extraordinarios.</li></ul>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "salida-1",
+            "image": "./contents/course-bloque-1/images/rd1774_salida_evolucion.jpg",
+            "overlayContent": "<p><strong>Evolución positiva.</strong></p>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "salida-2",
+            "image": "./contents/course-bloque-1/images/rd1774_salida_educativa.jpg",
+            "overlayContent": "<p><strong>Participación educativa.</strong></p>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.4,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "salida-3",
+            "image": "./contents/course-bloque-1/images/rd1774_salida_familiar.jpg",
+            "overlayContent": "<p><strong>Vínculo familiar estable.</strong></p>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.6,
+              "duration": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Protección de datos y confidencialidad",
+        "text": "<p>Se protege:</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "inline": true,
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "completedContent": "<p><strong>El acceso está limitado a autoridades competentes.</strong></p>",
+        "completedContentDelay": 1,
+        "items": [
+          {
+            "id": "datos-1",
+            "icon": "fi fi-tr-user-lock",
+            "text": "<p>La identidad del menor.</p>"
+          },
+          {
+            "id": "datos-2",
+            "icon": "fi fi-tr-hospital",
+            "text": "<p>La información clínica.</p>"
+          },
+          {
+            "id": "datos-3",
+            "icon": "fi fi-tr-document-signed",
+            "text": "<p>Los informes técnicos.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque-1/images/rd1774_coordinacion.jpg",
+        "imageSize": 35,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Coordinación interinstitucional",
+        "text": "<p>El Reglamento exige cooperación entre:</p><ul><li>Servicios sociales.</li><li>Centros educativos.</li><li>Servicios sanitarios.</li><li>Fuerzas de seguridad.</li><li>Juzgados y Fiscalía.</li></ul>",
+        "overlayContent": "<p>Especial atención a la transición cuando el menor alcanza la mayoría de edad.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 34,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque-1/images/rd1774_evaluacion.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Evaluación y control",
+        "text": "<p>Se establecen mecanismos de:</p><ul><li>Inspección de centros.</li><li>Supervisión judicial.</li><li>Control administrativo.</li><li>Evaluación periódica de programas.</li></ul><p>El objetivo es garantizar calidad educativa y respeto a derechos.</p>"
+      }
+    },
+    {
+      "id": 35,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/rd1774_valoracion.jpg",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Valoración global del Reglamento",
+        "text": "<p>El Real Decreto 1774/2004 convierte en normas concretas los principios educativos de la Ley del Menor. No crea nuevas medidas, pero regula de forma exhaustiva:</p><ul><li>Cómo se ejecutan.</li><li>Cómo deben organizarse los centros.</li><li>Qué derechos tienen los menores.</li><li>Qué límites tiene la disciplina.</li></ul>",
+        "overlayContent": "<ul><li>Reeducación.</li><li>Individualización.</li><li>Control judicial.</li><li>Garantía de derechos.</li></ul><p>Supone el desarrollo técnico imprescindible para que la Ley Orgánica 5/2000 funcione en la práctica.</p>",
+        "overlayAlignX": "right",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 36,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque-1/images/rd1774_conclusion.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Conclusión",
+        "text": "<p>El Real Decreto 1774/2004 es la pieza reglamentaria que da contenido práctico al sistema de responsabilidad penal del menor en España. Detalla la ejecución de medidas, regula centros y profesionales, establece un régimen disciplinario garantista y consolida un modelo orientado a la reinserción.</p><p>En conjunto, configura un sistema especializado que combina responsabilidad, educación y protección de derechos, manteniendo el control judicial durante toda la ejecución.</p>"
+      }
+    },
+    {
+      "id": 37,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Ley Orgánica 8/2021",
+        "subtitle": "LOPIVI – Ley de Protección Integral a la Infancia y la Adolescencia frente a la Violencia",
+        "image": "./contents/course-bloque-1/images/lopivi_intro.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 38,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Contexto, finalidad y alcance",
+        "text": "<p>La Ley Orgánica 8/2021, de 4 de junio, conocida como <strong>LOPIVI</strong>, supone una reforma estructural del sistema de protección de la infancia en España. Su objetivo principal es <strong>garantizar el derecho fundamental de niños, niñas y adolescentes a la integridad física, psíquica y moral</strong>, frente a cualquier forma de violencia.</p><p>La norma responde a:</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "completedContent": "<p><strong>La ley adopta un enfoque <strong>integral y preventivo</strong>, no solo reactivo o penal.</strong></p>",
+        "completedContentDelay": 1,
+        "items": [
+          {
+            "id": "lopivi-1",
+            "icon": "fi fi-tr-globe-alt",
+            "text": "<p>La necesidad de adaptación a la Convención sobre los Derechos del Niño.</p>"
+          },
+          {
+            "id": "lopivi-2",
+            "icon": "fi fi-tr-earth-europa",
+            "text": "<p>Recomendaciones internacionales.</p>"
+          },
+          {
+            "id": "lopivi-3",
+            "icon": "fi fi-tr-shield-exclamation",
+            "text": "<p>Casos mediáticos de violencia institucional o abusos no detectados.</p>"
+          },
+          {
+            "id": "lopivi-4",
+            "icon": "fi fi-tr-shield-cross",
+            "text": "<p>Carencias en prevención y detección precoz.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/lopivi_concepto_violencia.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Concepto amplio de violencia",
+        "text": "<p>Uno de los elementos clave de la LOPIVI es su definición amplia de violencia. Incluye:</p><ul><li>Violencia física.</li><li>Violencia psicológica.</li><li>Violencia sexual.</li><li>Negligencia.</li><li>Maltrato institucional.</li><li>Ciberacoso.</li><li>Trata de seres humanos.</li><li>Matrimonio forzado.</li><li>Mutilación genital femenina.</li><li>Exposición a violencia de género en el entorno familiar.</li></ul>",
+        "overlayContent": "<p>La ley entiende la violencia como cualquier acción, omisión o trato negligente que prive a la persona menor de edad de sus derechos y bienestar.</p>",
+        "overlayAlignX": "right",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 40,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Principios rectores",
+        "text": "<p>La LOPIVI se fundamenta en varios principios básicos:</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "acc-40-1",
+            "title": "Interés superior del menor",
+            "text": "<p>Debe prevalecer en todas las decisiones administrativas y judiciales.</p>"
+          },
+          {
+            "id": "acc-40-2",
+            "title": "Prevención primaria",
+            "text": "<p>Se prioriza evitar la violencia antes de que ocurra.</p>"
+          },
+          {
+            "id": "acc-40-3",
+            "title": "Detección precoz",
+            "text": "<p>Todos los profesionales que trabajen con menores tienen obligación de detectar y comunicar indicios.</p>"
+          },
+          {
+            "id": "acc-40-4",
+            "title": "Coordinación institucional",
+            "text": "<p>Se exige cooperación entre:</p><ul><li>Servicios sociales.</li><li>Educación.</li><li>Sanidad.</li><li>Fuerzas y Cuerpos de Seguridad.</li><li>Órganos judiciales.</li></ul>"
+          },
+          {
+            "id": "acc-40-5",
+            "title": "No revictimización",
+            "text": "<p>Se busca evitar que el menor tenga que repetir su testimonio múltiples veces.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "title": "Medidas en el ámbito educativo",
+        "text": "<p>La ley introduce importantes obligaciones para centros educativos.</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "edu-1",
+            "image": "./contents/course-bloque-1/images/lopivi_edu_bienestar.jpg",
+            "title": "Coordinador/a de bienestar y protección",
+            "popupTitle": "Coordinador/a de bienestar y protección",
+            "popupContent": "<p>Todos los centros deben designar una figura responsable de:</p><ul><li>Supervisar protocolos de prevención.</li><li>Canalizar denuncias.</li><li>Coordinar con servicios sociales.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.3,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "edu-2",
+            "image": "./contents/course-bloque-1/images/lopivi_edu_protocolos.jpg",
+            "title": "Protocolos obligatorios",
+            "popupTitle": "Protocolos obligatorios",
+            "popupContent": "<p>Los centros deben contar con:</p><ul><li>Protocolos contra el acoso escolar.</li><li>Protocolos contra violencia sexual.</li><li>Protocolos frente a violencia digital.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.5,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "edu-3",
+            "image": "./contents/course-bloque-1/images/lopivi_edu_formacion.jpg",
+            "title": "Formación del profesorado",
+            "popupTitle": "Formación del profesorado",
+            "popupContent": "<p>Se impone formación específica en:</p><ul><li>Detección de violencia.</li><li>Educación afectivo-sexual.</li><li>Igualdad y prevención.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.7,
+              "duration": 0.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque-1/images/lopivi_deportivo.jpg",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Ámbito deportivo y de ocio",
+        "text": "<p>La LOPIVI también regula espacios donde históricamente se han detectado abusos.</p><p>Las entidades deportivas y de ocio deben:</p><ul><li>Designar delegado/a de protección.</li><li>Establecer códigos de conducta.</li><li>Garantizar entornos seguros.</li></ul>",
+        "overlayContent": "<p><strong>Además, se exige certificado negativo de delitos sexuales para trabajar con menores.</strong></p>",
+        "overlayAlignX": "left",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 43,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/lopivi_sanitario.jpg",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Ámbito sanitario",
+        "text": "<p>El sistema sanitario debe:</p><ul><li>Detectar signos de violencia.</li><li>Activar protocolos de comunicación.</li><li>Garantizar atención psicológica especializada.</li></ul>",
+        "overlayContent": "<p><strong>Se refuerza la coordinación con fiscalía y servicios sociales.</strong></p>",
+        "overlayAlignX": "right",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 44,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Reforma del sistema judicial",
+        "text": "<p>Navega por las <strong>principales reformas procesales</strong> introducidas por la LOPIVI, uno de sus pilares más importantes.</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Prueba preconstituida",
+            "text": "<p>Se potencia la grabación del testimonio del menor en fase inicial para evitar que tenga que declarar varias veces.</p><p>Se aplica especialmente en delitos sexuales.</p>"
+          },
+          {
+            "title": "Especialización judicial",
+            "text": "<p>Se promueve la creación de:</p><ul><li>Juzgados especializados.</li><li>Fiscales especializados en infancia.</li></ul>"
+          },
+          {
+            "title": "Ampliación de plazos de prescripción",
+            "text": "<p>La ley modifica el Código Penal para que el plazo de prescripción de delitos graves contra menores comience a contar desde que la víctima cumple 35 años (según reforma vigente).</p><p>Esto permite denunciar abusos ocurridos en la infancia muchos años después.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/lopivi_violencia_digital.jpg",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Protección frente a la violencia digital",
+        "text": "<p>La LOPIVI aborda nuevas formas de violencia:</p><ul><li>Grooming.</li><li>Sextorsión.</li><li>Ciberacoso.</li><li>Difusión no consentida de imágenes.</li></ul>",
+        "overlayContent": "<ul><li>Formación digital.</li><li>Protocolos escolares.</li><li>Actuación rápida ante contenidos dañinos.</li></ul>",
+        "overlayAlignX": "right",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 46,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque-1/images/lopivi_derechos_victimas.jpg",
+        "imageSize": 35,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Derechos de los menores víctimas",
+        "text": "<p>La ley reconoce derechos específicos:</p><ul><li>Derecho a ser escuchado.</li><li>Derecho a información adaptada a su edad.</li><li>Derecho a asistencia jurídica gratuita.</li><li>Derecho a apoyo psicológico.</li><li>Derecho a protección de su intimidad.</li></ul>",
+        "overlayContent": "<p>Se refuerza el derecho a no confrontar directamente al agresor.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 47,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque-1/images/lopivi_violencia_institucional.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Violencia institucional",
+        "text": "<p>La LOPIVI reconoce que la violencia puede producirse dentro de instituciones.</p><p>Incluye:</p><ul><li>Centros de protección.</li><li>Centros de reforma.</li><li>Instituciones educativas.</li><li>Centros religiosos.</li></ul><p>Se establecen mecanismos de supervisión y control.</p>"
+      }
+    },
+    {
+      "id": 48,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Formación obligatoria de profesionales",
+        "text": "<p>Todos los sectores que trabajen con menores deben recibir formación específica:</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "form-1",
+            "icon": "fi fi-tr-graduation-cap",
+            "text": "<p>Docentes.</p>"
+          },
+          {
+            "id": "form-2",
+            "icon": "fi fi-tr-heart-health-muscle",
+            "text": "<p>Personal sanitario.</p>"
+          },
+          {
+            "id": "form-3",
+            "icon": "fi fi-tr-shield-exclamation",
+            "text": "<p>Fuerzas de seguridad.</p>"
+          },
+          {
+            "id": "form-4",
+            "icon": "fi fi-tr-gavel",
+            "text": "<p>Jueces y fiscales.</p>"
+          },
+          {
+            "id": "form-5",
+            "icon": "fi fi-tr-building",
+            "text": "<p>Personal de centros de protección.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 75,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Participación infantil",
+        "text": "<p>La ley reconoce el derecho de niños y adolescentes a participar en decisiones que les afecten.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "participa-1",
+            "image": "./contents/course-bloque-1/images/lopivi_participa_consejos.jpg",
+            "overlayContent": "<p><strong>Consejos de participación.</strong></p>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "participa-2",
+            "image": "./contents/course-bloque-1/images/lopivi_participa_consulta.jpg",
+            "overlayContent": "<p><strong>Consulta en políticas públicas.</strong></p>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.4,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "participa-3",
+            "image": "./contents/course-bloque-1/images/lopivi_participa_escucha.jpg",
+            "overlayContent": "<p><strong>Escucha activa en procedimientos administrativos.</strong></p>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.6,
+              "duration": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque-1/images/lopivi_modificaciones.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Modificaciones legislativas",
+        "text": "<p>La LOPIVI modifica numerosas normas:</p><ul><li>Código Penal.</li><li>Ley de Enjuiciamiento Criminal.</li><li>Ley de Protección Jurídica del Menor.</li><li>Ley General Penitenciaria.</li><li>Ley de Educación.</li></ul><p>Supone una reforma transversal del ordenamiento jurídico.</p>"
+      }
+    },
+    {
+      "id": 51,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/evaluacionyseguimiento.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Evaluación y seguimiento",
+        "text": "<p>Se prevé:</p><ul><li>Recogida de datos estadísticos.</li><li>Evaluación periódica.</li><li>Informes al Parlamento.</li><li>Estrategias estatales de erradicación de la violencia.</li></ul>"
+      }
+    },
+    {
+      "id": 52,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "titleAnimation": {
+          "type": "slideRight",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideRight",
+          "delay": 0.2,
+          "duration": 0.5,
+          "stagger": 0.12
+        },
+        "title": "Valoración global",
+        "text": "<p>La Ley Orgánica 8/2021 representa un cambio de paradigma:</p><p>Es una ley ambiciosa, compleja y transversal que exige adaptación administrativa y recursos suficientes para su correcta aplicación.</p>",
+        "images": [
+          {
+            "id": "val-1",
+            "image": "./contents/course-bloque-1/images/lopivi_val_antes.jpg",
+            "title": "Antes",
+            "overlayContent": "<ul><li>Sistema reactivo.</li><li>Actuación tras el delito.</li></ul>",
+            "imageAnimation": {
+              "type": "slideLeft",
+              "delay": 0.3,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "val-2",
+            "image": "./contents/course-bloque-1/images/lopivi_val_ahora.jpg",
+            "title": "Ahora",
+            "overlayContent": "<ul><li>Sistema preventivo.</li><li>Enfoque integral.</li><li>Coordinación obligatoria.</li><li>Protección reforzada.</li><li>Centralidad del interés superior del menor.</li></ul>",
+            "imageAnimation": {
+              "type": "slideLeft",
+              "delay": 0.5,
+              "duration": 0.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/conclusion3.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Conclusión",
+        "text": "<p>La LOPIVI consolida en España un modelo de <strong>protección integral frente a la violencia en la infancia y adolescencia</strong>, ampliando el concepto de violencia, reforzando la prevención y transformando el sistema judicial para evitar la revictimización.</p><p>No se limita a endurecer penas, sino que crea una red de detección, prevención y protección en todos los ámbitos sociales: educativo, sanitario, deportivo, digital y judicial.</p><p>En definitiva, supone uno de los mayores avances normativos en materia de derechos de la infancia en el ordenamiento jurídico español.</p>"
+      }
+    },
+    {
+      "id": 54,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Protocolo de detección, prevención y actuación",
+        "subtitle": "Frente acoso, abuso o cualquier otro tipo de violencia entre menores/jóvenes al amparo de la LOPIVI",
+        "image": "./contents/course-bloque-1/images/protocolo_intro.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 55,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque-1/images/protocolo_finalidad.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.4,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "contentAlign": "end",
+        "showInlineTitle": false,
+        "title": "Finalidad del protocolo",
+        "text": "<p>El presente procedimiento tiene como finalidad proporcionar un instrumento de actuación uniforme en el centro sobre el procedimiento de detección, prevención y actuación frente al acoso, abuso o cualquier otro tipo de violencia entre menores/jóvenes y sistemas de comunicación y la coordinación de todos los profesionales responsables de cada actuación.</p>"
+      }
+    },
+    {
+      "id": 56,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Tipos de violencia",
+        "text": "<p>Conoce los tipos de violencia contemplados.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "tipo-1",
+            "icon": "fi fi-tr-building",
+            "text": "<p>Que esté ejerciendo una persona menor/joven contra otra persona menor/joven dentro del centro.</p>"
+          },
+          {
+            "id": "tipo-2",
+            "icon": "fi fi-tr-family",
+            "text": "<p>Podría ejercerse una situación de acoso, abuso o cualquier otro tipo de violencia fuera del centro, entre menores/jóvenes en su entorno sociofamiliar (en las visitas, salidas autorizadas, permisos de fin de semana, recursos formativos, etc.).</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Definición de conceptos o situaciones",
+        "text": "<p>Conoce los <strong>conceptos clave</strong> que pueden dar indicios de una situación de acoso.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "blocking": true,
+        "items": [
+          {
+            "id": "tab-57-1",
+            "label": "Detección",
+            "text": "<p>Cuando se detecta por parte de cualquier profesional o es conocedora de un acto que evidencian, dentro o fuera del centro, que menor/joven pueda estar viviendo una situación de acoso, abuso o cualquier otro tipo de violencia entre iguales.</p><p>También en algunos casos, el propio menor/joven es quien traslada la situación que está viviendo y que considera que es una situación de acoso, abuso o cualquier otro tipo de violencia.</p>"
+          },
+          {
+            "id": "tab-57-2",
+            "label": "Indicios físicos y conductuales",
+            "text": "<p>Lesiones inexplicables, pérdida o rotura de ropa, libros, o, dolores de cabeza o estómago frecuentes, sensación de malestar o simulación de enfermedad, cambios en los hábitos alimentarios, dificultad para conciliar el sueño, calificaciones bajas, pérdida de interés en las actividades dentro o fuera del centro (o el menor/joven se niega a la realización de las mismas), pérdida repentina de socialización con su grupo de iguales o contexto socio familiar.</p>"
+          },
+          {
+            "id": "tab-57-3",
+            "label": "Indicios emocionales y maltrato",
+            "text": "<p>Sentimientos de impotencia o disminución de la autoestima, comportamiento autodestructivo, autoinfligirse heridas o hablar de suicidio, abusos verbales y emocionales (insultos, gritos, burlas, amenazas…), maltrato físico (bofetada, puñetazo, patada, tirón de pelo o pellizco...).</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Procedimiento",
+        "text": "<p><strong>Deber de comunicación cualificado (Art: 16 LOPIVI)</strong></p><p>Todo personal del centro, que tenga sospechas o conocimiento de una situación de acoso, abuso o cualquier otro tipo de violencia entre menores/jóvenes tendrá la obligación de poner en conocimiento a la Dirección del centro, para proceder a su actuación inmediata de forma global, interdisciplinar y coordinada.</p><p>Se emitirá Parte informativo del personal educativo al Coordinador Educativo y Dirección, con la información recogida, solicitando la apertura del protocolo de acoso.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "imagePosition": "right",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "blocking": true,
+        "items": [
+          {
+            "id": "ii-58-1",
+            "image": "./contents/course-bloque-1/images/protocolo_comision.jpg",
+            "title": "Comisión Multidisciplinar",
+            "titleTheme": "light",
+            "hoverScale": 0.95,
+            "popupTitle": "Comisión Multidisciplinar",
+            "popupContent": "<p>Se constituirá una <strong>\"COMISIÓN MULTIDISCIPLINAR\"</strong> compuesta por:</p><ul><li>Coordinación</li><li>Subdirector del Centro (preside y convoca)</li><li>Personal educativo cercano a la situación de sospecha</li><li>Equipo Técnico: Psicólogo/a, Trabajador/a Social y Jurista</li></ul><p>Celebrándose reunión de manera inmediata y emitiendo informe a la Dirección del Centro, en el que se comunica la puesta en marcha del presente protocolo de \"Detección, prevención y actuación frente al acoso, abuso o cualquier otro tipo de violencia entre menores/jóvenes\".</p><p>Este informe contendrá toda la información recabada, se valorará el estado de la víctima, la situación y posibles actuaciones específicas a adoptar.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Posibles actuaciones específicas para adoptar",
+        "text": "<p>Navega por las <strong>actuaciones específicas</strong> que pueden adoptarse ante una situación de acoso o violencia.</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Intervención educativa",
+            "text": "<p>Intervención educativa directa con la supuesta víctima, para orientarle, tranquilizarle y ayudarle.</p>"
+          },
+          {
+            "title": "Seguimiento y supervisión",
+            "text": "<p>Seguimiento y supervisión continua dentro de la unidad por personal educativo, velando por mantener la mayor separación física posible entre la víctima y los agresores.</p><p>La supervisión se podrá extender en las salidas que realice el menor en el exterior del centro, estableciendo los medios de control posibles.</p>"
+          },
+          {
+            "title": "Seguimiento psicológico",
+            "text": "<p>Seguimiento psicológico diario, informando a Coordinación Educativa y Dirección del centro, mostrando apoyo y cercanía a la víctima ante la situación.</p>"
+          },
+          {
+            "title": "Asesoramiento jurídico",
+            "text": "<p>Se le proporcionará herramientas necesarias y asesoramiento por el/la Jurista, para la presentación de posibles quejas o denuncia por parte de la víctima.</p>"
+          },
+          {
+            "title": "Medidas de separación",
+            "text": "<p>Siempre que sea posible dentro de las características del Centro y el tipo de medida que cumplan el agresor, se tomarán medidas de cambios de unidad del/a agresor/a con respecto a la víctima, para mantener una mayor separación física.</p><p>Otras que se consideren oportunas en relación al perfil individualizado de la víctima o agresor.</p>"
+          },
+          {
+            "title": "Expediente disciplinario",
+            "text": "<p>Se tramitará el correspondiente expediente disciplinario, en atención a los hechos ocurridos, cuando éstos sean susceptibles de valoración como falta disciplinaria, según lo establecido en la legislación correspondiente.</p>"
+          },
+          {
+            "title": "Comunicación a autoridades",
+            "text": "<p>Se mantendrá comunicación y se pondrá en conocimiento inmediata con el Ministerio Fiscal y, en su caso, con la autoridad judicial que acordó el ingreso, sobre las circunstancias relevantes de violencia.</p>"
+          },
+          {
+            "title": "Colaboración con autoridades",
+            "text": "<p>A partir de la derivación a las autoridades pertinentes, la Dirección pondrá a disposición todos los medios personales y logísticos (cámaras de videovigilancia, toma de declaración, etc.) que se requiera por parte de las autoridades.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Prevención frente a la situación de acoso, abuso o cualquier otro tipo de violencia",
+        "text": "<p>Conoce el <strong>programa de prevención</strong> destinado a las personas menores/jóvenes y al personal laboral del centro, frente a situaciones de acoso, abuso o cualquier otro tipo de violencia que se produzca dentro o fuera del centro.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "acc-60-1",
+            "title": "Con las personas menores/jóvenes",
+            "text": "<p>Dicho programa conllevará varias sesiones en cuanto a la prevención, detección y actuación frente al acoso, abuso o cualquier otro tipo de violencia entre menores/jóvenes que quedarán encuadradas dentro de los programas transversales.</p><p>Se llevará a cabo dentro de la programación anual del centro y se impartirá por el personal educativo.</p>"
+          },
+          {
+            "id": "acc-60-2",
+            "title": "Con el personal laboral del centro",
+            "text": "<p>Se realizará una formación específica, mínimo, una, anualmente, para formar o actualizar a cualquier empleado/a que pueda prevenir, detectar y afrontar acoso, abuso o cualquier otro tipo de violencia entre menores/jóvenes dentro o fuera del centro.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "layout": "closing",
+      "data": {
+        "title": "¡Enhorabuena!",
+        "subtitle": "Has completado el Bloque 1",
+        "image": "./assets/images/icon_closing.png",
+        "backgroundImage": "./contents/course-bloque-1/images/closing.jpg"
+      }
+    }
+  ],
+  "meta": {
+    "title": "Marco Legal y Administrativo",
+    "identifier": "curso-bloque-1",
+    "masteryScore": 100
+  }
+}

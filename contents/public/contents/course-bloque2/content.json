@@ -1,0 +1,2730 @@
+{
+  "config": {
+    "lockIndex": false,
+    "scormVersion": "1.2"
+  },
+  "index": [
+    {
+      "title": "Portada",
+      "numbered": false,
+      "level": 1,
+      "slideId": 0
+    },
+    {
+      "title": "Presentación y marco general",
+      "numbered": true,
+      "level": 1,
+      "slideId": 2
+    },
+    {
+      "title": "Presentación y marco general",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3
+    },
+    {
+      "title": "Normas de actuación del personal",
+      "numbered": true,
+      "level": 1,
+      "slideId": 4
+    },
+    {
+      "title": "Normas generales",
+      "numbered": true,
+      "level": 3,
+      "slideId": 5
+    },
+    {
+      "title": "Normas en relación con los menores",
+      "numbered": true,
+      "level": 3,
+      "slideId": 7
+    },
+    {
+      "title": "Actuaciones en situaciones específicas",
+      "numbered": true,
+      "level": 1,
+      "slideId": 6
+    },
+    {
+      "title": "Actuaciones comunes",
+      "numbered": true,
+      "level": 2,
+      "slideId": 8
+    },
+    {
+      "title": "Registros y cacheos",
+      "numbered": true,
+      "level": 2,
+      "slideId": 9
+    },
+    {
+      "title": "Violencia entre menores",
+      "numbered": true,
+      "level": 2,
+      "slideId": 10
+    },
+    {
+      "title": "Negativa a Actividades",
+      "numbered": true,
+      "level": 2,
+      "slideId": 11
+    },
+    {
+      "title": "Resistencia Activa",
+      "numbered": true,
+      "level": 2,
+      "slideId": 12
+    },
+    {
+      "title": "Riñas Tumultuarias",
+      "numbered": true,
+      "level": 2,
+      "slideId": 13
+    },
+    {
+      "title": "Fugas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 14
+    },
+    {
+      "title": "Toma de Rehenes",
+      "numbered": true,
+      "level": 2,
+      "slideId": 15
+    },
+    {
+      "title": "Sanciones disciplinarias",
+      "numbered": true,
+      "level": 1,
+      "slideId": 16
+    },
+    {
+      "title": "Sanciones de restricción",
+      "numbered": true,
+      "level": 2,
+      "slideId": 17
+    },
+    {
+      "title": "Medios de contención",
+      "numbered": true,
+      "level": 1,
+      "slideId": 18
+    },
+    {
+      "title": "Medios de contención",
+      "numbered": true,
+      "level": 2,
+      "slideId": 19
+    },
+    {
+      "title": "Normas para los menores",
+      "numbered": true,
+      "level": 1,
+      "slideId": 20
+    },
+    {
+      "title": "Normas para los menores",
+      "numbered": true,
+      "level": 2,
+      "slideId": 21
+    },
+    {
+      "title": "Objetos no autorizados",
+      "numbered": true,
+      "level": 1,
+      "slideId": 22
+    },
+    {
+      "title": "Custodiados",
+      "numbered": true,
+      "level": 2,
+      "slideId": 23
+    },
+    {
+      "title": "Prohibidos",
+      "numbered": true,
+      "level": 2,
+      "slideId": 24
+    },
+    {
+      "title": "Vida cotidiana",
+      "numbered": true,
+      "level": 1,
+      "slideId": 25
+    },
+    {
+      "title": "Vida cotidiana",
+      "numbered": true,
+      "level": 2,
+      "slideId": 26
+    },
+    {
+      "title": "Salidas y permisos",
+      "numbered": true,
+      "level": 1,
+      "slideId": 27
+    },
+    {
+      "title": "Planificación y previsión",
+      "numbered": true,
+      "level": 2,
+      "slideId": 28
+    },
+    {
+      "title": "Régimen abierto y semiabierto",
+      "numbered": true,
+      "level": 2,
+      "slideId": 29
+    },
+    {
+      "title": "Progresión en casos de conflictividad familiar",
+      "numbered": true,
+      "level": 2,
+      "slideId": 30
+    },
+    {
+      "title": "Objetivos educativos durante las salidas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 31
+    },
+    {
+      "title": "Procedimiento de solicitud",
+      "numbered": true,
+      "level": 2,
+      "slideId": 32
+    },
+    {
+      "title": "Procedimiento de solicitud",
+      "numbered": false,
+      "level": 3,
+      "slideId": 33
+    },
+    {
+      "title": "Requisitos para disfrutar salidas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 34
+    },
+    {
+      "title": "Valoración de las salidas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 37
+    },
+    {
+      "title": "Compromiso de conducta",
+      "numbered": true,
+      "level": 2,
+      "slideId": 35
+    },
+    {
+      "title": "Fases del estudio de una salida",
+      "numbered": true,
+      "level": 2,
+      "slideId": 36
+    },
+    {
+      "title": "Contacto con familias",
+      "numbered": true,
+      "level": 2,
+      "slideId": 38
+    },
+    {
+      "title": "Permisos extraordinarios",
+      "numbered": true,
+      "level": 2,
+      "slideId": 39
+    },
+    {
+      "title": "Casos especiales",
+      "numbered": true,
+      "level": 2,
+      "slideId": 40
+    },
+    {
+      "title": "Actividades en el exterior sin recursos determinados",
+      "numbered": true,
+      "level": 1,
+      "slideId": 41
+    },
+    {
+      "title": "Situación de partida",
+      "numbered": true,
+      "level": 2,
+      "slideId": 42
+    },
+    {
+      "title": "Programación de actividades",
+      "numbered": true,
+      "level": 2,
+      "slideId": 43
+    },
+    {
+      "title": "Valoración de actividades",
+      "numbered": true,
+      "level": 2,
+      "slideId": 44
+    },
+    {
+      "title": "Objetivos trabajados",
+      "numbered": true,
+      "level": 2,
+      "slideId": 45
+    },
+    {
+      "title": "Protocolo de comunicaciones",
+      "numbered": true,
+      "level": 1,
+      "slideId": 46
+    },
+    {
+      "title": "Fundamentación y marco legal",
+      "numbered": true,
+      "level": 2,
+      "slideId": 47
+    },
+    {
+      "title": "Tipos de comunicaciones",
+      "numbered": true,
+      "level": 2,
+      "slideId": 48
+    },
+    {
+      "title": "Restricciones y control",
+      "numbered": true,
+      "level": 2,
+      "slideId": 49
+    },
+    {
+      "title": "Registro y trazabilidad",
+      "numbered": true,
+      "level": 2,
+      "slideId": 50
+    },
+    {
+      "title": "Protocolo de visitas",
+      "numbered": true,
+      "level": 1,
+      "slideId": 51
+    },
+    {
+      "title": "Objetivos",
+      "numbered": true,
+      "level": 2,
+      "slideId": 52
+    },
+    {
+      "title": "Personas autorizadas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 53
+    },
+    {
+      "title": "Organización de las visitas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 54
+    },
+    {
+      "title": "Normas de seguridad",
+      "numbered": true,
+      "level": 2,
+      "slideId": 55
+    },
+    {
+      "title": "Suspensión o limitación",
+      "numbered": true,
+      "level": 2,
+      "slideId": 56
+    },
+    {
+      "title": "Visitas especiales",
+      "numbered": true,
+      "level": 2,
+      "slideId": 57
+    },
+    {
+      "title": "Protocolo de entrega, recepción, custodia y administración de medicación",
+      "numbered": true,
+      "level": 1,
+      "slideId": 58
+    },
+    {
+      "title": "Objetivo general",
+      "numbered": true,
+      "level": 2,
+      "slideId": 59
+    },
+    {
+      "title": "Procedimiento de entrega",
+      "numbered": true,
+      "level": 2,
+      "slideId": 60
+    },
+    {
+      "title": "Recepción y custodia",
+      "numbered": true,
+      "level": 2,
+      "slideId": 61
+    },
+    {
+      "title": "Administración de la medicación",
+      "numbered": true,
+      "level": 2,
+      "slideId": 62
+    },
+    {
+      "title": "Incidencias",
+      "numbered": true,
+      "level": 2,
+      "slideId": 63
+    },
+    {
+      "title": "Protocolo de asistencia sanitaria de internos/as",
+      "numbered": true,
+      "level": 1,
+      "slideId": 64
+    },
+    {
+      "title": "Asistencia médica no urgente",
+      "numbered": true,
+      "level": 2,
+      "slideId": 65
+    },
+    {
+      "title": "Acompañamiento a consultas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 66
+    },
+    {
+      "title": "Sistema sanitario competente",
+      "numbered": true,
+      "level": 2,
+      "slideId": 67
+    },
+    {
+      "title": "Actuación ante urgencia médica con posible traslado en ambulancia",
+      "numbered": true,
+      "level": 2,
+      "slideId": 68
+    },
+    {
+      "title": "Urgencia sin necesidad de ambulancia",
+      "numbered": true,
+      "level": 2,
+      "slideId": 69
+    },
+    {
+      "title": "Información a progenitores",
+      "numbered": true,
+      "level": 2,
+      "slideId": 70
+    },
+    {
+      "title": "Cierre",
+      "numbered": false,
+      "level": 1,
+      "slideId": 1
+    }
+  ],
+  "slides": [
+    {
+      "id": 0,
+      "layout": "cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "unitTitle": "CRITERIOS ORIENTADORES DE LA ACTUACIÓN DEL PERSONAL DE ATENCIÓN DIRECTA (TAD)",
+        "backgroundVideo": ""
+      }
+    },
+    {
+      "id": 2,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Presentación y marco general",
+        "sectionSubtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide2.jpg",
+        "imageFocus": "left center",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 3,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "title": "Presentación y marco general",
+        "text": "",
+        "blocking": true,
+        "items": [
+          {
+            "id": "pres-1",
+            "image": "./contents/course-bloque2/images/popup_slide3_1.jpg",
+            "title": "Finalidad del documento",
+            "popupTitle": "Finalidad del documento",
+            "popupContent": "<p>El documento tiene como finalidad actualizar la guía de actuación del personal del Área de Reforma del centro, estableciendo criterios claros y homogéneos para el desempeño profesional del Personal de Atención Directa (TAD).</p><p>El texto recoge la experiencia acumulada durante años de intervención con menores infractores y sintetiza la normativa vigente que regula la organización, funcionamiento y régimen interno del centro. Se trata de un documento de obligado cumplimiento, complementario a órdenes de servicio, protocolos específicos y notas de dirección.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.3,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "pres-2",
+            "image": "./contents/course-bloque2/images/popup_slide3_2.jpg",
+            "title": "Función educativa del TAD",
+            "popupTitle": "Función educativa del TAD",
+            "popupContent": "<p>El TAD ocupa una posición clave en la intervención educativa. Su labor no se limita a la vigilancia o control, sino que implica una función educativa integral basada en:</p><ul><li>Fomento de hábitos de higiene y autocuidado.</li><li>Promoción de hábitos alimentarios saludables.</li><li>Educación afectiva y desarrollo emocional.</li><li>Escucha activa y acompañamiento.</li><li>Creación de vínculos educativos de referencia.</li><li>Intervención estructurada a través de planificación, programación y evaluación.</li></ul><p>La finalidad última es la disminución del riesgo delictivo y el desarrollo de las potencialidades personales del menor para favorecer su reintegración social.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.5,
+              "duration": 0.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Normas de actuación del personal",
+        "sectionSubtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide4.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 5,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Normas generales",
+        "text": "<p>El personal debe mantener en todo momento una conducta profesional coherente con su rol educativo.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "blocking": true,
+        "items": [
+          {
+            "id": "tab-5-1",
+            "label": "Obligaciones principales",
+            "text": "<ul><li>Cumplir y hacer cumplir la normativa interna.</li><li>Mantener confidencialidad absoluta.</li><li>No desacreditar a compañeros o superiores.</li><li>No compartir información personal con los menores.</li><li>No fumar ni compartir tabaco.</li><li>No portar objetos que puedan suponer riesgo en caso de incidente.</li><li>No utilizar teléfonos móviles personales durante la jornada.</li><li>No acceder solos a habitaciones de menores.</li><li>Garantizar la coordinación con personal de limpieza para evitar riesgos.</li></ul>"
+          },
+          {
+            "id": "tab-5-2",
+            "label": "Partes diarios",
+            "text": "<p>Especial importancia tiene la emisión de partes diarios, regulada por nota de dirección. Estos documentos:</p><ul><li>Son administrativos y probatorios.</li><li>Deben ser veraces, objetivos y redactados con inmediatez.</li><li>Constituyen garantía jurídica y de protección del menor.</li><li>Su falsedad puede conllevar responsabilidades legales.</li></ul>"
+          },
+          {
+            "id": "tab-5-3",
+            "label": "Protección del menor",
+            "text": "<p>Asimismo, se refuerza la obligación de proteger el derecho al honor, intimidad e imagen del menor, conforme a la Ley Orgánica 1/1996. Está prohibido:</p><ul><li>Tomar fotografías.</li><li>Difundir imágenes o datos.</li><li>Publicar información que pueda perjudicar al menor.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque2/images/img_slide7.jpg",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Normas en relación con los menores",
+        "text": "<p>La relación educativa debe basarse en respeto, profesionalidad y coherencia:</p><ul><li>No usar apodos.</li><li>No emitir juicios sobre delitos cometidos.</li><li>No emplear lenguaje marginal.</li><li>No responder agresiones con agresiones.</li><li>No usar amenazas.</li><li>Priorizar la corrección educativa sobre la sanción disciplinaria.</li><li>Favorecer la reparación antes que el castigo.</li></ul>",
+        "overlayContent": "<p>El educador debe fomentar la comprensión de las normas como instrumento de convivencia y no como mecanismo punitivo.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 6,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Actuaciones en situaciones específicas",
+        "sectionSubtitle": "Este bloque establece protocolos ante incidentes.",
+        "image": "./contents/course-bloque2/images/sc_slide6.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2,
+        "subtitle": "Este bloque establece protocolos ante incidentes."
+      }
+    },
+    {
+      "id": 8,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Actuaciones comunes",
+        "text": "",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "inline": true,
+        "exclusive": false,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "act-8-1",
+            "icon": "fi fi-rr-megaphone",
+            "title": "",
+            "text": "<p>Informar inmediatamente a Coordinación Educativa.</p>"
+          },
+          {
+            "id": "act-8-2",
+            "icon": "fi fi-rr-flame",
+            "title": "",
+            "text": "<p>En caso de incendio, priorizar la vida sobre cualquier otro criterio.</p>"
+          },
+          {
+            "id": "act-8-3",
+            "icon": "fi fi-rr-exit",
+            "title": "",
+            "text": "<p>Seguir protocolos de evacuación.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "title": "Registros y cacheos",
+        "text": "",
+        "blocking": true,
+        "items": [
+          {
+            "id": "reg-1",
+            "image": "./contents/course-bloque2/images/popup_slide9_1.jpg",
+            "title": "Principios",
+            "popupTitle": "Principios",
+            "popupContent": "<p>Los registros son medidas de seguridad sometidas a los principios de:</p><ul><li>Necesidad.</li><li>Proporcionalidad.</li><li>Respeto a la dignidad.</li><li>Preservación de la intimidad.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.3,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "reg-2",
+            "image": "./contents/course-bloque2/images/popup_slide9_2.jpg",
+            "title": "Aspectos clave",
+            "popupTitle": "Aspectos clave",
+            "popupContent": "<p>Aspectos clave:</p><ul><li>Registros de persona realizados por personal del mismo sexo.</li><li>Desnudo integral solo en casos excepcionales, con autorización de Dirección.</li><li>Registro obligatorio en ingresos, regresos de permisos, incidentes regimentales, antes de separación de grupo, etc.</li><li>Prohibida la lectura de correspondencia salvo relación directa con el registro.</li></ul><p>Todo registro debe reflejarse en parte diario.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.5,
+              "duration": 0.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Violencia entre Menores (Bullying, abuso, amenazas)",
+        "text": "<p>Se establece el deber de comunicación inmediata conforme al art. 16 LOPIVI. Cualquier sospecha debe comunicarse a Dirección para activar el protocolo específico de prevención y actuación (noviembre 2025). La intervención será:</p><p>Pulsa sobre cada icono para conocer más.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "inline": true,
+        "exclusive": false,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "viol-10-1",
+            "icon": "fi fi-rr-globe",
+            "title": "",
+            "text": "<p>Global.</p>"
+          },
+          {
+            "id": "viol-10-2",
+            "icon": "fi fi-rr-users-alt",
+            "title": "",
+            "text": "<p>Interdisciplinar.</p>"
+          },
+          {
+            "id": "viol-10-3",
+            "icon": "fi fi-rr-network",
+            "title": "",
+            "text": "<p>Coordinada.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Negativa a Actividades",
+        "text": "<p>Cuando un menor se niega:</p><ul><li>No participa en actividades posteriores hasta cumplir la obligación.</li><li>Se emite parte de incidencia.</li><li>Puede afectar a permisos.</li><li>Se mantiene supervisión educativa.</li><li>Se prioriza que realice la tarea pendiente incluso en horario ampliado.</li></ul><p>Pulsa sobre la imagen para conocer más.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "imagePosition": "right",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "titlePosition": "top",
+        "blocking": true,
+        "images": [
+          {
+            "id": "ii-11-1",
+            "image": "./contents/course-bloque2/images/ii_slide11.jpg",
+            "title": "Debe asistir obligatoriamente a",
+            "titleTheme": "light",
+            "hoverScale": 0.95,
+            "overlayContent": "<ul><li>IES o formación externa.</li><li>Terapias.</li><li>Citas médicas.</li><li>Entrevistas judiciales.</li><li>Programas de prevención.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Resistencia Activa",
+        "text": "<p>Incluye negativa violenta o no violenta a órdenes legítimas.</p><p>Pulsa sobre las imágenes para conocer las medidas.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "imagePosition": "right",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "blocking": true,
+        "images": [
+          {
+            "id": "ii-12-1",
+            "image": "./contents/course-bloque2/images/ii_slide12_1.jpg",
+            "title": "Medidas",
+            "titleTheme": "light",
+            "hoverScale": 0.95,
+            "overlayContent": "<ul><li>Técnicas de desescalada.</li><li>Explicación razonada.</li><li>Aislamiento del conflicto.</li><li>Aviso a seguridad si es necesario.</li></ul>"
+          },
+          {
+            "id": "ii-12-2",
+            "image": "./contents/course-bloque2/images/ii_slide12_2.jpg",
+            "title": "En desórdenes colectivos",
+            "titleTheme": "light",
+            "hoverScale": 0.95,
+            "overlayContent": "<ul><li>Evitar propagación.</li><li>Identificar líderes.</li><li>Aislar menores no participantes.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque2/images/img_slide13.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Riñas Tumultuarias",
+        "text": "<ul><li>Actuar con contundencia inmediata.</li><li>No intervenir solo si participan muchos menores.</li><li>Extremar vigilancia en otras unidades.</li><li>Considerar posibles distracciones para facilitar fugas.</li></ul>"
+      }
+    },
+    {
+      "id": 14,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 22,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Fugas",
+        "text": "<p>Pulsa sobre cada imagen para conocer el protocolo de actuación.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "fuga-14-1",
+            "image": "./contents/course-bloque2/images/ii_slide14_1.jpg",
+            "title": "Interior del centro",
+            "overlayContent": "<ul><li>Aviso inmediato.</li><li>Control del resto del grupo.</li><li>Aislamiento posterior de implicados.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "fuga-14-2",
+            "image": "./contents/course-bloque2/images/ii_slide14_2.jpg",
+            "title": "En salidas",
+            "overlayContent": "<ul><li>1 hora de cortesía antes de denuncia.</li><li>Aviso a familia.</li><li>Formularios diferenciados por edad.</li><li>Custodia obligatoria tras reingreso.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.4,
+              "duration": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Toma de Rehenes",
+        "text": "<p>Pulsa sobre cada icono para conocer el protocolo de actuación.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "inline": true,
+        "exclusive": false,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "reh-15-1",
+            "icon": "fi fi-rr-bell-ring",
+            "title": "",
+            "text": "<p>Activar antipánico.</p>"
+          },
+          {
+            "id": "reh-15-2",
+            "icon": "fi fi-rr-shield-exclamation",
+            "title": "",
+            "text": "<p>Avisar seguridad.</p>"
+          },
+          {
+            "id": "reh-15-3",
+            "icon": "fi fi-rr-comment-slash",
+            "title": "",
+            "text": "<p>No negociar individualmente.</p>"
+          },
+          {
+            "id": "reh-15-4",
+            "icon": "fi fi-rr-lock",
+            "title": "",
+            "text": "<p>Cerrar accesos.</p>"
+          },
+          {
+            "id": "reh-15-5",
+            "icon": "fi fi-rr-ban",
+            "title": "",
+            "text": "<p>Suspender actividades.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Sanciones disciplinarias",
+        "subtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide16 (2).jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 17,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Sanciones de restricción",
+        "text": "",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "acc-17-1",
+            "title": "Separación de Grupo",
+            "text": "<ul><li>Puede cumplirse en unidad específica o habitación.</li><li>2 horas diarias al aire libre.</li><li>Supervisión continua.</li><li>Evaluación médica previa y diaria.</li><li>No utilización como medida educativa ordinaria.</li><li>Actividades educativas reflexivas obligatorias.</li><li>En fines de semana: duración de 36 horas.</li></ul>"
+          },
+          {
+            "id": "acc-17-2",
+            "title": "Privación de Actividades Recreativas",
+            "text": "<p>Implica no participar en:</p><ul><li>Juegos.</li><li>TV.</li><li>Piscina.</li><li>Actividades de ocio.</li></ul><p>Se sustituyen por actividades educativas relacionadas con la conducta corregida.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Medios de contención",
+        "subtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide18.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 19,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Medios de contención",
+        "text": "<p>Los medios de contención son medidas excepcionales sujetas a condiciones estrictas de aplicación.</p><p>Pulsa para descubrir los supuestos, requisitos y prohibiciones.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "blocking": true,
+        "items": [
+          {
+            "id": "tab-19-1",
+            "label": "Solo aplicables para",
+            "text": "<ul><li>Evitar lesiones.</li><li>Impedir fugas.</li><li>Proteger instalaciones.</li><li>Resistencias activas graves.</li></ul>"
+          },
+          {
+            "id": "tab-19-2",
+            "label": "Requisitos",
+            "text": "<ul><li>Autorización de Dirección o Coordinación.</li><li>Parte detallado.</li><li>Registro en libro oficial.</li><li>Exploración médica en 48 horas.</li><li>Comunicación a Juzgado y Fiscalía.</li></ul>"
+          },
+          {
+            "id": "tab-19-3",
+            "label": "Prohibiciones",
+            "text": "<ul><li>No aplicar a gestantes, lactantes o convalecientes salvo peligro inminente.</li><li>Especial precaución en menores con discapacidad.</li></ul><p>El TAD tiene iniciativa y supervisión permanente durante su aplicación.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Normas para los menores",
+        "subtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide20.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 21,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 22,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Normas",
+        "text": "<p>Pulsa sobre cada imagen para conocer las normas.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "norm-21-1",
+            "image": "./contents/course-bloque2/images/ii_slide21_1.jpg",
+            "title": "Normas Generales",
+            "overlayContent": "<ul><li>Prohibido fumar.</li><li>Cumplimiento estricto de horarios.</li><li>Prohibido lenguaje racista o violento.</li><li>No apología de bandas.</li><li>Higiene obligatoria diaria.</li><li>Vestimenta adecuada.</li><li>Prohibido doble pantalón.</li><li>No abandonar unidad sin autorización.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "norm-21-2",
+            "image": "./contents/course-bloque2/images/ii_slide21_2.jpg",
+            "title": "Relación con Profesionales",
+            "overlayContent": "<ul><li>Dirigirse por nombre de pila.</li><li>Prohibidos apodos.</li><li>Acceso restringido a despachos.</li><li>Material de aseo entregado y recogido por educadores.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.4,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "norm-21-3",
+            "image": "./contents/course-bloque2/images/ii_slide21_3.jpg",
+            "title": "Relación entre Menores",
+            "overlayContent": "<ul><li>Prohibido intercambio de objetos.</li><li>Prohibido entrar en habitaciones ajenas.</li><li>No uso de artículos personales de otros.</li><li>No comunicación no autorizada con internos de otras unidades.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.6,
+              "duration": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Objetos no autorizados",
+        "subtitle": "Se limita la acumulación de pertenencias.",
+        "image": "./contents/course-bloque2/images/sc_slide22.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 23,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque2/images/img_slide23.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Custodiados",
+        "text": "<ul><li>DNI.</li><li>Dinero.</li><li>Tarjetas.</li><li>Móviles (uso regulado).</li><li>Medicación bajo llave.</li><li>Colonias bajo supervisión.</li></ul>"
+      }
+    },
+    {
+      "id": 24,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque2/images/img_slide24.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Prohibidos",
+        "text": "<ul><li>Grabadoras.</li><li>Ordenadores.</li><li>Llaves.</li><li>Herramientas.</li><li>Objetos metálicos peligrosos.</li><li>Dinero.</li><li>Drogas.</li><li>Tabaco.</li><li>Maquinillas personales.</li></ul>",
+        "overlayContent": "<p>Los objetos retirados se custodian hasta devolución o finalización de medida.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 25,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Vida cotidiana",
+        "subtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide25.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 26,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Vida cotidiana",
+        "text": "<p>Pulsa sobre cada icono para conocer las normas.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "vertical",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "vco-26-1",
+            "icon": "fi fi-rr-bed",
+            "title": "Habitaciones",
+            "text": "<ul><li>Ventilación diaria.</li><li>Cama hecha.</li><li>Orden obligatorio.</li><li>Inspección diaria.</li><li>Máximo 7 mudas.</li><li>Puertas siempre cerradas.</li></ul>"
+          },
+          {
+            "id": "vco-26-2",
+            "icon": "fi fi-rr-utensils",
+            "title": "Comedores",
+            "text": "<ul><li>Recuento previo y posterior de cubiertos.</li><li>Supervisión constante.</li><li>Obligación de comer mínimo de cada plato.</li><li>Reparto equitativo.</li><li>Cumplimiento de normas de mesa.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Salidas y permisos",
+        "subtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide27.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 28,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque2/images/img_slide28.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Planificación y previsión",
+        "text": "<p>La planificación de salidas y permisos corresponde al Equipo Educativo, que elaborará una tabla mensual de previsión. Esta deberá entregarse a coordinación antes del inicio del mes correspondiente.</p><p>Una vez aprobado el Programa Individual de Ejecución (PIE) o el Modelo Individual de Intervención (MII), se recomienda realizar también una previsión semestral de permisos ordinarios.</p><p>La planificación se realiza:</p><ul><li>De forma conjunta entre educadores/as e internos/as.</li><li>Individualmente con cada menor.</li></ul><p>Se establecerá mensualmente el número de fines de semana previstos según el programa individual y el régimen en el que se encuentre el menor.</p>"
+      }
+    },
+    {
+      "id": 29,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Régimen abierto y semiabierto",
+        "text": "",
+        "blocking": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "items": [
+          {
+            "id": "tab-29-1",
+            "label": "Régimen abierto",
+            "text": "<p>Como norma general, se estudiarán todas las salidas de fin de semana (de viernes a domingo), salvo que exista conflictividad familiar, en cuyo caso se aplicará un criterio de progresividad.</p>"
+          },
+          {
+            "id": "tab-29-2",
+            "label": "Régimen semiabierto",
+            "text": "<p>Las situaciones pueden variar según el momento de aprobación del programa. Se realizará un prorrateo de los fines de semana correspondientes.</p><p>Si el programa se aprueba cuando solo resta una semana:</p><ul><li>Se propondrá salida general de viernes a domingo.</li><li>Excepcionalmente podrá ser de una sola noche.</li><li>En caso de conflictividad familiar, se aplicará progresión.</li></ul><p>Los casos excepcionales requerirán informar al Juzgado (a través de la OGE en régimen semiabierto).</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Progresión en casos de conflictividad familiar",
+        "text": "<p>Cuando exista conflictividad (indicada en el PIE o MII), las salidas seguirán una progresión:</p><p>Pulsa sobre cada icono para conocer las fases.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "inline": true,
+        "exclusive": false,
+        "closable": true,
+        "blocking": true,
+        "completedContent": "<p>La progresión dependerá de la evolución positiva del menor.</p>",
+        "completedContentDelay": 1,
+        "items": [
+          {
+            "id": "prog-30-1",
+            "icon": "fi fi-rr-marker-time",
+            "title": "",
+            "text": "<p>Primera salida: 4 horas máximo en Valladolid.</p>"
+          },
+          {
+            "id": "prog-30-2",
+            "icon": "fi fi-rr-road",
+            "title": "",
+            "text": "<p>Segunda salida: 6–8 horas en Valladolid o ciudad del menor.</p>"
+          },
+          {
+            "id": "prog-30-3",
+            "icon": "fi fi-rr-house-blank",
+            "title": "",
+            "text": "<p>Tercera salida: sin pernocta en domicilio.</p>"
+          },
+          {
+            "id": "prog-30-4",
+            "icon": "fi fi-rr-moon-stars",
+            "title": "",
+            "text": "<p>Cuarta salida: con una noche de pernocta.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque2/images/img_slide31.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Objetivos educativos durante las salidas",
+        "text": "<p>Las salidas no son un mero permiso recreativo. Durante ellas deben trabajarse los objetivos educativos y/o de inserción laboral establecidos en el programa individual.</p><p>Antes de cada salida:</p><ul><li>Se especificarán tareas concretas (estudio, entrega de currículums, deberes, etc.).</li><li>Se propondrán estrategias de control y seguimiento.</li></ul>"
+      }
+    },
+    {
+      "id": 32,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Procedimiento de solicitud",
+        "text": "<ul><li>Los permisos ordinarios se solicitan mediante instancia el día 15 del mes anterior.</li><li>En la primera salida se firma un modelo genérico de solicitud.</li><li>Se realizarán propuestas para todos los menores que cumplan requisitos legales y estén incluidos en el PIE o MII.</li></ul><p>Pulsa sobre cada imagen para conocer más detalles.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "sol-32-1",
+            "image": "./contents/course-bloque2/images/ii_slide32_1.jpg",
+            "title": "Fines de semana",
+            "titlePosition": "top",
+            "overlayContent": "<ul><li>El turno de mañana prepara las carpetillas.</li><li>El domingo se revisan en coordinación.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "sol-32-2",
+            "image": "./contents/course-bloque2/images/ii_slide32_2.jpg",
+            "title": "Denegación",
+            "titlePosition": "top",
+            "overlayContent": "<ul><li>Se adjuntarán los motivos por escrito (con fechas de incidentes).</li><li>Puede fundamentarse en involución o negativa prolongada al trabajo de objetivos.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.4,
+              "duration": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "layout": "image-text",
+      "showTitle": false,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "top",
+        "image": "./contents/course-bloque2/images/img_slide33.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "",
+        "text": "<p>Las propuestas se estudian los martes en Comisión (Equipo Técnico, Subdirección Técnica y Coordinación).</p><p>Las solicitudes posteriores al martes se estudian la semana siguiente, salvo urgencias.</p>"
+      }
+    },
+    {
+      "id": 34,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Requisitos para disfrutar salidas",
+        "text": "<p>El menor debe:</p><ul><li>Cumplir requisitos legales.</li><li>Estar en régimen que lo permita.</li><li>Tenerlo recogido en su PIE o MII.</li><li>Solicitarlo formalmente.</li></ul><p>Si una salida es denegada o suspendida, no se realizará nueva propuesta esa semana (salvo excepción).</p><p>Pulsa sobre la imagen para conocer más detalles.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "req-34-1",
+            "image": "./contents/course-bloque2/images/ii_slide34.jpg",
+            "title": "Régimen semiabierto",
+            "titlePosition": "top",
+            "overlayContent": "<ul><li>Se propondrá al menos una salida programada mensual con educador/a.</li><li>En conflictividad familiar, podrán ser con la familia.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque2/images/img_slide37.jpg",
+        "objectPosition": "center center",
+        "imageSize": 35,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Valoración de las salidas",
+        "text": "<p>Tras cada salida se realiza:</p><ul><li>Entrevista personal.</li><li>Valoración escrita.</li><li>Registro detallado de horarios, actividades, grado de cumplimiento de objetivos.</li><li>Información aportada por el menor y familia.</li><li>Incidencias o medidas preventivas.</li></ul>",
+        "overlayContent": "<p>La evaluación debe ser completa y objetiva.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 35,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque2/images/img_slide35.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Compromiso de conducta",
+        "text": "<p>Tras aprobarse el PIE o MII:</p><ul><li>Se entrega al menor un compromiso de conducta.</li><li>Se explican claramente las condiciones.</li><li>Se recuerda antes y durante salidas posteriores.</li><li>La menor conserva copia.</li></ul><p>Puede suspenderse la salida si cambian las circunstancias o hay incumplimientos.</p>"
+      }
+    },
+    {
+      "id": 36,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque2/images/img_slide36.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Fases del estudio de una salida",
+        "text": "<ol><li>Propuesta Unidad/interno.</li><li>Propuesta a coordinación.</li><li>Estudio en comisión.</li><li>Vº Bº Subdirección.</li><li>Decisión final de Dirección.</li><li>Comunicación a juzgados.</li><li>Firma orden de salida.</li><li>Entrega a educadores.</li></ol><p>El resultado es fruto del consenso de la comisión.</p>"
+      }
+    },
+    {
+      "id": 38,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque2/images/img_slide38.jpg",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Contacto con familias",
+        "text": "<ul><li>Antes de la salida, el Equipo Técnico informa a la familia.</li><li>Tras la salida, se realiza valoración con ella.</li></ul><p>Si el menor viaja solo:</p><ul><li>Se le concede tiempo suficiente para desplazamiento.</li><li>A la vuelta debe acudir directamente al centro.</li></ul>"
+      }
+    },
+    {
+      "id": 39,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque2/images/img_slide39.jpg",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Permisos extraordinarios",
+        "text": "<p>No se tramitarán permisos ordinarios si:</p><ul><li>No está aprobado el programa.</li><li>No están previstos en el PIE o MII.</li></ul><p>El permiso extraordinario procede por:</p><ul><li>Fallecimiento o enfermedad grave de familiares.</li><li>Nacimiento de hijo.</li><li>Motivo análogo acreditado.</li></ul>",
+        "overlayContent": "<p>No se concederá permiso extraordinario si puede disfrutar ordinario.</p><p>Se aplicarán medidas de seguridad adecuadas (custodia policial, acompañamiento familiar, etc.).</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 40,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Casos especiales",
+        "text": "<p>Pulsa sobre cada icono para conocer los casos.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "inline": true,
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "completedContent": "<p>El menor puede recurrir al juzgado.</p>",
+        "completedContentDelay": 1,
+        "items": [
+          {
+            "id": "caso-40-1",
+            "icon": "fi fi-rr-ban",
+            "title": "",
+            "text": "<p>Si no hay programa aprobado → denegación directa.</p>"
+          },
+          {
+            "id": "caso-40-2",
+            "icon": "fi fi-rr-exchange",
+            "title": "",
+            "text": "<p>Si solicita extraordinario pero dispone de ordinarios → se estudia como ordinario.</p>"
+          },
+          {
+            "id": "caso-40-3",
+            "icon": "fi fi-rr-cross-circle",
+            "title": "",
+            "text": "<p>Si tiene salidas suspendidas → se estudia como ordinario y se deniega.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Actividades en el exterior sin recursos determinados",
+        "subtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide41.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 42,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Situación de partida",
+        "text": "<p>Puede ocurrir que:</p><ul><li>No existan recursos externos disponibles.</li><li>El menor esté en régimen abierto o semiabierto sin actividad exterior.</li></ul><p>Pulsa sobre la imagen para conocer más.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "sit-42-1",
+            "image": "./contents/course-bloque2/images/ii_slide42.jpg",
+            "title": "En estos casos",
+            "titlePosition": "top",
+            "overlayContent": "<ul><li>Se diseñará un itinerario de intervención al recibir el PIE o MII.</li><li>Se buscarán recursos adecuados con visto bueno de coordinación.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Programación de actividades",
+        "text": "",
+        "blocking": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "items": [
+          {
+            "id": "tab-43-1",
+            "label": "Las actividades",
+            "text": "<ul><li>Se ejecutan tras aprobación del PIE o MII.</li><li>Se programan semanalmente.</li><li>Se entregan por escrito cada fin de semana a coordinación.</li></ul>"
+          },
+          {
+            "id": "tab-43-2",
+            "label": "La programación debe reflejar",
+            "text": "<ul><li>Actividad concreta.</li><li>Lugar.</li><li>Horario.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque2/images/img_slide44.jpg",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Valoración de actividades",
+        "text": "<p>La valoración incluirá:</p><ul><li>Lugar de realización.</li><li>Horario real.</li><li>Tiempo empleado.</li><li>Opinión del menor.</li><li>Dificultades encontradas.</li><li>Cumplimiento o no de la actividad.</li></ul>",
+        "overlayContent": "<p>Las incidencias se comunicarán inmediatamente.</p><p>La información se enviará mediante partes individuales (uno por menor).</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 45,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Objetivos trabajados",
+        "text": "<p>Estas actividades permiten trabajar los objetivos educativos nº 1, 2, 3, 4, 5 y 10 del área educativa, favoreciendo:</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "inline": true,
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "items": [
+          {
+            "id": "obj-45-1",
+            "icon": "fi fi-rr-shield-check",
+            "title": "",
+            "text": "<p>Responsabilidad.</p>"
+          },
+          {
+            "id": "obj-45-2",
+            "icon": "fi fi-rr-user",
+            "title": "",
+            "text": "<p>Autonomía.</p>"
+          },
+          {
+            "id": "obj-45-3",
+            "icon": "fi fi-rr-users",
+            "title": "",
+            "text": "<p>Inserción social.</p>"
+          },
+          {
+            "id": "obj-45-4",
+            "icon": "fi fi-rr-clock",
+            "title": "",
+            "text": "<p>Organización del tiempo.</p>"
+          },
+          {
+            "id": "obj-45-5",
+            "icon": "fi fi-rr-star",
+            "title": "",
+            "text": "<p>Desarrollo personal.</p>"
+          },
+          {
+            "id": "obj-45-6",
+            "icon": "fi fi-rr-handshake",
+            "title": "",
+            "text": "<p>Compromiso con el proceso educativo.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Protocolo de comunicaciones",
+        "subtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide46.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 47,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque2/images/img_slide47.jpg",
+        "imageSize": 35,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Fundamentación y marco legal",
+        "text": "<p>El protocolo de comunicaciones regula el derecho de los menores internados en el Área de Reforma del Centro Regional Zambrana (CRZ) a mantener contacto con el exterior, en el marco de lo establecido por la Ley Orgánica 5/2000 (LORPM). Se reconoce el derecho a la comunicación como elemento esencial para garantizar el desarrollo integral del menor y favorecer su proceso educativo y de reinserción.</p><p>Las comunicaciones deben realizarse siempre bajo criterios de seguridad, control institucional y finalidad educativa.</p>"
+      }
+    },
+    {
+      "id": 48,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "title": "Tipos de comunicaciones",
+        "text": "<p>El protocolo distingue principalmente:</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "com-48-1",
+            "image": "./contents/course-bloque2/images/popup_slide48_1.jpg",
+            "title": "Comunicaciones telefónicas",
+            "popupTitle": "Comunicaciones telefónicas",
+            "popupContent": "<p>Los menores tienen derecho a realizar llamadas telefónicas en los horarios establecidos por el centro. Estas llamadas:</p><ul><li>Se realizan desde teléfonos habilitados.</li><li>Son supervisadas por el personal educativo.</li><li>Deben dirigirse a personas previamente autorizadas.</li><li>Pueden ser intervenidas o restringidas por motivos judiciales o disciplinarios.</li></ul><p>Se controla:</p><ul><li>Duración.</li><li>Frecuencia.</li><li>Destinatarios.</li></ul><p>El objetivo es equilibrar el derecho del menor con la seguridad del centro y el cumplimiento de la medida judicial.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.3,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "com-48-2",
+            "image": "./contents/course-bloque2/images/popup_slide48_2.jpg",
+            "title": "Comunicaciones escritas",
+            "popupTitle": "Comunicaciones escritas",
+            "popupContent": "<p>Incluyen cartas enviadas y recibidas por el menor. Estas:</p><ul><li>Pueden ser supervisadas.</li><li>No deben contener contenido ilícito, amenazas o información que comprometa la seguridad.</li><li>Pueden ser retenidas si incumplen la normativa.</li></ul><p>Se garantiza confidencialidad en los casos legalmente protegidos (por ejemplo, comunicaciones con órganos judiciales).</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.5,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "com-48-3",
+            "image": "./contents/course-bloque2/images/popup_slide48_3.jpg",
+            "title": "Comunicaciones excepcionales",
+            "popupTitle": "Comunicaciones excepcionales",
+            "popupContent": "<p>En situaciones especiales (fallecimiento de familiar, enfermedad grave, circunstancias extraordinarias), se pueden autorizar comunicaciones extraordinarias previa valoración de la Dirección.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.7,
+              "duration": 0.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque2/images/img_slide49.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Restricciones y control",
+        "text": "<p>Las comunicaciones pueden ser:</p><ul><li>Limitadas por resolución judicial.</li><li>Intervenidas por razones de seguridad.</li></ul><p>Toda restricción debe estar motivada y registrada documentalmente.</p>"
+      }
+    },
+    {
+      "id": 50,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque2/images/img_slide50.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Registro y trazabilidad",
+        "text": "<p>El centro lleva registro de:</p><ul><li>Llamadas realizadas.</li><li>Autorizaciones.</li><li>Incidencias.</li><li>Comunicaciones suspendidas o denegadas.</li></ul><p>Esto garantiza control institucional y seguridad jurídica.</p>"
+      }
+    },
+    {
+      "id": 51,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Protocolo de visitas",
+        "subtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide51.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 52,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Objetivos",
+        "text": "<p>El protocolo regula el régimen de visitas para:</p><p><em>Pulsa sobre cada icono para conocer más.</em></p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "inline": true,
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "items": [
+          {
+            "id": "it-52-1",
+            "icon": "fi fi-rr-heart",
+            "title": "",
+            "text": "<p>Favorecer el vínculo familiar.</p>"
+          },
+          {
+            "id": "it-52-2",
+            "icon": "fi fi-rr-hand-holding-heart",
+            "title": "",
+            "text": "<p>Mantener el contacto afectivo.</p>"
+          },
+          {
+            "id": "it-52-3",
+            "icon": "fi fi-rr-book-alt",
+            "title": "",
+            "text": "<p>Contribuir al proceso de intervención educativa.</p>"
+          },
+          {
+            "id": "it-52-4",
+            "icon": "fi fi-rr-shield-check",
+            "title": "",
+            "text": "<p>Garantizar la seguridad del centro.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque2/images/slide53.jpg",
+        "imageSize": 30,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Personas autorizadas",
+        "text": "<p>Pueden visitar al menor:</p><ul><li>Familiares directos.</li><li>Personas previamente autorizadas.</li><li>Representantes legales.</li><li>Profesionales acreditados.</li></ul><p><em>Pulsa sobre la imagen para descubrir más.</em></p>",
+        "overlayContent": "<p>Toda visita requiere autorización previa y verificación de identidad.</p>",
+        "overlayAlignX": "right",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 54,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "blocking": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Organización de las visitas",
+        "text": "<p>Las visitas:</p><ul><li>Se realizan en horarios establecidos.</li><li>Se desarrollan en espacios habilitados.</li><li>Están supervisadas por personal educativo.</li><li>Tienen duración determinada.</li></ul><p><em>Pulsa sobre la imagen para descubrir más.</em></p>",
+        "images": [
+          {
+            "id": "ii-54-1",
+            "image": "./contents/course-bloque2/images/ii_slide54.jpg",
+            "title": "Régimen de visitas",
+            "titleTheme": "light",
+            "titlePosition": "top",
+            "hoverScale": 0.95,
+            "overlayContent": "<p>El régimen puede variar según:</p><ul><li>Tipo de medida judicial.</li><li>Fase de cumplimiento.</li><li>Conducta del menor.</li><li>Valoración del equipo educativo.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque2/images/img_slide55.jpg",
+        "title": "Normas de seguridad",
+        "text": "<p>Durante las visitas:</p><ul><li>Se controla la entrada y salida de objetos.</li><li>Se puede realizar revisión de pertenencias.</li><li>No se permite introducir objetos prohibidos.</li><li>Puede interrumpirse la visita ante conductas inadecuadas.</li></ul><p>La seguridad del centro prima sobre cualquier otra consideración.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 56,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque2/images/img_slide56.jpg",
+        "title": "Suspensión o limitación",
+        "text": "<p>Las visitas pueden:</p><ul><li>Ser restringidas por resolución judicial.</li><li>Interrumpirse por riesgo para el orden o la seguridad.</li></ul><p>Toda decisión debe quedar registrada.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 57,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "top",
+        "image": "./contents/course-bloque2/images/img_slide57.jpg",
+        "title": "Visitas especiales",
+        "text": "<p>En situaciones extraordinarias (enfermedad grave, circunstancias excepcionales), la Dirección puede autorizar visitas especiales fuera del régimen ordinario.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 58,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Protocolo de entrega, recepción, custodia y administración de medicación",
+        "sectionSubtitle": "Este protocolo desarrolla el derecho a la salud reconocido en el artículo 56 de la LORPM y regula todo el circuito de medicación en el Área de Reforma del CRZ.",
+        "image": "./contents/course-bloque2/images/sc_slide58.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2,
+        "subtitle": "Este protocolo desarrolla el derecho a la salud reconocido en el artículo 56 de la LORPM y regula todo el circuito de medicación en el Área de Reforma del CRZ."
+      }
+    },
+    {
+      "id": 59,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque2/images/img_slide59.jpg",
+        "title": "Objetivo general",
+        "text": "<p>Garantizar:</p><ul><li>Prescripción correcta.</li><li>Entrega segura.</li><li>Custodia adecuada.</li><li>Administración conforme a pauta médica.</li><li>Control de incidencias.</li></ul><p><em>Pulsa sobre la imagen para descubrir más.</em></p>",
+        "overlayContent": "<p>Se establecen responsabilidades diferenciadas entre:</p><ul><li>Personal sanitario (JCYL).</li><li>Personal educativo (concierto social).</li></ul>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 60,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Procedimiento de entrega",
+        "text": "",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "items": [
+          {
+            "id": "acc-60-1",
+            "title": "Prescripción médica",
+            "text": "<ul><li>La medicación es prescrita por el médico de Atención Primaria asignado (CS Delicias 1).</li><li>Se gestiona mediante receta electrónica.</li></ul>"
+          },
+          {
+            "id": "acc-60-2",
+            "title": "Pedido y suministro",
+            "text": "<ul><li>Enfermería descarga diariamente las recetas.</li><li>Se realiza pedido a la farmacia asignada.</li><li>La farmacia suministra la medicación solicitada.</li></ul>"
+          },
+          {
+            "id": "acc-60-3",
+            "title": "Preparación",
+            "text": "<ul><li>Cada menor tiene pastilleros individuales.</li><li>Se cargan diariamente.</li><li>Se distribuyen de lunes a viernes (10:30–11:30).</li></ul><p>Los viernes se entrega medicación para todo el fin de semana.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "contentAlign": "start",
+        "blocking": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Recepción y custodia",
+        "text": "<p>El protocolo distingue tres fases clave en la recepción y custodia de medicación.</p><p><em>Pulsa sobre cada imagen para conocer más.</em></p>",
+        "items": [
+          {
+            "id": "popup-61-1",
+            "image": "./contents/course-bloque2/images/popup_slide61_1.jpg",
+            "title": "Recepción",
+            "titleTheme": "light",
+            "hoverScale": 0.95,
+            "popupTitle": "Recepción",
+            "popupContent": "<p>El personal educativo:</p><ul><li>Recibe la medicación.</li><li>Revisa junto a enfermería el contenido.</li><li>Registra la comprobación en el diario de unidad.</li><li>Comunica incidencias mediante parte.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.3,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "popup-61-2",
+            "image": "./contents/course-bloque2/images/popup_slide61_2.jpg",
+            "title": "Hoja de medicación",
+            "titleTheme": "light",
+            "hoverScale": 0.95,
+            "popupTitle": "Hoja de medicación",
+            "popupContent": "<p>Se entrega únicamente cuando hay cambios. Incluye:</p><ul><li>Medicación pautada.</li><li>Posibilidad de administrar ibuprofeno/paracetamol.</li><li>Alergias o intolerancias.</li></ul><p>Debe permanecer en el botiquín.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.5,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "popup-61-3",
+            "image": "./contents/course-bloque2/images/popup_slide61_3.jpg",
+            "title": "Custodia",
+            "titleTheme": "light",
+            "hoverScale": 0.95,
+            "popupTitle": "Custodia",
+            "popupContent": "<ul><li>Botiquín bajo llave.</li><li>Sin acceso de los menores.</li><li>Responsabilidad exclusiva del personal educativo.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.7,
+              "duration": 0.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "iconDirection": "horizontal",
+        "inline": true,
+        "exclusive": false,
+        "closable": true,
+        "blocking": true,
+        "iconStyle": "outlined",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Administración de la medicación",
+        "text": "<p>El personal educativo:</p><p>Pulsa sobre cada icono para conocer más.</p>",
+        "completedContent": "<p>La medicación psiquiátrica se tritura solo si está indicado expresamente.</p>",
+        "completedContentDelay": 1,
+        "items": [
+          {
+            "id": "it-62-1",
+            "icon": "fi fi-rr-document-signed",
+            "title": "",
+            "text": "<p>Sigue estrictamente la pauta sanitaria.</p>"
+          },
+          {
+            "id": "it-62-2",
+            "icon": "fi fi-rr-ban",
+            "title": "",
+            "text": "<p>No puede modificar dosis.</p>"
+          },
+          {
+            "id": "it-62-3",
+            "icon": "fi fi-rr-user",
+            "title": "",
+            "text": "<p>Administra individualmente.</p>"
+          },
+          {
+            "id": "it-62-4",
+            "icon": "fi fi-rr-eye",
+            "title": "",
+            "text": "<p>Comprueba ingesta (revisión visual de boca y lengua).</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "blocking": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "title": "Incidencias",
+        "items": [
+          {
+            "id": "tab-63-1",
+            "label": "Negativa a tomar medicación",
+            "text": "<ul><li>Se interviene educativamente.</li><li>Si persiste, firma renuncia (Anexo I).</li><li>Se realiza parte informativo.</li><li>Se sigue ofreciendo la medicación.</li></ul><p>En medidas terapéuticas no se permite renuncia.</p><p>Se comunica siempre a enfermería o SUAP.</p>"
+          },
+          {
+            "id": "tab-63-2",
+            "label": "Medicación traída al ingreso",
+            "text": "<ul><li>Se informa a coordinación.</li><li>Se entregan informes médicos.</li><li>Solo el médico decide si se administra.</li></ul>"
+          },
+          {
+            "id": "tab-63-3",
+            "label": "Prohibición absoluta",
+            "text": "<p>Está prohibido administrar medicación no autorizada por el equipo médico.</p>"
+          },
+          {
+            "id": "tab-63-4",
+            "label": "Ingesta errónea",
+            "text": "<ul><li>Comunicación inmediata al equipo médico.</li><li>Si fuera de horario → SUAP.</li><li>Si procede → traslado a urgencias según protocolo.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Protocolo de asistencia sanitaria de internos/as",
+        "sectionSubtitle": "",
+        "image": "./contents/course-bloque2/images/sc_slide64.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 65,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque2/images/img_slide65.jpg",
+        "title": "Asistencia médica no urgente",
+        "text": "<p>Solicitud de cita:</p><ul><li>Envío de correo electrónico a enfermería.</li><li>Con copia a coordinación.</li><li>Indicar:<ul><li>Nombre del/la interno/a.</li><li>Motivo de la consulta.</li></ul></li></ul>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 66,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Acompañamiento a consultas",
+        "text": "",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "items": [
+          {
+            "id": "acc-66-1",
+            "title": "El/la TAD",
+            "text": "<ul><li>Acompañará siempre al/la interno/a.</li><li>Independientemente de la asistencia de los progenitores.</li></ul>"
+          },
+          {
+            "id": "acc-66-2",
+            "title": "Progenitores",
+            "text": "<p>Pueden acceder a la consulta (ostentan patria potestad).</p>"
+          },
+          {
+            "id": "acc-66-3",
+            "title": "Función del/la TAD",
+            "text": "<ul><li>Garantizar la asistencia sanitaria.</li><li>Recabar información médica.</li><li>Registrar tratamiento pautado.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque2/images/img_slide67.jpg",
+        "title": "Sistema sanitario competente",
+        "text": "<p>Los/as internos/as con medida judicial:</p><ul><li>Dependen del sistema público de salud.</li><li>Aunque dispongan de seguro privado.</li></ul><p>Gestión desde el centro:</p><ul><li>Siempre a través de la Seguridad Social.</li><li>Excepción: prestaciones no cubiertas (ej. odontología).</li></ul>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 68,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Actuación ante urgencia médica con posible traslado en ambulancia",
+        "text": "<p>Procedimiento:</p><p>Pulsa sobre cada icono para conocer los pasos.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "vertical",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "it-68-1",
+            "icon": "fi fi-rr-megaphone",
+            "title": "",
+            "text": "<p>Equipo educativo informa a coordinación.</p>"
+          },
+          {
+            "id": "it-68-2",
+            "icon": "fi fi-rr-phone-call",
+            "title": "",
+            "text": "<p>Coordinación:</p><ul><li>Llama al 112.</li><li>Informa sobre:<ul><li>Situación.</li><li>Necesidad o no de custodia policial.</li></ul></li><li>Sigue indicaciones recibidas.</li></ul>"
+          },
+          {
+            "id": "it-68-3",
+            "icon": "fi fi-rr-bell-ring",
+            "title": "",
+            "text": "<p>Tras la llamada:</p><ul><li>Se informa al pabellón de control.</li><li>Se comunica posible acceso de:<ul><li>Vehículo sanitario.</li><li>Vehículo policial.</li></ul></li><li>Si procede, se solicita custodia policial por correo electrónico.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque2/images/img_slide69.jpg",
+        "title": "Urgencia sin necesidad de ambulancia",
+        "text": "<p>Ejemplos:</p><ul><li>Torceduras.</li><li>Lesiones leves.</li></ul><p>Requisitos:</p><ul><li>No precisar custodia.</li></ul><p>Actuación:</p><ul><li>Traslado por medios propios adecuados.</li><li>Siempre con acompañamiento de un/a educador/a.</li></ul>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        }
+      }
+    },
+    {
+      "id": 70,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Información a progenitores",
+        "text": "",
+        "blocking": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "items": [
+          {
+            "id": "tab-70-1",
+            "label": "Regla general",
+            "text": "<p>Se informará de las salidas médicas.</p>"
+          },
+          {
+            "id": "tab-70-2",
+            "label": "Excepción",
+            "text": "<p>Menores tutelados:</p><ul><li>No se informa.</li><li>Salvo situación de especial gravedad.</li></ul>"
+          },
+          {
+            "id": "tab-70-3",
+            "label": "Según tipo de salida",
+            "text": "<p>Citas programadas:</p><ul><li>Informa Trabajadora Social.</li></ul><p>Salidas no programadas (urgencias, derivaciones, etc.):</p><ul><li>Informa el equipo educativo.</li><li>Tras el regreso del/la menor al centro.</li><li>Excepción: si surge circunstancia grave durante la atención → información inmediata.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "layout": "closing",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "backgroundImage": ""
+      }
+    }
+  ],
+  "meta": {
+    "title": "Criterios Orientadores de la Actuación del Personal TAD",
+    "identifier": "curso-bloque-2",
+    "masteryScore": 100
+  }
+}

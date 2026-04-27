@@ -1,0 +1,73 @@
+// Colors
+$color-primary: #1e979f;
+$color-primary-light: #25b2bb;
+$color-primary-dark: #177a81;
+$color-accent: #1e979f;
+$color-bg: #f7fafc;
+$color-bg-dark: #edf2f7;
+$color-white: #ffffff;
+$color-bg-slide: $color-white;
+$color-black: #000000;
+$color-text: #2d3748;
+$color-text-dark: #333333;
+$color-text-light: #5a6578;
+$color-focus: #1e979f;
+$color-text-inverse: $color-white;
+$color-border: #e2e8f0;
+$color-disabled: #a0aec0;
+$color-visited: #38a169;
+$color-active: $color-accent;
+
+// Overlays
+$overlay-dark: rgba($color-black, 0.5);
+$overlay-dark-medium: rgba($color-black, 0.45);
+$overlay-shadow: rgba($color-black, 0.3);
+
+// Sidebar
+$sidebar-width: 320px;
+$sidebar-collapsed-width: 48px;
+$sidebar-bg: #fafafa;
+$sidebar-bg-hover: #efefef;
+$sidebar-text: #464646;
+$sidebar-text-active: #1a1a1a;
+
+// Navigation bar
+$navigation-height: 56px;
+
+// Typography
+$font-family: 'Nunito', 'Segoe UI', system-ui, -apple-system, sans-serif;
+$font-family-headings: 'Montserrat', 'Segoe UI', system-ui, -apple-system, sans-serif;
+$font-size-base: 20px;
+$font-size-sm: 18px;
+$font-size-lg: 22px;
+$font-size-xl: 32px;
+$font-size-2xl: 42px;
+$font-size-3xl: 56px;
+$font-weight-body: 400;
+$font-weight-heading: 300;
+$line-height-base: 1.7;
+$letter-spacing-wide: 0.05em;
+$letter-spacing-normal: 0.03em;
+
+// Spacing
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+$spacing-2xl: 48px;
+
+// Border radius
+$border-radius-sm: 4px;
+$border-radius-md: 6px;
+
+// Indicator
+$indicator-size: 6px;
+
+// Transitions
+$transition-fast: 0.2s ease;
+$transition-normal: 0.3s ease;
+
+// Breakpoints
+$breakpoint-tablet: 768px;
+$breakpoint-desktop: 1024px;

@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm build:scorm -- --course bloque2 --skip-build)"
+    ]
+  }
+}

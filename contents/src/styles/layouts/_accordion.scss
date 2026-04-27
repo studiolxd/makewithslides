@@ -1,0 +1,151 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+@use 'animations';
+
+.layout-accordion {
+  @include slide-fill;
+  @include flex-column;
+  position: relative;
+  padding: $spacing-2xl;
+
+  &__header {
+    @include flex-column;
+    margin-bottom: $spacing-xl;
+    flex-shrink: 0;
+  }
+
+  &__title {
+    font-size: $font-size-2xl;
+    font-weight: $font-weight-heading;
+    color: $color-primary;
+    margin: 0 0 $spacing-lg;
+  }
+
+  &__text {
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    color: $color-text;
+    max-width: 860px;
+
+    p {
+      margin: 0 0 $spacing-md;
+    }
+
+    ul,
+    ol {
+      margin: 0 0 $spacing-md;
+      padding-left: $spacing-lg;
+    }
+
+    li {
+      margin-bottom: $spacing-xs;
+    }
+
+    strong {
+      color: $color-primary;
+    }
+  }
+
+  &__body {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+  }
+
+  &__item {
+    border-bottom: 1px solid $color-border;
+
+    &:first-child {
+      border-top: 1px solid $color-border;
+    }
+  }
+
+  &__item-header {
+    display: flex;
+    align-items: center;
+    gap: $spacing-md;
+    width: 100%;
+    padding: $spacing-lg $spacing-md;
+    border: none;
+    background: none;
+    cursor: pointer;
+    text-align: left;
+    transition: background $transition-fast;
+
+    &:hover {
+      background: transparent;
+    }
+
+    &--open {
+      background: transparent;
+    }
+
+    &:focus-visible {
+      outline: 3px solid $color-focus;
+      outline-offset: 2px;
+    }
+  }
+
+  &__item-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: $font-size-base;
+    color: $color-primary;
+    flex-shrink: 0;
+  }
+
+  &__item-title {
+    flex: 1;
+    font-size: $font-size-base;
+    font-weight: $font-weight-heading;
+    color: $color-text-dark;
+  }
+
+  &__chevron {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: $color-primary;
+    transition: transform $transition-normal;
+    flex-shrink: 0;
+
+    .layout-accordion__item-header--open & {
+      transform: rotate(180deg);
+    }
+  }
+
+  &__item-content {
+    overflow: hidden;
+    transition: max-height $transition-normal;
+  }
+
+  &__item-body {
+    padding: $spacing-md $spacing-md $spacing-lg ($spacing-md + 20px + $spacing-md);
+  }
+
+  &__item-text {
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    color: $color-text;
+
+    p {
+      margin: 0 0 $spacing-sm;
+    }
+
+    ul,
+    ol {
+      margin: 0 0 $spacing-md;
+      padding-left: $spacing-lg;
+    }
+
+    li {
+      margin-bottom: $spacing-xs;
+    }
+
+    strong {
+      color: $color-primary;
+    }
+  }
+}

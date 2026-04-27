@@ -1,0 +1,1889 @@
+{
+  "config": {
+    "lockIndex": false,
+    "scormVersion": "1.2"
+  },
+  "index": [
+    {
+      "title": "Inicio",
+      "numbered": false,
+      "level": 1,
+      "slideId": 0
+    },
+    {
+      "title": "Protocolo de prevención y actuación ante conductas violentas",
+      "numbered": true,
+      "level": 1,
+      "slideId": 1
+    },
+    {
+      "title": "Presentación del manual",
+      "numbered": true,
+      "level": 2,
+      "slideId": 2
+    },
+    {
+      "title": "Marco institucional y finalidad de los protocolos",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3
+    },
+    {
+      "title": "Principios rectores de intervención",
+      "numbered": true,
+      "level": 2,
+      "slideId": 4
+    },
+    {
+      "title": "Conceptualización de la violencia en el centro",
+      "numbered": true,
+      "level": 2,
+      "slideId": 5
+    },
+    {
+      "title": "Prevención de conductas violentas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 6
+    },
+    {
+      "title": "Detección y comunicación de incidencias",
+      "numbered": true,
+      "level": 2,
+      "slideId": 7
+    },
+    {
+      "title": "Actuación ante conductas violentas dentro del centro",
+      "numbered": true,
+      "level": 2,
+      "slideId": 8
+    },
+    {
+      "title": "Violencia tipo II (usuario-profesional)",
+      "numbered": true,
+      "level": 2,
+      "slideId": 9
+    },
+    {
+      "title": "Violencia entre menores",
+      "numbered": true,
+      "level": 2,
+      "slideId": 10
+    },
+    {
+      "title": "Violencia en el entorno sociofamiliar",
+      "numbered": true,
+      "level": 2,
+      "slideId": 11
+    },
+    {
+      "title": "Actuación frente a violencia de grupos sociales externos",
+      "numbered": true,
+      "level": 2,
+      "slideId": 12
+    },
+    {
+      "title": "Comisión multidisciplinar y coordinación interna",
+      "numbered": true,
+      "level": 2,
+      "slideId": 13
+    },
+    {
+      "title": "Registro, documentación y comunicación",
+      "numbered": true,
+      "level": 2,
+      "slideId": 14
+    },
+    {
+      "title": "Intervención educativa posterior",
+      "numbered": true,
+      "level": 2,
+      "slideId": 15
+    },
+    {
+      "title": "Responsabilidad profesional y seguridad jurídica",
+      "numbered": true,
+      "level": 2,
+      "slideId": 16
+    },
+    {
+      "title": "Conclusiones",
+      "numbered": true,
+      "level": 2,
+      "slideId": 17
+    },
+    {
+      "title": "Programa de prevención de conductas autolíticas",
+      "numbered": true,
+      "level": 1,
+      "slideId": 18
+    },
+    {
+      "title": "Objetivos del programa",
+      "numbered": true,
+      "level": 2,
+      "slideId": 19
+    },
+    {
+      "title": "Perfiles de riesgo",
+      "numbered": true,
+      "level": 2,
+      "slideId": 20
+    },
+    {
+      "title": "Procedimientos de detección y actuación",
+      "numbered": true,
+      "level": 2,
+      "slideId": 21
+    },
+    {
+      "title": "Gestión del programa",
+      "numbered": true,
+      "level": 2,
+      "slideId": 22
+    },
+    {
+      "title": "Medidas preventivas",
+      "numbered": true,
+      "level": 2,
+      "slideId": 23
+    },
+    {
+      "title": "Evaluación del programa",
+      "numbered": true,
+      "level": 2,
+      "slideId": 24
+    },
+    {
+      "title": "Programa de seguimiento de menores en situación de huelga de hambre o sed",
+      "numbered": true,
+      "level": 1,
+      "slideId": 25
+    },
+    {
+      "title": "Exposición de motivos",
+      "numbered": true,
+      "level": 2,
+      "slideId": 26
+    },
+    {
+      "title": "Objetivos del programa",
+      "numbered": true,
+      "level": 2,
+      "slideId": 27
+    },
+    {
+      "title": "Criterios para identificar una huelga de hambre y/o sed",
+      "numbered": true,
+      "level": 2,
+      "slideId": 28
+    },
+    {
+      "title": "Procedimientos de actuación",
+      "numbered": true,
+      "level": 2,
+      "slideId": 29
+    },
+    {
+      "title": "Cese de la huelga",
+      "numbered": true,
+      "level": 2,
+      "slideId": 30
+    },
+    {
+      "title": "Evaluación del programa",
+      "numbered": true,
+      "level": 2,
+      "slideId": 31
+    },
+    {
+      "title": "Protocolo de actuación en caso de fuga o reingreso tras fuga",
+      "numbered": true,
+      "level": 1,
+      "slideId": 32
+    },
+    {
+      "title": "Actuaciones tras la fuga",
+      "numbered": true,
+      "level": 2,
+      "slideId": 33
+    },
+    {
+      "title": "Actuaciones inmediatas al reingreso",
+      "numbered": true,
+      "level": 2,
+      "slideId": 34
+    },
+    {
+      "title": "Actuaciones posteriores al reingreso",
+      "numbered": true,
+      "level": 2,
+      "slideId": 35
+    },
+    {
+      "title": "Custodia de pertenencias",
+      "numbered": true,
+      "level": 2,
+      "slideId": 36
+    },
+    {
+      "title": "Denuncias por fuga",
+      "numbered": true,
+      "level": 2,
+      "slideId": 37
+    },
+    {
+      "title": "Medidas de autoprotección",
+      "numbered": true,
+      "level": 1,
+      "slideId": 38
+    },
+    {
+      "title": "Introducción",
+      "numbered": true,
+      "level": 2,
+      "slideId": 39
+    },
+    {
+      "title": "Marco profesional y factores de riesgo",
+      "numbered": true,
+      "level": 2,
+      "slideId": 40
+    },
+    {
+      "title": "Medidas de autoprotección física",
+      "numbered": true,
+      "level": 2,
+      "slideId": 41
+    },
+    {
+      "title": "Medidas de autoprotección psíquica",
+      "numbered": true,
+      "level": 2,
+      "slideId": 42
+    },
+    {
+      "title": "Estrategias prácticas de autocuidado integral",
+      "numbered": true,
+      "level": 2,
+      "slideId": 43
+    },
+    {
+      "title": "Cultura institucional de autoprotección",
+      "numbered": true,
+      "level": 2,
+      "slideId": 44
+    },
+    {
+      "title": "Conclusión",
+      "numbered": true,
+      "level": 2,
+      "slideId": 45
+    },
+    {
+      "title": "Cierre",
+      "numbered": false,
+      "level": 1,
+      "slideId": 46
+    }
+  ],
+  "slides": [
+    {
+      "id": 0,
+      "layout": "cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "unitTitle": "PROTOCOLOS DE ACTUACIÓN Y MEDIDAS DE AUTO-<br />PROTECCIÓN",
+        "backgroundVideo": "./contents/course-bloque3/videos/cover.mp4"
+      }
+    },
+    {
+      "id": 1,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Protocolo de prevención y actuación ante conductas violentas",
+        "image": "./contents/course-bloque3/images/1_izq.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 2,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque3/images/1-1_izq.jpg",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Presentación del manual",
+        "text": "<p>El <strong style=\"color: #1e979f;\">presente manual</strong> tiene como <strong style=\"color: #1e979f;\">finalidad</strong> ofrecer una <strong style=\"color: #1e979f;\">guía estructurada y práctica para la formación</strong> de los profesionales educativos del centro en materia de:</p><ul><li>Prevención de conductas violentas</li><li>Detección precoz de situaciones de riesgo</li><li>Actuación ante incidentes</li><li>Protección de menores y profesionales</li><li>Coordinación institucional</li></ul>",
+        "overlayContent": "<p>Se trata de un documento de trabajo que sintetiza los protocolos internos vigentes y los traduce a criterios operativos claros para la práctica diaria.</p>",
+        "overlayAlignX": "left",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 3,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque3/images/1-2_drch.jpg",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.6
+        },
+        "title": "Marco institucional y finalidad de los protocolos",
+        "text": "<p>Los protocolos existentes responden a la necesidad de:</p><ul><li>Garantizar un entorno seguro</li><li>Actuar de forma homogénea ante incidentes</li><li>Proteger derechos fundamentales</li><li>Dotar de seguridad jurídica al profesional</li><li>Establecer canales claros de comunicación y actuación</li></ul>",
+        "overlayContent": "<p>No son instrumentos punitivos, sino herramientas de organización, prevención y protección.</p>",
+        "overlayAlignX": "right",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 4,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Principios rectores de intervención",
+        "text": "<p>Toda actuación debe regirse por los siguientes <strong>principios fundamentales</strong>.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "exclusive": true,
+        "closable": true,
+        "items": [
+          {
+            "id": "prin-1",
+            "icon": "fi fi-tr-child",
+            "title": "Interés superior del menor",
+            "text": "<p>La intervención debe proteger su integridad física, emocional y educativa.</p>"
+          },
+          {
+            "id": "prin-2",
+            "icon": "fi fi-tr-shield-trust",
+            "title": "Prevención como eje prioritario",
+            "text": "<p>La intervención eficaz comienza antes del incidente.</p>"
+          },
+          {
+            "id": "prin-3",
+            "icon": "fi fi-tr-scale",
+            "title": "Proporcionalidad",
+            "text": "<p>La respuesta debe ajustarse a la gravedad y al riesgo real.</p>"
+          },
+          {
+            "id": "prin-4",
+            "icon": "fi fi-tr-hand-peace",
+            "title": "Mínima intervención coercitiva",
+            "text": "<p>La contención física es el último recurso.</p>"
+          },
+          {
+            "id": "prin-5",
+            "icon": "fi fi-tr-people-network-partner",
+            "title": "Coordinación y trazabilidad",
+            "text": "<p>Toda actuación relevante debe comunicarse y registrarse.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "title": "Conceptualización de la violencia en el centro",
+        "text": "<p>Conoce las diferentes <strong>situaciones de violencia</strong> que pueden presentarse en el centro.</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "viol-1",
+            "image": "./contents/course-bloque3/images/1-4_izq-1.jpg",
+            "title": "Tipologías de violencia",
+            "popupTitle": "Tipologías de violencia",
+            "popupContent": "<p>Puede producirse:</p><ul><li>Entre menores</li><li>De menor a profesional (Violencia Tipo II)</li><li>De profesional a menor</li><li>Entre profesionales</li><li>En el entorno sociofamiliar</li><li>Desde grupos sociales externos</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.3,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "viol-2",
+            "image": "./contents/course-bloque3/images/1-4_izq-2.jpg",
+            "title": "Situación de sospecha",
+            "popupTitle": "Situación de sospecha",
+            "popupContent": "<p>Se activa cuando existen indicios o comportamientos compatibles con violencia:</p><ul><li>Control excesivo</li><li>Aislamiento</li><li>Amenazas</li><li>Cambios emocionales bruscos</li><li>Señales físicas o psicológicas indirectas</li></ul><p>Ante la sospecha, debe comunicarse a Dirección.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.5,
+              "duration": 0.6
+            }
+          },
+          {
+            "id": "viol-3",
+            "image": "./contents/course-bloque3/images/1-4_izq-3.jpg",
+            "title": "Situación de evidencia",
+            "popupTitle": "Situación de evidencia",
+            "popupContent": "<p>Se da cuando:</p><ul><li>Se presencia una agresión</li><li>Existen lesiones</li><li>Hay manifestaciones claras de violencia</li><li>Se reciben amenazas explícitas</li></ul><p>En este caso, la actuación es inmediata.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.7,
+              "duration": 0.6
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Prevención de conductas violentas",
+        "text": "<p>Conoce los diferentes <strong style=\"color: #1e979f;\">tipos de prevención</strong> de conductas violentas en el centro.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "prev-1",
+            "title": "Prevención primaria (estructural y educativa)",
+            "text": "<p>Incluye:</p><ul><li>Normas claras y conocidas</li><li>Rutinas estructuradas</li><li>Supervisión activa</li><li>Clima educativo estable</li><li>Programas transversales sobre:<ul><li>Gestión emocional</li><li>Resolución de conflictos</li><li>Igualdad y prevención de violencia</li></ul></li></ul><p>El educador es modelo de conducta y regulación emocional.</p>"
+          },
+          {
+            "id": "prev-2",
+            "title": "Prevención secundaria (detección precoz)",
+            "text": "<p>Indicadores de alerta:</p><ul><li>Incremento de verbalizaciones agresivas</li><li>Aumento de conflictos</li><li>Cambios de grupo relacional</li><li>Presión externa detectada</li><li>Conductas desafiantes reiteradas</li></ul><p>Se requiere:</p><ul><li>Registro</li><li>Comunicación interna</li><li>Valoración en equipo</li></ul>"
+          },
+          {
+            "id": "prev-3",
+            "title": "Prevención terciaria (riesgo elevado)",
+            "text": "<p>Medidas posibles:</p><ul><li>Supervisión reforzada</li><li>Separación preventiva</li><li>Ajustes de actividades</li><li>Valoración psicológica</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "title": "Detección y comunicación de incidencias",
+        "text": "<p>Cualquier persona que detecte:</p><ul><li>Sospecha</li><li>Evidencia</li><li>Riesgo inminente</li></ul><p>Debe comunicarlo inmediatamente a Dirección o a quien delegue.</p>",
+        "image": "./contents/course-bloque3/images/1-6_drch.jpg",
+        "imagePosition": "left",
+        "imageSize": 40,
+        "contentAlign": "middle"
+      }
+    },
+    {
+      "id": 8,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Actuación ante conductas violentas dentro del centro",
+        "text": "<p>Explora las diferentes <strong style=\"color: #1e979f;\">actuaciones</strong> ante conductas violentas dentro del centro.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "blocking": true,
+        "items": [
+          {
+            "id": "actu-1",
+            "label": "Intervención educativa inmediata",
+            "text": "<ul><li>Mantener tono calmado</li><li>Evitar confrontación directa</li><li>Utilizar desescalada verbal</li><li>Ofrecer alternativas</li></ul>"
+          },
+          {
+            "id": "actu-2",
+            "label": "Medidas de seguridad",
+            "text": "<ul><li>Solicitar apoyo</li><li>Separar implicados</li><li>Proteger a terceros</li><li>Retirar objetos peligrosos</li></ul>"
+          },
+          {
+            "id": "actu-3",
+            "label": "Contención física (último recurso)",
+            "text": "<p><strong>Solo cuando:</strong></p><ul><li>Existe riesgo inmediato.</li><li>Se han agotado otras medidas.</li></ul><p><strong>Debe ser:</strong></p><ul><li>Proporcional.</li><li>Breve.</li><li>Supervisada.</li><li>Registrada formalmente.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Violencia tipo II (usuario-profesional)",
+        "text": "<p>Descubre las <strong>características y protocolos específicos</strong> para la violencia tipo II.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "vt2-1",
+            "title": "Definición",
+            "text": "<p>Agresión física, verbal o amenaza ejercida por un menor hacia un profesional.</p>"
+          },
+          {
+            "id": "vt2-2",
+            "title": "Factores de riesgo",
+            "text": "<ul><li>Baja tolerancia a la frustración.</li><li>Impulsividad.</li><li>Historia de violencia.</li><li>Situaciones judiciales tensas.</li><li>Influencia grupal.</li></ul>"
+          },
+          {
+            "id": "vt2-3",
+            "title": "Protocolo de actuación",
+            "text": "<ul><li>Desescalada.</li><li>Protección física.</li><li>Solicitud de apoyo.</li><li>Registro formal.</li><li>Comunicación a Dirección.</li><li>Valoración de medidas disciplinarias y educativas.</li></ul>"
+          },
+          {
+            "id": "vt2-4",
+            "title": "Protección del profesional",
+            "text": "<p><strong>El profesional tiene derecho a:</strong></p><ul><li>Entorno seguro.</li><li>Registro formal del incidente.</li><li>Apoyo institucional.</li><li>Asesoramiento jurídico si procede.</li><li>Atención psicológica si es necesario.</li></ul><p>La agresión no debe normalizarse.</p>"
+          }
+        ],
+        "image": "./contents/course-bloque3/images/1-9_izq.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque3/images/1-9_izq.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "contentAlign": "end",
+        "title": "Violencia entre menores",
+        "text": "<p><strong>Actuación:</strong></p><ul><li>Separación inmediata.</li><li>Evaluación individual.</li><li>Valoración médica si procede.</li><li>Comisión multidisciplinar.</li><li>Plan educativo específico.</li></ul><p><strong>Se prioriza:</strong></p><ul><li>Reparación del daño.</li><li>Restablecimiento del clima.</li><li>Prevención de represalias.</li></ul>"
+      }
+    },
+    {
+      "id": 11,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque3/images/1-10_drch.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "contentAlign": "start",
+        "title": "Violencia en el entorno sociofamiliar",
+        "text": "<p><strong>Puede manifestarse:</strong></p><ul><li>En visitas.</li><li>Durante permisos.</li><li>En salidas formativas.</li><li>En conflictos familiares.</li></ul><p><strong>Procedimiento:</strong></p><ul><li>Registro de información.</li><li>Valoración técnica.</li><li>Comunicación a autoridad competente si procede.</li><li>Medidas de protección del menor.</li></ul>"
+      }
+    },
+    {
+      "id": 12,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Actuación frente a violencia de grupos sociales externos",
+        "text": "<p>Conoce los <strong style=\"color: #1e979f;\">escenarios y medidas</strong> ante amenazas externas.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "blocking": true,
+        "items": [
+          {
+            "id": "externo-1",
+            "label": "Escenarios posibles",
+            "text": "<ul><li>Amenazas externas.</li><li>Intentos de acceso indebido.</li><li>Ajustes de cuentas.</li><li>Presión grupal sobre menores.</li></ul>"
+          },
+          {
+            "id": "externo-2",
+            "label": "Medidas",
+            "text": "<ul><li>Evaluación de riesgo previa a salidas.</li><li>Ajustes organizativos.</li><li>Coordinación con fuerzas de seguridad si procede.</li><li>Protección de identidad del menor afectado.</li></ul>"
+          }
+        ],
+        "image": "./contents/course-bloque3/images/1-12_drch.jpg"
+      }
+    },
+    {
+      "id": 13,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "blocking": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "title": "Comisión multidisciplinar y coordinación interna",
+        "text": "<p><strong>En situaciones graves se convoca comisión compuesta por:</strong></p><ul><li>Dirección.</li><li>Coordinación.</li><li>Educadores implicados.</li><li>Psicología.</li><li>Personal médico.</li><li>Asesoría jurídica.</li></ul>",
+        "images": [
+          {
+            "id": "comision-1",
+            "image": "./contents/course-bloque3/images/1-12_drch.jpg",
+            "title": "Funciones",
+            "overlayContent": "<ul><li>Recabar información.</li><li>Valorar gravedad.</li><li>Proponer medidas.</li><li>Decidir comunicación a autoridades.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.2,
+              "duration": 0.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "blocking": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "title": "Registro, documentación y comunicación",
+        "text": "<p><strong>Todo incidente relevante debe incluir:</strong></p><ul><li>Fecha y hora.</li><li>Descripción objetiva.</li><li>Personas implicadas.</li><li>Medidas adoptadas.</li><li>Seguimiento previsto.</li></ul><p><strong>La Dirección remitirá dossier a autoridades cuando proceda.</strong></p>",
+        "images": [
+          {
+            "id": "registro-1",
+            "image": "./contents/course-bloque3/images/1-13_izq.jpg",
+            "title": "El registro",
+            "overlayContent": "<ul><li>Protege al profesional.</li><li>Garantiza transparencia.</li><li>Permite análisis preventivo.</li></ul>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.2,
+              "duration": 0.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque3/images/1-14_abajo.jpg",
+        "objectPosition": "center bottom",
+        "imageSize": 30,
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.12
+        },
+        "contentAlign": "start",
+        "title": "Intervención educativa posterior",
+        "text": "<p><strong>Tras un incidente:</strong></p><ol><li>Entrevista individual.</li><li>Análisis de desencadenantes.</li><li>Identificación emocional.</li><li>Reparación.</li><li>Plan de mejora conductual.</li></ol><p>El objetivo es <strong>reeducar, no únicamente sancionar</strong>.</p>"
+      }
+    },
+    {
+      "id": 16,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Responsabilidad profesional y seguridad jurídica",
+        "text": "<p>Conoce la correcta aplicación del protocolo:</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "completedContent": "<p><strong>La omisión de comunicación puede generar responsabilidad.</strong></p>",
+        "items": [
+          {
+            "id": "resp-1",
+            "icon": "fi fi-tr-shield-trust",
+            "text": "<p>Evitar responsabilidades disciplinarias.</p>"
+          },
+          {
+            "id": "resp-2",
+            "icon": "fi fi-tr-scale",
+            "text": "<p>Protege ante reclamaciones.</p>"
+          },
+          {
+            "id": "resp-3",
+            "icon": "fi fi-tr-users",
+            "text": "<p>Garantiza coherencia institucional.</p>"
+          },
+          {
+            "id": "resp-4",
+            "icon": "fi fi-tr-check-double",
+            "text": "<p>Refuerza legitimidad profesional.</p>"
+          }
+        ],
+        "image": "./contents/course-bloque3/images/1-16_drch.jpg"
+      }
+    },
+    {
+      "id": 17,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque3/images/1-16_drch.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "title": "Conclusiones",
+        "text": "<ul><li>La prevención comienza en la relación educativa diaria.</li><li>La calma profesional reduce la escalada.</li><li>La comunicación protege.</li><li>El registro garantiza seguridad jurídica.</li><li>La actuación coordinada es más eficaz que la intervención aislada.</li></ul><p><strong style=\"color: #1e979f;\">Este manual constituye una herramienta práctica para consolidar una cultura institucional basada en la prevención, la seguridad y la coherencia educativa.</strong></p>"
+      }
+    },
+    {
+      "id": 18,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Programa de prevención de conductas autolíticas",
+        "image": "./contents/course-bloque3/images/2_izq.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2,
+        "subtitle": "Este programa tiene como objetivo principal prevenir y gestionar conductas autolíticas (autolesiones o intentos de suicidio) en menores y jóvenes internados en el centro."
+      }
+    },
+    {
+      "id": 19,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Objetivos del programa",
+        "text": "<p>Conoce los objetivos principales.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "inline": true,
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "items": [
+          {
+            "id": "obj-1",
+            "icon": "fi fi-tr-search-alt",
+            "text": "<p>Detección temprana de situaciones de riesgo, especialmente en los primeros días tras el ingreso.</p>"
+          },
+          {
+            "id": "obj-2",
+            "icon": "fi fi-tr-clipboard-list",
+            "text": "<p>Establecimiento de criterios de actuación para minimizar riesgos y consecuencias.</p>"
+          },
+          {
+            "id": "obj-3",
+            "icon": "fi fi-tr-users",
+            "text": "<p>Coordinación entre profesionales para sistematizar la información y evaluar los casos.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque3/images/2-2_drch.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.4,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "contentAlign": "end",
+        "title": "Perfiles de riesgo",
+        "text": "<p><strong>Se identifican factores de riesgo como:</strong></p><ul><li>Delitos contra personas o libertad sexual.</li><li>Antecedentes de autolesiones, problemas psicoafectivos o consumo de sustancias.</li><li>Factores ambientales (rupturas familiares, pérdidas personales).</li><li>Factores personales (depresión, antecedentes familiares de suicidio, consumo de sustancias).</li></ul>"
+      }
+    },
+    {
+      "id": 21,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "title": "Procedimientos de detección y actuación",
+        "text": "<p>Navega por los procedimientos de <strong style=\"color: #1e979f;\">detección y actuación</strong>.</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Unidad de Acogida",
+            "text": "<p>Observación inicial tras el ingreso, recopilación de información personal y evaluación médica y psicológica en las primeras 24 horas.</p>"
+          },
+          {
+            "title": "Otras unidades",
+            "text": "<p>Evaluación continua por técnicos y adopción de medidas preventivas inmediatas en caso de riesgo.</p>"
+          },
+          {
+            "title": "Medidas urgentes",
+            "text": "<p>Implementación de acciones inmediatas en casos de alto riesgo, como seguimiento permanente, retirada de objetos peligrosos y apoyo psicológico.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Gestión del programa",
+        "text": "<p>Conoce los <strong>elementos fundamentales</strong> para la gestión integral del programa de prevención.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "gestion-1",
+            "title": "Inclusión formal",
+            "text": "<p>Evaluación del riesgo por el Equipo Técnico y Servicios Sanitarios, con apertura de una carpeta personal para cada menor incluido.</p>"
+          },
+          {
+            "id": "gestion-2",
+            "title": "Duración",
+            "text": "<p>Mínimo de 7 días, con posibilidad de ampliación según la evolución del caso.</p>"
+          },
+          {
+            "id": "gestion-3",
+            "title": "Seguimiento",
+            "text": "<p>Informes diarios sobre el estado del menor, incluyendo aspectos emocionales y conductuales.</p>"
+          },
+          {
+            "id": "gestion-4",
+            "title": "Baja del programa",
+            "text": "<p>Decisión formal basada en la evaluación del caso, comunicada a todos los profesionales implicados.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque3/images/2-5_izq.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.4,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "title": "Medidas preventivas",
+        "text": "<ul><li>Seguimiento médico y psicológico.</li><li>Control de objetos peligrosos en la habitación.</li><li>Ubicación en habitación compartida con un menor de apoyo.</li><li>Atención a las relaciones familiares y sociales.</li><li>Control de sueño y observación constante.</li></ul>"
+      }
+    },
+    {
+      "id": 24,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "top",
+        "image": "./contents/course-bloque3/images/2-6_arriba.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.4,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "title": "Evaluación del programa",
+        "text": "<p>El programa se evalúa anualmente mediante una memoria que incluye datos sobre casos, medidas aplicadas y resultados, con el objetivo de mejorar su eficacia.</p><p>El documento también incluye modelos de evaluación, seguimiento, alta y baja en el programa, así como una tabla de valoración del riesgo de suicidio.</p>"
+      }
+    },
+    {
+      "id": 25,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Programa de seguimiento de menores en situación de huelga de hambre o sed",
+        "image": "./contents/course-bloque3/images/3_izq.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2,
+        "subtitle": "Este programa tiene como objetivo garantizar la vida, integridad física y salud de los menores internados, estableciendo procedimientos para identificar, gestionar y resolver situaciones de huelga de hambre y/o sed."
+      }
+    },
+    {
+      "id": 26,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque3/images/3-1_izq.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.4,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "title": "Exposición de motivos",
+        "text": "<ul><li>La legislación exige que los centros de internamiento protejan la vida, integridad física y salud de los menores.</li><li>Las huelgas de hambre y/o sed son consideradas conductas de presión o chantaje para resolver conflictos, no como actos autolíticos.</li></ul>"
+      }
+    },
+    {
+      "id": 27,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "./contents/course-bloque3/images/3-2_abajo.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.12
+        },
+        "title": "Objetivos del programa",
+        "text": "<ul><li>Definir e identificar situaciones de huelga de hambre y/o sed.</li><li>Establecer procedimientos para minimizar riesgos a la salud y resolver conflictos de manera adecuada.</li><li>Coordinar la actuación de los profesionales implicados.</li></ul>"
+      }
+    },
+    {
+      "id": 28,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Criterios para identificar una huelga de hambre y/o sed",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "text": "<p>Descubre los diferentes criterios.</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "huelga-neg",
+            "label": "Negativos",
+            "text": "<p>No se consideran huelgas de hambre las negativas puntuales a ingerir ciertos alimentos, las protestas durante una comida específica, o la falta de ingesta por menos de 24 horas.</p>"
+          },
+          {
+            "id": "huelga-pos",
+            "label": "Positivos",
+            "text": "<p>Declaración expresa del menor de iniciar una huelga de hambre/sed por más de 24 horas, o la falta de ingesta de alimentos por más de 24 horas sin declaración explícita.</p>"
+          }
+        ],
+        "image": "./contents/course-bloque3/images/3-2_abajo.jpg"
+      }
+    },
+    {
+      "id": 29,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Procedimientos de actuación",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "text": "<p>Conoce los diferentes procedimientos de actuación.</p>",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "proced-1",
+            "title": "Conocimiento de la situación",
+            "text": "<p>Los técnicos informan a la dirección del centro mediante modelos específicos.</p>"
+          },
+          {
+            "id": "proced-2",
+            "title": "Actuaciones inmediatas",
+            "text": "<p>Los servicios sanitarios evalúan la salud del menor y establecen medidas de seguimiento. El responsable de caso y el equipo técnico investigan las causas del conflicto y orientan al menor hacia soluciones alternativas.</p>"
+          },
+          {
+            "id": "proced-3",
+            "title": "Seguimiento",
+            "text": "<p>Se realiza un control diario del estado del menor, incluyendo visitas médicas y fichas de seguimiento. Se informa al Juzgado de Menores sobre el inicio, incidencias y cese de la huelga.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque3/images/3-5_drch.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.4,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "title": "Cese de la huelga",
+        "text": "<ul><li>Puede finalizar por declaración expresa del menor o por observación directa de que ha retomado la ingesta de alimentos.</li><li>Se comunica el cese al Juzgado de Menores y se revisa el programa de ejecución del menor para fomentar la resolución de conflictos.</li></ul>"
+      }
+    },
+    {
+      "id": 31,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "top",
+        "image": "./contents/course-bloque3/images/3-6_arriba.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6
+        },
+        "title": "Evaluación del programa",
+        "text": "<ul><li>Se registra información sobre cada caso en un Libro-Registro.</li><li>Al final de cada año, se elabora una memoria anual que incluye estadísticas sobre tipos de huelga, motivos, duración y características de los menores involucrados.</li></ul>"
+      }
+    },
+    {
+      "id": 32,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Protocolo de actuación en caso de fuga o reingreso tras fuga",
+        "image": "./contents/course-bloque3/images/4_izq.jpg",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2,
+        "contentAlign": "center",
+        "subtitle": "Se establecen procedimientos para garantizar la seguridad de los menores y la gestión adecuada de sus pertenencias."
+      }
+    },
+    {
+      "id": 33,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Actuaciones tras la fuga",
+        "text": "<p>Conoce las actuaciones a realizar.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "inline": true,
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "items": [
+          {
+            "id": "act-fuga-1",
+            "icon": "fi fi-tr-phone-call",
+            "text": "<p>Presentar denuncia en la comisaría de policía, por teléfono o fax.</p>"
+          },
+          {
+            "id": "act-fuga-2",
+            "icon": "fi fi-tr-users",
+            "text": "<p>Contactar con la familia del menor para obtener información sobre su paradero.</p>"
+          },
+          {
+            "id": "act-fuga-3",
+            "icon": "fi fi-tr-search-alt",
+            "text": "<p>Evaluar el riesgo de fuga de otros menores.</p>"
+          },
+          {
+            "id": "act-fuga-4",
+            "icon": "fi fi-tr-inbox-in",
+            "text": "<p>Recoger y custodiar las pertenencias del menor fugado.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "text": "<p>Navega por las diferentes <strong style=\"color: #1e979f;\">actuaciones</strong> posibles.</p>",
+        "title": "Actuaciones inmediatas al reingreso",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "text": "<p>Realizar un cacheo y retirar objetos peligrosos.</p>"
+          },
+          {
+            "text": "<p>Examinar físicamente al menor para detectar lesiones y documentarlas.</p>"
+          },
+          {
+            "text": "<p>Realizar una entrevista con el menor y registrar la información obtenida.</p>"
+          },
+          {
+            "text": "<p>Proveer higiene personal y ropa limpia.</p>"
+          },
+          {
+            "text": "<p>Informar a la dirección del centro y a la policía sobre el reingreso.</p>"
+          },
+          {
+            "text": "<p>Atender necesidades médicas y alimenticias del menor.</p>"
+          },
+          {
+            "text": "<p>Cuando se produce un reingreso de fuga, hay que hacer un parte informativo donde se refleje la hora de reingreso, quién trae al chico al Centro y el estado del chico, al cual se adjuntará la entrevista personal de reingreso.</p>"
+          },
+          {
+            "text": "<p>Se avisará a los padres del reingreso y de la de fuga, incluso si se trata de internos tutelados.</p>"
+          },
+          {
+            "text": "<p>Cuando un menor reingresa por fuga, en la siguiente Comisión se realizará un nuevo PIE o MII.</p>"
+          },
+          {
+            "text": "<p>No acudirá a talleres hasta que al menos haya pasado una semana y se haga el NPIE o NMII y se decida.</p>"
+          }
+        ],
+        "image": "./contents/course-bloque3/images/4_izq.jpg"
+      }
+    },
+    {
+      "id": 35,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Actuaciones posteriores al reingreso",
+        "text": "<p>Conoce las actuaciones a realizar.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "reingreso-1",
+            "icon": "fi fi-tr-eyes",
+            "text": "<p>Separar al menor del grupo para observación y evaluación.</p>"
+          },
+          {
+            "id": "reingreso-2",
+            "icon": "fi fi-tr-search-alt",
+            "text": "<p>Analizar las causas de la fuga y revisar los criterios de salida del centro.</p>"
+          },
+          {
+            "id": "reingreso-3",
+            "icon": "fi fi-tr-clipboard-list",
+            "text": "<p>Actualizar el Plan Individualizado Educativo (PIE) en un plazo de 15 días.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "./contents/course-bloque3/images/4-4_drch.jpg",
+        "objectPosition": "center bottom",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.3,
+          "duration": 0.5,
+          "stagger": 0.12
+        },
+        "contentAlign": "start",
+        "title": "Custodia de pertenencias",
+        "text": "<p>Las pertenencias del menor fugado se guardarán en una bolsa identificada durante tres días en su habitación o en un espacio seguro. Si no reingresa en 30 días, se contactará a la familia para que las recoja.</p><p>Los peines y cepillos de los fugados se llevarán a acogida en sobres de papel, no en plástico. Si el/la interno/a reingresase lo podría utilizar (en función del estado en el que se encuentren).</p><p>Si la policía viniese a por un cepillo de dientes de un fugado se lo entregaremos y el/la educador/a hará un parte reflejándolo.</p>"
+      }
+    },
+    {
+      "id": 37,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 65,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.4
+        },
+        "text": "<p>Navega para conocer el protocolo tras las denuncias por fuga.</p>",
+        "title": "Denuncias por fuga",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "id": "denuncia-1",
+            "text": "<p>Se establece un formato específico para interponer denuncias por fax en casos de fuga o no reingreso, con observaciones específicas según el área de intervención.</p>"
+          },
+          {
+            "id": "denuncia-2",
+            "text": "<p>Se considerará incumplimiento de horario en una salida del centro todo supuesto en que el menor/joven no regrese a la hora establecida en las condiciones de la salida. Se interpondrá denuncia por fuga una vez transcurrida 1 hora de cortesía, por si se tratase de algún retraso por causas ajenas a la voluntad del menor/joven que no haya podido comunicarnos, a la vez que le facilitamos un tiempo prudencial para que pueda reconsiderar su comportamiento.</p>"
+          },
+          {
+            "id": "denuncia-3",
+            "text": "<p>En caso de que se trate de una salida programada, cuando la fuga se produzca en presencia del personal TAD que realice el acompañamiento, la denuncia se interpondrá en el momento que regrese el personal TAD al centro.</p>"
+          },
+          {
+            "id": "denuncia-4",
+            "text": "<p>Tras una fuga e inmediatamente después de interponer la correspondiente denuncia, el interno precisará de custodia si reingresara al centro.</p>"
+          },
+          {
+            "id": "denuncia-5",
+            "text": "<p>El protocolo busca garantizar la seguridad de los menores y la correcta gestión de los procedimientos administrativos en estos casos.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Medidas de autoprotección",
+        "image": "./contents/course-bloque3/images/5_izq.jpeg",
+        "imagePosition": "left",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 39,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Introducción",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "text": "<p>Conoce los <strong style=\"color: #1e979f;\">puntos de partida</strong> de las medidas de autoprotección.</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "tab-trabajo",
+            "label": "El trabajo",
+            "text": "<p>El trabajo como educador en un centro de reforma de menores en España constituye una labor de alta responsabilidad social, emocional y profesional. Estos centros, regulados principalmente por la Ley Orgánica 5/2000, reguladora de la responsabilidad penal de los menores, tienen como finalidad no solo el cumplimiento de medidas judiciales, sino fundamentalmente la reeducación y reinserción social de los jóvenes.</p>"
+          },
+          {
+            "id": "tab-educador",
+            "label": "El educador",
+            "text": "<p>El educador es una figura clave en este proceso. Su intervención directa y cotidiana con menores que presentan conductas disruptivas, trayectorias de exclusión social, antecedentes de violencia o trastornos de conducta implica una exposición constante a situaciones de tensión, conflicto y riesgo.</p>"
+          },
+          {
+            "id": "tab-imprescindible",
+            "label": "Imprescindible",
+            "text": "<p>Por ello, resulta imprescindible el desarrollo de medidas de autoprotección tanto físicas como psíquicas, entendidas no como mecanismos defensivos que distancien al profesional de su función educativa, sino como herramientas que garantizan una intervención segura, eficaz y sostenida en el tiempo.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 50,
+        "contentAlign": "middle",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "slideUp",
+          "delay": 0.2,
+          "duration": 0.5,
+          "stagger": 0.15
+        },
+        "title": "Marco profesional y factores de riesgo",
+        "text": "<p>Conoce los diferentes tipos de riesgos en el desempeño profesional.</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "contexto",
+            "image": "./contents/course-bloque3/images/5-2_izq-3.jpg",
+            "title": "Características del contexto",
+            "popupTitle": "Características del contexto",
+            "popupContent": "<p>Los centros de reforma de menores pueden albergar jóvenes con perfiles muy diversos:</p><ul><li>Conductas violentas.</li><li>Consumo problemático de sustancias.</li><li>Trastornos de conducta.</li><li>Trayectorias de victimización previa.</li><li>Déficits en habilidades sociales y emocionales.</li></ul><p>El educador trabaja en un entorno estructurado, con normas claras y supervisión institucional, pero también sometido a:</p><ul><li>Episodios de agresividad verbal o física.</li><li>Intentos de manipulación emocional.</li><li>Situaciones de crisis conductual.</li><li>Presión institucional y burocrática.</li><li>Trabajo por turnos.</li></ul>",
+            "imageAnimation": {
+              "type": "slideUp",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "riesgos-fisicos",
+            "image": "./contents/course-bloque3/images/5-2_izq-2.jpg",
+            "title": "Riesgos físicos",
+            "popupTitle": "Riesgos físicos",
+            "popupContent": "<ul><li>Agresiones físicas.</li><li>Empujones, golpes o lanzamiento de objetos.</li><li>Intervenciones educativas en contenciones físicas.</li><li>Accidentes durante actividades deportivas o talleres.</li></ul>",
+            "imageAnimation": {
+              "type": "slideUp",
+              "delay": 0.4,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "riesgos-psiquicos",
+            "image": "./contents/course-bloque3/images/5-2_izq-1.jpg",
+            "title": "Riesgos psíquicos",
+            "popupTitle": "Riesgos psíquicos",
+            "popupContent": "<ul><li>Estrés crónico.</li><li>Fatiga emocional.</li><li>Desgaste profesional (burnout).</li><li>Despersonalización.</li><li>Ansiedad anticipatoria.</li><li>Impacto por exposición continuada a relatos traumáticos.</li></ul>",
+            "imageAnimation": {
+              "type": "slideUp",
+              "delay": 0.6,
+              "duration": 0.5
+            }
+          }
+        ],
+        "image": "./contents/course-bloque3/images/5_izq.jpeg"
+      }
+    },
+    {
+      "id": 41,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Medidas de autoprotección física",
+        "text": "<p>La autoprotección física no implica adoptar una actitud autoritaria o defensiva, sino aplicar <strong style=\"color: #1e979f;\">estrategias preventivas</strong> basadas en la <strong style=\"color: #1e979f;\">seguridad profesional</strong>. Conoce las <strong style=\"color: #1e979f;\">diferentes medidas</strong>.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "protocolos",
+            "title": "Formación en protocolos y normativa",
+            "text": "<p>El educador debe conocer:</p><ul><li>Protocolos internos del centro.</li><li>Procedimientos de actuación ante crisis.</li><li>Normativa sobre contenciones físicas.</li><li>Uso proporcional de la fuerza.</li><li>Coordinación con el equipo de seguridad.</li></ul><p>El conocimiento normativo reduce la improvisación y minimiza riesgos.</p>"
+          },
+          {
+            "id": "posicionamiento",
+            "title": "Posicionamiento corporal y control del espacio",
+            "text": "<p>Algunas medidas básicas incluyen:</p><ul><li>Mantener siempre una distancia de seguridad adecuada.</li><li>Evitar situarse entre el menor y una salida.</li><li>Mantener el campo visual amplio.</li><li>No dar la espalda en situaciones tensas.</li><li>Ubicarse cerca de apoyos estructurales si la situación escala.</li></ul><p>El control del espacio físico es una herramienta preventiva fundamental.</p>"
+          },
+          {
+            "id": "equipo",
+            "title": "Trabajo en equipo",
+            "text": "<p>La intervención nunca debe realizarse en aislamiento cuando existe riesgo potencial. Es esencial:</p><ul><li>Comunicación constante con compañeros.</li><li>Aviso temprano ante escalada de tensión.</li><li>Intervención coordinada.</li><li>Uso de señales internas de alerta.</li></ul><p>La cohesión del equipo es un factor protector clave.</p>"
+          },
+          {
+            "id": "desescalada",
+            "title": "Técnicas de desescalada",
+            "text": "<p>La prevención física comienza en la desescalada verbal:</p><ul><li>Uso de tono calmado.</li><li>Mensajes claros y breves.</li><li>Evitar provocaciones.</li><li>No entrar en confrontación de poder.</li><li>Validar emociones sin legitimar conductas inadecuadas.</li></ul><p>Una buena gestión comunicativa reduce la probabilidad de agresión.</p>"
+          },
+          {
+            "id": "autocuidado",
+            "title": "Autocuidado físico",
+            "text": "<p>El educador debe mantener:</p><ul><li>Condición física adecuada.</li><li>Descanso suficiente.</li><li>Alimentación equilibrada.</li><li>Atención a lesiones tempranas.</li></ul><p>Un cuerpo fatigado reacciona peor ante situaciones de tensión.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "Medidas de autoprotección psíquica",
+        "text": "<p>La autoprotección psíquica es igual o más importante que la física. El desgaste emocional acumulado puede <strong style=\"color: #1e979f;\">afectar gravemente la calidad de la intervención</strong>. Conoce las <strong style=\"color: #1e979f;\">diferentes medidas</strong>.</p>",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.5
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.2,
+          "duration": 0.5
+        },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "limites",
+            "title": "Establecimiento de límites profesionales",
+            "text": "<p>Es fundamental:</p><ul><li>Diferenciar implicación de sobre implicación.</li><li>No asumir responsabilidades que corresponden al menor.</li><li>No trasladar conflictos personales al ámbito laboral.</li><li>Evitar relaciones duales o excesivamente personalizadas.</li></ul><p>El educador debe ser cercano, pero no convertirse en figura salvadora ni parental sustituta.</p>"
+          },
+          {
+            "id": "regulacion",
+            "title": "Regulación emocional",
+            "text": "<p>El profesional debe desarrollar habilidades como:</p><ul><li>Identificación de emociones propias.</li><li>Autorregulación ante provocaciones.</li><li>Manejo de la ira.</li><li>Control de impulsividad.</li></ul><p>Un educador que pierde el control emocional pierde autoridad pedagógica y aumenta el riesgo de conflicto.</p>"
+          },
+          {
+            "id": "supervision",
+            "title": "Supervisión y apoyo profesional",
+            "text": "<p>La supervisión técnica:</p><ul><li>Permite analizar casos complejos.</li><li>Reduce la carga emocional individual.</li><li>Favorece la toma de decisiones compartida.</li><li>Previene errores derivados de la saturación emocional.</li></ul><p>El espacio de supervisión no es signo de debilidad, sino de profesionalidad.</p>"
+          },
+          {
+            "id": "burnout",
+            "title": "Prevención del síndrome de burnout",
+            "text": "<p>El burnout se caracteriza por:</p><ul><li>Cansancio emocional.</li><li>Despersonalización.</li><li>Sensación de ineficacia.</li></ul><p>Medidas preventivas:</p><ul><li>Rotación de tareas.</li><li>Espacios de descanso real.</li><li>Formación continua.</li><li>Reconocimiento institucional.</li><li>Separación clara entre vida laboral y personal.</li></ul>"
+          },
+          {
+            "id": "traumatico",
+            "title": "Gestión del impacto traumático secundario",
+            "text": "<p>La exposición a relatos de violencia, abusos o abandono puede generar trauma vicario.</p><p>Para prevenirlo:</p><ul><li>Evitar la identificación excesiva.</li><li>Practicar técnicas de descarga emocional.</li><li>Buscar apoyo psicológico si es necesario.</li><li>No normalizar el malestar persistente.</li></ul>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 85,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6,
+          "stagger": 1.0
+        },
+        "title": "Estrategias prácticas de autocuidado integral",
+        "text": "<p>Detectar precozmente estos signos permite intervenir antes de que el desgaste sea grave.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "rutinas",
+            "image": "./contents/course-bloque3/images/5-5_abajo-1.jpg",
+            "title": "Rutinas fuera de trabajo",
+            "overlayContent": "<ul><li>Actividad física regular.</li><li>Espacios de ocio.</li><li>Relaciones sociales ajenas al ámbito laboral.</li><li>Técnicas de relajación o mindfulness.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.2,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "higiene",
+            "image": "./contents/course-bloque3/images/5-5_abajo-2.jpg",
+            "title": "Higiene mental",
+            "overlayContent": "<ul><li>Reflexión estructurada de la jornada.</li><li>Identificación de logros.</li><li>Reencuadre cognitivo de situaciones conflictivas.</li><li>Diario profesional si resulta útil.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.4,
+              "duration": 0.5
+            }
+          },
+          {
+            "id": "senales",
+            "image": "./contents/course-bloque3/images/5-5_abajo-3.jpg",
+            "title": "Señales de alerta personal",
+            "overlayContent": "<p>El profesional debe prestar atención a:</p><ul><li>Irritabilidad constante.</li><li>Alteraciones del sueño.</li><li>Somatizaciones.</li><li>Distanciamiento afectivo.</li><li>Pensamientos intrusivos sobre el trabajo.</li></ul>",
+            "imageAnimation": {
+              "type": "slideDown",
+              "delay": 0.6,
+              "duration": 0.5
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "./contents/course-bloque3/images/5-6_izq.jpg",
+        "imageAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.8
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.4,
+          "duration": 0.6,
+          "stagger": 0.15
+        },
+        "contentAlign": "end",
+        "title": "Cultura institucional de autoprotección",
+        "text": "<p>La autoprotección no puede recaer únicamente en el individuo. El centro debe promover:</p><ul><li>Protocolos claros.</li><li>Formación continua.</li><li>Supervisión estructurada.</li><li>Evaluaciones de riesgos.</li><li>Clima laboral saludable.</li><li>Canales de comunicación efectivos.</li></ul><p>Un entorno organizacional sano reduce significativamente el riesgo profesional.</p>"
+      }
+    },
+    {
+      "id": 45,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 40,
+        "contentAlign": "start",
+        "titleAnimation": {
+          "type": "fadeIn",
+          "delay": 0,
+          "duration": 0.6
+        },
+        "textAnimation": {
+          "type": "fadeIn",
+          "delay": 0.3,
+          "duration": 0.5
+        },
+        "title": "Conclusión",
+        "text": "<p>El desempeño de funciones como educador en un centro de reforma de menores en España exige una combinación equilibrada de vocación, firmeza, capacidad técnica y estabilidad emocional. La autoprotección física y psíquica no supone una barrera frente al menor, sino una condición imprescindible para una intervención educativa eficaz y sostenida en el tiempo.</p><p>El educador que se protege adecuadamente:</p><ul><li>Interviene con mayor serenidad.</li><li>Reduce riesgos físicos.</li><li>Previene el desgaste profesional.</li><li>Mejora la calidad de la relación educativa.</li><li>Favorece procesos reales de reinserción.</li></ul><p>Haz clic en la imagen para reflexionar sobre este mensaje final.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "conclusion-1",
+            "image": "./contents/course-bloque3/images/5-7_drch.jpg",
+            "title": "La autoprotección",
+            "overlayContent": "<p>En definitiva, la autoprotección no es un acto individualista, sino una responsabilidad profesional que garantiza la continuidad, seguridad y calidad de la intervención socioeducativa en el marco establecido por la Ley Orgánica 5/2000.</p>",
+            "imageAnimation": {
+              "type": "fadeIn",
+              "delay": 0.2,
+              "duration": 0.8
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "layout": "closing",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "backgroundImage": "./contents/course-bloque3/images/closing.jpg"
+      }
+    }
+  ],
+  "meta": {
+    "title": "Protocolos de Actuación y Medidas de Autoprotección",
+    "identifier": "curso-bloque-3",
+    "masteryScore": 100
+  }
+}

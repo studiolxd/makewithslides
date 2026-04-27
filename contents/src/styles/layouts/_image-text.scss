@@ -1,0 +1,136 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+@use 'animations';
+
+.layout-image-text {
+  @include slide-fill;
+  display: flex;
+
+  // Horizontal: left / right
+  &--left,
+  &--right {
+    flex-direction: row;
+
+    .layout-image-text__content {
+      height: 100%;
+    }
+  }
+
+  &--right {
+    flex-direction: row-reverse;
+  }
+
+  // Vertical: top / bottom
+  &--top,
+  &--bottom {
+    flex-direction: column;
+
+    .layout-image-text__content {
+      width: 100%;
+    }
+  }
+
+  &--bottom {
+    flex-direction: column-reverse;
+  }
+
+  &__image-wrapper {
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+
+  &__image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  &__content {
+    @include flex-column;
+    flex: 1;
+    min-width: 0;
+    min-height: 0;
+    justify-content: center;
+    padding: $spacing-2xl;
+    overflow-y: auto;
+  }
+
+  &__title {
+    font-size: $font-size-2xl;
+    font-weight: $font-weight-heading;
+    color: $color-primary;
+    margin: 0 0 $spacing-lg;
+  }
+
+  &__text {
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    color: $color-text;
+
+    p {
+      margin: 0 0 $spacing-md;
+    }
+
+    ul,
+    ol {
+      margin: 0 0 $spacing-md;
+      padding-left: $spacing-lg;
+    }
+
+    li {
+      margin-bottom: $spacing-xs;
+    }
+
+    strong {
+      color: $color-primary;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: $spacing-md;
+
+      td {
+        padding: $spacing-xs $spacing-md;
+        border: 1px solid rgba($color-primary, 0.2);
+
+        &:first-child {
+          font-weight: $font-weight-heading;
+          color: $color-primary;
+          white-space: nowrap;
+        }
+      }
+
+      tr:nth-child(even) td {
+        background-color: rgba($color-primary, 0.05);
+      }
+    }
+  }
+
+  &__icon-popup-btn {
+    align-self: flex-start;
+    margin-top: $spacing-md;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: 2px solid $color-primary;
+    background: transparent;
+    color: $color-primary;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s;
+
+    &:hover {
+      background: $color-primary;
+      color: #fff;
+    }
+
+    &--completed {
+      background: $color-primary;
+      color: #fff;
+    }
+  }
+}

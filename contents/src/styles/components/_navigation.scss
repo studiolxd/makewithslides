@@ -1,0 +1,55 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: $navigation-height;
+  padding: 0 $spacing-md;
+  background: $color-bg;
+  border-top: 1px solid $color-border;
+  flex-shrink: 0;
+
+  @include tablet {
+    height: 40px;
+    padding: 0 $spacing-sm;
+  }
+
+  &__buttons {
+    display: flex;
+    gap: $spacing-xs;
+  }
+
+  &__btn {
+    @include flex-center;
+    padding: $spacing-sm;
+    border: none;
+    background: none;
+    color: $color-text-light;
+    font-size: $font-size-xl;
+    padding-top: calc($spacing-sm + 2px);
+    cursor: pointer;
+    transition: color $transition-fast;
+
+    @include tablet {
+      font-size: 22px;
+      padding: $spacing-xs;
+      padding-top: calc($spacing-xs + 2px);
+    }
+
+    &:hover:not(:disabled) {
+      color: $color-primary;
+    }
+
+    &:focus-visible {
+      outline: 2px solid $color-focus;
+      outline-offset: 2px;
+    }
+
+    &:disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+    }
+  }
+}

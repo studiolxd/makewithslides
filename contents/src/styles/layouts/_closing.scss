@@ -1,0 +1,82 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+
+@keyframes closing-zoom-in {
+  from {
+    transform: scale(0);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+.layout-closing {
+  @include slide-fill;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+
+  &__video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+  }
+
+  &__box {
+    position: absolute;
+    bottom: $spacing-2xl;
+    right: $spacing-2xl;
+    background: $color-primary;
+    padding: $spacing-2xl;
+    aspect-ratio: 1 / 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    animation: it-fadeIn 0.3s ease-out forwards;
+  }
+
+  &__box-top {
+    text-align: right;
+  }
+
+  &__box-title {
+    font-family: $font-family-headings;
+    font-size: $font-size-2xl;
+    font-weight: $font-weight-heading;
+    color: $color-white;
+    margin: 0 0 $spacing-md;
+  }
+
+  &__box-line {
+    display: block;
+    width: 100%;
+    height: 1px;
+    background: $color-white;
+    transform-origin: right;
+    transform: scaleX(0);
+    animation: ii-line-grow 0.6s 0.3s ease-out forwards;
+  }
+
+  &__box-bottom {
+    text-align: left;
+  }
+
+  &__box-icon {
+    height: 48px;
+    margin-bottom: $spacing-sm;
+    transform: scale(0);
+    animation: closing-zoom-in 0.5s 0.6s ease-out forwards;
+  }
+
+  &__box-text {
+    font-family: $font-family;
+    font-size: $font-size-base;
+    color: $color-white;
+    margin: 0;
+  }
+}

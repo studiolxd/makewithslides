@@ -1,0 +1,45 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+
+.slide-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: $navigation-height;
+  padding: 0;
+  background: $color-white;
+  border-bottom: 2px solid $color-primary;
+  flex-shrink: 0;
+
+  @include tablet {
+    height: 36px;
+  }
+
+  &__title {
+    font-family: $font-family-headings;
+    font-size: $font-size-sm;
+    font-weight: $font-weight-heading;
+    color: $color-text-inverse;
+    background: $color-primary;
+    padding: 0 $spacing-lg;
+    align-self: stretch;
+    display: flex;
+    align-items: center;
+
+    @include tablet {
+      font-size: 13px;
+      padding: 0 $spacing-sm;
+    }
+  }
+
+  &__pagination {
+    font-size: $font-size-sm;
+    color: $color-text-light;
+    padding: 0 $spacing-lg;
+
+    @include tablet {
+      font-size: 12px;
+      padding: 0 $spacing-sm;
+    }
+  }
+}

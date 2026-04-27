@@ -1,0 +1,263 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+@use 'animations';
+
+// === Layout ===
+
+.layout-icon-tabs {
+  @include slide-fill;
+  @include flex-column;
+  position: relative;
+  padding: $spacing-2xl;
+
+  &__header {
+    @include flex-column;
+    margin-bottom: $spacing-xl;
+    flex-shrink: 0;
+  }
+
+  &__title {
+    font-size: $font-size-2xl;
+    font-weight: $font-weight-heading;
+    color: $color-primary;
+    margin: 0 0 $spacing-lg;
+  }
+
+  &__text {
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    color: $color-text;
+    max-width: 860px;
+
+    p {
+      margin: 0 0 $spacing-md;
+    }
+
+    ul,
+    ol {
+      margin: 0 0 $spacing-md;
+      padding-left: $spacing-lg;
+    }
+
+    li {
+      margin-bottom: $spacing-xs;
+    }
+
+    strong {
+      color: $color-primary;
+    }
+  }
+
+  // === Body: icons + reveal ===
+
+  &__body {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+
+    &--horizontal {
+      flex-direction: column;
+
+      .layout-icon-tabs__icons {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: $spacing-lg;
+        margin-bottom: $spacing-xl;
+      }
+
+      .layout-icon-tabs__reveal-panel {
+        flex: 1;
+        min-height: 0;
+        overflow-y: auto;
+      }
+    }
+
+    &--vertical {
+      flex-direction: row;
+
+      .layout-icon-tabs__icons {
+        flex-direction: column;
+        gap: $spacing-md;
+        margin-right: $spacing-xl;
+        flex-shrink: 0;
+      }
+
+      .layout-icon-tabs__reveal-panel {
+        flex: 1;
+        min-width: 0;
+        overflow-y: auto;
+      }
+    }
+
+    // Inline mode
+    &--inline {
+      flex-direction: column;
+      overflow-y: auto;
+      padding: $spacing-xs;
+    }
+  }
+
+  &__icons {
+    display: flex;
+  }
+
+  // === Reveal panel ===
+
+  &__reveal-panel {
+    display: flex;
+    flex-direction: column;
+    gap: $spacing-md;
+  }
+
+  &__reveal {
+    border-radius: $border-radius-md;
+    padding: $spacing-lg $spacing-xl;
+    animation: it-fadeIn 0.3s ease-out forwards;
+  }
+
+  &__reveal-title {
+    font-size: $font-size-lg;
+    font-weight: $font-weight-heading;
+    color: $color-primary;
+    margin: 0 0 $spacing-md;
+  }
+
+  &__reveal-text {
+    font-size: $font-size-base;
+    line-height: $line-height-base;
+    color: $color-text;
+
+    p {
+      margin: 0 0 $spacing-sm;
+    }
+
+    ul,
+    ol {
+      margin: 0 0 $spacing-md;
+      padding-left: $spacing-lg;
+    }
+
+    li {
+      margin-bottom: $spacing-xs;
+    }
+
+    strong {
+      color: $color-primary;
+    }
+  }
+
+  // === Inline item ===
+
+  &__inline-item {
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    align-items: flex-start;
+    gap: $spacing-lg;
+
+    .icon-tab {
+      flex-shrink: 0;
+    }
+  }
+
+  &__inline-reveal {
+    flex: 1;
+    min-width: 0;
+    padding-top: $spacing-sm;
+    animation: it-fadeIn 0.3s ease-out forwards;
+  }
+
+  &__completed {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: $spacing-lg $spacing-2xl;
+    text-align: center;
+    font-size: $font-size-lg;
+    font-weight: $font-weight-heading;
+    line-height: $line-height-base;
+    color: $color-primary;
+    background: $color-bg-slide;
+    animation: it-fadeIn 0.4s ease-out forwards;
+
+    p {
+      margin: 0;
+    }
+  }
+}
+
+// === Icon Tab Button ===
+
+.icon-tab {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 72px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0;
+  flex-shrink: 0;
+
+  &:hover .icon-tab__icon {
+    transform: scale(1.1);
+  }
+
+  &:focus-visible {
+    outline: 3px solid $color-focus;
+    outline-offset: 2px;
+  }
+
+  &--active {
+  }
+
+  &--completed {
+    .icon-tab__icon {
+      color: $color-primary-dark;
+    }
+  }
+
+  // Filled variant: primary circle, white icon
+  &--filled {
+    .icon-tab__icon {
+      background: $color-primary;
+      border-radius: 50%;
+      width: 100%;
+      height: 100%;
+      color: $color-white;
+    }
+
+    &:hover .icon-tab__icon {
+      background: $color-primary-dark;
+    }
+
+    &.icon-tab--active .icon-tab__icon {
+      background: $color-primary-dark;
+    }
+
+    &.icon-tab--completed .icon-tab__icon {
+      background: $color-primary-dark;
+    }
+  }
+
+  &__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    color: $color-primary;
+    transition: transform $transition-fast, background $transition-fast;
+
+    img {
+      width: 40px;
+      height: 40px;
+      object-fit: contain;
+      border-radius: $border-radius-sm;
+    }
+  }
+
+}

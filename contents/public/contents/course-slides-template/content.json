@@ -1,0 +1,1917 @@
+{
+  "config": {
+    "lockIndex": false,
+    "scormVersion": "1.2"
+  },
+  "index": [
+    {
+      "title": "Layout: cover",
+      "numbered": false,
+      "level": 1,
+      "slideId": 1000
+    },
+    {
+      "title": "cover: con video de fondo",
+      "numbered": false,
+      "level": 2,
+      "slideId": 1001
+    },
+    {
+      "title": "cover: con imagen de fondo",
+      "numbered": false,
+      "level": 2,
+      "slideId": 1002
+    },
+    {
+      "title": "Layout: section-cover",
+      "numbered": false,
+      "level": 1,
+      "slideId": 2000
+    },
+    {
+      "title": "section-cover: imagePosition right (default), sin subtitle",
+      "numbered": false,
+      "level": 2,
+      "slideId": 2001
+    },
+    {
+      "title": "section-cover: imagePosition left, con subtitle",
+      "numbered": false,
+      "level": 2,
+      "slideId": 2002
+    },
+    {
+      "title": "section-cover: con imageFocus y subtitle largo",
+      "numbered": false,
+      "level": 2,
+      "slideId": 2003
+    },
+    {
+      "title": "Layout: image-text",
+      "numbered": true,
+      "level": 1,
+      "slideId": 3000
+    },
+    {
+      "title": "image-text: imagen izquierda, contentAlign start",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3001
+    },
+    {
+      "title": "image-text: imagen izquierda, contentAlign middle",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3002
+    },
+    {
+      "title": "image-text: imagen izquierda, contentAlign end",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3003
+    },
+    {
+      "title": "image-text: imagen derecha, contentAlign start",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3004
+    },
+    {
+      "title": "image-text: imagen derecha, contentAlign end",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3005
+    },
+    {
+      "title": "image-text: imagen arriba",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3006
+    },
+    {
+      "title": "image-text: imagen abajo",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3007
+    },
+    {
+      "title": "image-text: sin imagen",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3008
+    },
+    {
+      "title": "image-text: con iconPopup",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3009
+    },
+    {
+      "title": "image-text: showInlineTitle true, imageSize 45",
+      "numbered": true,
+      "level": 2,
+      "slideId": 3010
+    },
+    {
+      "title": "Layout: interactive-text",
+      "numbered": true,
+      "level": 1,
+      "slideId": 4000
+    },
+    {
+      "title": "interactive-text: imagen izquierda, overlay center-center",
+      "numbered": true,
+      "level": 2,
+      "slideId": 4001
+    },
+    {
+      "title": "interactive-text: imagen izquierda, overlay left-top",
+      "numbered": true,
+      "level": 2,
+      "slideId": 4002
+    },
+    {
+      "title": "interactive-text: imagen izquierda, overlay right-bottom",
+      "numbered": true,
+      "level": 2,
+      "slideId": 4003
+    },
+    {
+      "title": "interactive-text: imagen derecha, overlay center-center",
+      "numbered": true,
+      "level": 2,
+      "slideId": 4004
+    },
+    {
+      "title": "interactive-text: imagen arriba, overlay left-top",
+      "numbered": true,
+      "level": 2,
+      "slideId": 4005
+    },
+    {
+      "title": "interactive-text: imagen abajo, overlay right-bottom",
+      "numbered": true,
+      "level": 2,
+      "slideId": 4006
+    },
+    {
+      "title": "Layout: interactive-image",
+      "numbered": true,
+      "level": 1,
+      "slideId": 5000
+    },
+    {
+      "title": "interactive-image: 4 imágenes, izquierda, blocking true, titlePosition top",
+      "numbered": true,
+      "level": 2,
+      "slideId": 5001
+    },
+    {
+      "title": "interactive-image: 2 imágenes, derecha, blocking false",
+      "numbered": true,
+      "level": 2,
+      "slideId": 5002
+    },
+    {
+      "title": "interactive-image: 1 imagen, derecha, blocking true",
+      "numbered": true,
+      "level": 2,
+      "slideId": 5003
+    },
+    {
+      "title": "interactive-image: 3 imágenes, abajo, blocking true",
+      "numbered": true,
+      "level": 2,
+      "slideId": 5004
+    },
+    {
+      "title": "interactive-image: 2 imágenes, arriba",
+      "numbered": true,
+      "level": 2,
+      "slideId": 5005
+    },
+    {
+      "title": "interactive-image: 3 imágenes, izquierda, titlePosition bottom, titleTheme light",
+      "numbered": true,
+      "level": 2,
+      "slideId": 5006
+    },
+    {
+      "title": "Layout: carousel",
+      "numbered": true,
+      "level": 1,
+      "slideId": 6000
+    },
+    {
+      "title": "carousel: abajo, bordered, numbered, con imágenes, blocking true",
+      "numbered": true,
+      "level": 2,
+      "slideId": 6001
+    },
+    {
+      "title": "carousel: abajo, solo texto, blocking true",
+      "numbered": true,
+      "level": 2,
+      "slideId": 6002
+    },
+    {
+      "title": "carousel: izquierda, autoPlay, 4 items con imágenes",
+      "numbered": true,
+      "level": 2,
+      "slideId": 6003
+    },
+    {
+      "title": "carousel: arriba, itemsAlignX center, itemsAlignY middle",
+      "numbered": true,
+      "level": 2,
+      "slideId": 6004
+    },
+    {
+      "title": "Layout: icon-tabs",
+      "numbered": true,
+      "level": 1,
+      "slideId": 7000
+    },
+    {
+      "title": "icon-tabs: horizontal, filled, exclusive, closable",
+      "numbered": true,
+      "level": 2,
+      "slideId": 7001
+    },
+    {
+      "title": "icon-tabs: horizontal, outlined, inline, exclusive false, blocking true",
+      "numbered": true,
+      "level": 2,
+      "slideId": 7002
+    },
+    {
+      "title": "icon-tabs: vertical, exclusive, closable",
+      "numbered": true,
+      "level": 2,
+      "slideId": 7003
+    },
+    {
+      "title": "icon-tabs: horizontal, items con image (URLs Unsplash)",
+      "numbered": true,
+      "level": 2,
+      "slideId": 7004
+    },
+    {
+      "title": "icon-tabs: horizontal, blocking true, completedContent",
+      "numbered": true,
+      "level": 2,
+      "slideId": 7005
+    },
+    {
+      "title": "Layout: popup",
+      "numbered": true,
+      "level": 1,
+      "slideId": 8000
+    },
+    {
+      "title": "popup: izquierda, 4 items, blocking true",
+      "numbered": true,
+      "level": 2,
+      "slideId": 8001
+    },
+    {
+      "title": "popup: derecha, 4 items, blocking false",
+      "numbered": true,
+      "level": 2,
+      "slideId": 8002
+    },
+    {
+      "title": "popup: izquierda, 3 items, blocking true",
+      "numbered": true,
+      "level": 2,
+      "slideId": 8003
+    },
+    {
+      "title": "popup: arriba, 3 items",
+      "numbered": true,
+      "level": 2,
+      "slideId": 8004
+    },
+    {
+      "title": "popup: abajo, 3 items, titleTheme light",
+      "numbered": true,
+      "level": 2,
+      "slideId": 8005
+    },
+    {
+      "title": "Layout: accordion",
+      "numbered": true,
+      "level": 1,
+      "slideId": 9000
+    },
+    {
+      "title": "accordion: exclusive true, closable true, blocking true",
+      "numbered": true,
+      "level": 2,
+      "slideId": 9001
+    },
+    {
+      "title": "accordion: exclusive false, closable false",
+      "numbered": true,
+      "level": 2,
+      "slideId": 9002
+    },
+    {
+      "title": "accordion: exclusive true, closable false, items con icon",
+      "numbered": true,
+      "level": 2,
+      "slideId": 9003
+    },
+    {
+      "title": "Layout: tabs",
+      "numbered": true,
+      "level": 1,
+      "slideId": 10000
+    },
+    {
+      "title": "tabs: 4 pestañas sin iconos, blocking true",
+      "numbered": true,
+      "level": 2,
+      "slideId": 10001
+    },
+    {
+      "title": "tabs: 4 pestañas con icon en cada item",
+      "numbered": true,
+      "level": 2,
+      "slideId": 10002
+    },
+    {
+      "title": "tabs: 3 pestañas, title y text en slide, contentAlign start",
+      "numbered": true,
+      "level": 2,
+      "slideId": 10003
+    },
+    {
+      "title": "Layout: closing",
+      "numbered": false,
+      "level": 1,
+      "slideId": 11000
+    },
+    {
+      "title": "closing: con backgroundImage",
+      "numbered": false,
+      "level": 2,
+      "slideId": 11001
+    },
+    {
+      "title": "closing: con backgroundVideo",
+      "numbered": false,
+      "level": 2,
+      "slideId": 11002
+    }
+  ],
+  "slides": [
+    {
+      "id": 1000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: cover",
+        "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1920&q=80",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 1001,
+      "layout": "cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "unitTitle": "PLANTILLA DE REFERENCIA — <b>VARIACIONES DEL LAYOUT COVER</b>",
+        "backgroundVideo": "./contents/course-slides-template/videos/cover.mp4"
+      }
+    },
+    {
+      "id": 1002,
+      "layout": "cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "unitTitle": "COVER CON <b>IMAGEN DE FONDO</b> — VARIANTE UNSPLASH",
+        "backgroundImage": "https://images.unsplash.com/photo-1526676537331-7747bf8278fc?q=80&w=2070&auto=format&fit=crop"
+      }
+    },
+    {
+      "id": 2000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: section-cover",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&q=80",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 2001,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "section-cover: imagePosition right (por defecto), sin subtitle",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=1920&q=80",
+        "imagePosition": "right",
+        "imageFadeDelay": 0,
+        "imageFadeDuration": 1
+      }
+    },
+    {
+      "id": 2002,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "section-cover: imagePosition left, con subtitle",
+        "subtitle": "La propiedad imagePosition: \"left\" desplaza la imagen al lado izquierdo de la diapositiva",
+        "image": "https://images.unsplash.com/photo-1552581234-26160f608093?w=1920&q=80",
+        "imagePosition": "left",
+        "imageFadeDelay": 0.3,
+        "imageFadeDuration": 1.5
+      }
+    },
+    {
+      "id": 2003,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "section-cover: con imageFocus y subtitle largo",
+        "subtitle": "La propiedad imageFocus controla el encuadre CSS object-position de la imagen dentro de su contenedor, por ejemplo \"top center\" muestra la parte superior de la imagen en lugar del centro.",
+        "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1920&q=80",
+        "imageFocus": "top center",
+        "imageFadeDelay": 0.1,
+        "imageFadeDuration": 0.8
+      }
+    },
+    {
+      "id": 3000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: image-text",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 3001,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+        "contentAlign": "start",
+        "imageAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.8 },
+        "titleAnimation": { "type": "slideRight", "delay": 0.2, "duration": 0.5 },
+        "textAnimation": { "type": "slideRight", "delay": 0.4, "duration": 0.5, "stagger": 0.12 },
+        "title": "image-text: imagen izquierda, contentAlign start",
+        "text": "<p>Usa <strong>contentAlign: \"start\"</strong> para anclar el bloque de texto a la parte superior del área de contenido.</p><p>La imagen se posiciona a la izquierda mediante <strong>imagePosition: \"left\"</strong>. El bloque de texto ocupa el espacio restante.</p><ul><li>Ideal cuando el texto es corto</li><li>Deja espacio visual en la parte inferior</li><li>La imagen actúa como elemento de apoyo visual izquierdo</li></ul>"
+      }
+    },
+    {
+      "id": 3002,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=800&q=80",
+        "contentAlign": "middle",
+        "imageAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.8 },
+        "titleAnimation": { "type": "fadeIn", "delay": 0.3, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.5, "duration": 0.5, "stagger": 0.1 },
+        "title": "image-text: imagen izquierda, contentAlign middle",
+        "text": "<p>Usa <strong>contentAlign: \"middle\"</strong> para centrar verticalmente el bloque de texto dentro del área disponible.</p><p>Es el valor por defecto cuando no se especifica <code>contentAlign</code>. Produce un resultado equilibrado visualmente en la mayoría de los casos.</p>"
+      }
+    },
+    {
+      "id": 3003,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "https://images.unsplash.com/photo-1552581234-26160f608093?w=800&q=80",
+        "contentAlign": "end",
+        "imageAnimation": { "type": "slideRight", "delay": 0, "duration": 0.7 },
+        "titleAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.4, "duration": 0.5, "stagger": 0.12 },
+        "title": "image-text: imagen izquierda, contentAlign end",
+        "text": "<p>Usa <strong>contentAlign: \"end\"</strong> para anclar el bloque de texto a la parte inferior del área de contenido.</p><p>Útil cuando se quiere dejar espacio visual en la parte superior y el texto funciona como pie de la imagen.</p>"
+      }
+    },
+    {
+      "id": 3004,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=80",
+        "contentAlign": "start",
+        "imageAnimation": { "type": "slideLeft", "delay": 0, "duration": 0.7 },
+        "titleAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.4, "duration": 0.5, "stagger": 0.1 },
+        "title": "image-text: imagen derecha, contentAlign start",
+        "text": "<p>La imagen se posiciona a la derecha mediante <strong>imagePosition: \"right\"</strong>, mientras que el texto se ancla al inicio con <strong>contentAlign: \"start\"</strong>.</p><ul><li>La imagen queda en el lado derecho de la pantalla</li><li>El texto ocupa el panel izquierdo</li><li>Alineado al inicio: texto pegado al borde superior</li></ul>"
+      }
+    },
+    {
+      "id": 3005,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80",
+        "contentAlign": "end",
+        "imageAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.8 },
+        "titleAnimation": { "type": "slideLeft", "delay": 0.2, "duration": 0.5 },
+        "textAnimation": { "type": "slideLeft", "delay": 0.4, "duration": 0.5, "stagger": 0.1 },
+        "title": "image-text: imagen derecha, contentAlign end",
+        "text": "<p>Combina <strong>imagePosition: \"right\"</strong> con <strong>contentAlign: \"end\"</strong> para anclar el texto al fondo del panel izquierdo.</p><p>Esta combinación es útil para citas, datos estadísticos o textos de conclusión que deben aparecer en la parte inferior junto a una imagen que ocupa el panel derecho.</p>"
+      }
+    },
+    {
+      "id": 3006,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "top",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+        "imageAnimation": { "type": "slideDown", "delay": 0, "duration": 0.7 },
+        "titleAnimation": { "type": "slideUp", "delay": 0.3, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.5, "duration": 0.5 },
+        "title": "image-text: imagen arriba",
+        "text": "<p>Con <strong>imagePosition: \"top\"</strong> la imagen ocupa la franja superior de la diapositiva y el texto aparece debajo.</p><p>Ideal para encabezados visuales con texto de apoyo. La altura de la imagen se controla con <code>imageSize</code> (porcentaje de la altura disponible).</p>"
+      }
+    },
+    {
+      "id": 3007,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=1200&q=80",
+        "imageAnimation": { "type": "slideUp", "delay": 0.4, "duration": 0.7 },
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.5, "stagger": 0.1 },
+        "title": "image-text: imagen abajo",
+        "text": "<p>Con <strong>imagePosition: \"bottom\"</strong> el texto aparece en la parte superior y la imagen ocupa la franja inferior.</p><p>Útil cuando se quiere presentar primero el contexto textual y luego reforzarlo con una imagen visual.</p>"
+      }
+    },
+    {
+      "id": 3008,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "slideUp", "delay": 0.3, "duration": 0.5, "stagger": 0.12 },
+        "contentAlign": "middle",
+        "title": "image-text: sin imagen",
+        "text": "<p>Cuando se omite la propiedad <strong>image</strong>, el layout <code>image-text</code> muestra únicamente el bloque de texto ocupando todo el ancho disponible.</p><p>Funciona como una diapositiva de solo texto con animaciones y alineación de contenido. Útil para definiciones, resúmenes o contenido que no necesita apoyo visual.</p><ul><li>Sin imagen, el texto ocupa el 100% del área</li><li>Las animaciones de título y texto siguen aplicándose</li><li>Se puede combinar con <code>iconPopup</code> para añadir información adicional</li></ul>"
+      }
+    },
+    {
+      "id": 3009,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=800&q=80",
+        "contentAlign": "middle",
+        "imageAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.8 },
+        "titleAnimation": { "type": "slideRight", "delay": 0.2, "duration": 0.5 },
+        "textAnimation": { "type": "slideRight", "delay": 0.4, "duration": 0.5 },
+        "title": "image-text: con iconPopup",
+        "text": "<p>La propiedad <strong>iconPopup</strong> añade un icono interactivo al panel de texto que, al pulsarse, abre un modal con contenido adicional.</p><p>Pulsa el icono de información para ver un ejemplo de popup con título y contenido HTML enriquecido.</p>",
+        "iconPopup": {
+          "icon": "fi fi-tr-info",
+          "popupTitle": "Información adicional",
+          "popupContent": "<p>El <strong>iconPopup</strong> es una forma discreta de añadir información complementaria sin sobrecargar el texto principal.</p><p>Propiedades del iconPopup:</p><ul><li><strong>icon</strong>: clase CSS del icono (fi fi-tr-*, fi fi-br-*, fi fi-rr-*)</li><li><strong>popupTitle</strong>: título opcional del modal</li><li><strong>popupContent</strong>: contenido HTML del modal (requerido)</li><li><strong>helpTooltip</strong>: texto del tooltip al pasar el cursor</li></ul>",
+          "helpTooltip": "Pulsa para ver más información"
+        }
+      }
+    },
+    {
+      "id": 3010,
+      "layout": "image-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=800&q=80",
+        "imageSize": 45,
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "imageAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.8 },
+        "titleAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.4, "duration": 0.5, "stagger": 0.1 },
+        "title": "image-text: showInlineTitle true, imageSize 45",
+        "text": "<p>Con <strong>showInlineTitle: true</strong> el título aparece dentro del panel de contenido, encima del texto.</p><p>La propiedad <strong>imageSize: 45</strong> reduce el espacio de la imagen al 45% del ancho total (el valor por defecto es 50%). Ajusta este valor para dar más o menos protagonismo a la imagen.</p>"
+      }
+    },
+    {
+      "id": 4000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: interactive-text",
+        "image": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=1920&q=80",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 4001,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+        "imageSize": 50,
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "imageAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.8 },
+        "titleAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.4, "duration": 0.5 },
+        "title": "interactive-text: imagen izquierda, overlay center-center",
+        "text": "<p>El layout <strong>interactive-text</strong> muestra una imagen clicable que al pulsarse revela un overlay con contenido adicional. Este overlay permanece visible de forma permanente una vez abierto.</p><p>Pulsa sobre la imagen para ver el overlay con <strong>overlayAlignX: \"center\"</strong> y <strong>overlayAlignY: \"center\"</strong>.</p>",
+        "overlayContent": "<p><strong>Overlay centrado (center / center)</strong></p><p>El overlay aparece centrado horizontal y verticalmente sobre la imagen. Esta posición es la más neutra y funciona bien cuando el contenido del overlay es compacto.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.97,
+        "helpTooltip": "Pulsa la imagen para revelar el contenido"
+      }
+    },
+    {
+      "id": 4002,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=800&q=80",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "imageAnimation": { "type": "slideRight", "delay": 0, "duration": 0.7 },
+        "titleAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.4, "duration": 0.5 },
+        "title": "interactive-text: imagen izquierda, overlay left-top",
+        "text": "<p>Con <strong>overlayAlignX: \"left\"</strong> y <strong>overlayAlignY: \"top\"</strong> el overlay se ancla a la esquina superior izquierda de la imagen.</p><p>Pulsa sobre la imagen para ver el resultado.</p>",
+        "overlayContent": "<p><strong>Overlay superior izquierdo (left / top)</strong></p><p>El overlay se ancla a la esquina superior izquierda de la imagen. Útil para añadir contexto o etiquetas en la parte alta de la imagen.</p>",
+        "overlayAlignX": "left",
+        "overlayAlignY": "top",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 4003,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "image": "https://images.unsplash.com/photo-1552581234-26160f608093?w=800&q=80",
+        "imageSize": 55,
+        "contentAlign": "end",
+        "showInlineTitle": true,
+        "imageAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.8 },
+        "titleAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.4, "duration": 0.5 },
+        "title": "interactive-text: imagen izquierda, overlay right-bottom",
+        "text": "<p>Con <strong>overlayAlignX: \"right\"</strong> y <strong>overlayAlignY: \"bottom\"</strong> el overlay se ancla a la esquina inferior derecha de la imagen.</p><p>Pulsa sobre la imagen para ver el resultado.</p>",
+        "overlayContent": "<p><strong>Overlay inferior derecho (right / bottom)</strong></p><p>El overlay se ancla a la esquina inferior derecha. Ideal para pies de imagen o información de apoyo que no debe tapar el elemento principal.</p>",
+        "overlayAlignX": "right",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 4004,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=80",
+        "imageSize": 50,
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "imageAnimation": { "type": "slideLeft", "delay": 0, "duration": 0.7 },
+        "titleAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.4, "duration": 0.5 },
+        "title": "interactive-text: imagen derecha, overlay center-center",
+        "text": "<p>Con <strong>imagePosition: \"right\"</strong> la imagen clicable ocupa el panel derecho. El overlay se posiciona en el centro de la imagen con <strong>overlayAlignX: \"center\"</strong> y <strong>overlayAlignY: \"center\"</strong>.</p><p>Pulsa sobre la imagen para ver el resultado.</p>",
+        "overlayContent": "<p><strong>Overlay centrado con imagen a la derecha</strong></p><p>El texto del panel izquierdo sirve de introducción, mientras que la imagen derecha revela información adicional al pulsarse. Esta combinación es muy efectiva para estructuras de pregunta-respuesta.</p>",
+        "overlayAlignX": "center",
+        "overlayAlignY": "center",
+        "hoverScale": 0.97
+      }
+    },
+    {
+      "id": 4005,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "top",
+        "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "showInlineTitle": true,
+        "imageAnimation": { "type": "slideDown", "delay": 0, "duration": 0.7 },
+        "titleAnimation": { "type": "fadeIn", "delay": 0.3, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.5, "duration": 0.5 },
+        "title": "interactive-text: imagen arriba, overlay left-top",
+        "text": "<p>Con <strong>imagePosition: \"top\"</strong> la imagen clicable ocupa la franja superior. El overlay se ancla a la esquina superior izquierda con <strong>overlayAlignX: \"left\"</strong> y <strong>overlayAlignY: \"top\"</strong>.</p><p>Pulsa sobre la imagen para ver el resultado.</p>",
+        "overlayContent": "<p><strong>Overlay superior izquierdo con imagen arriba</strong></p><p>Cuando la imagen está en la parte superior, el overlay en la esquina superior izquierda es especialmente útil para añadir etiquetas o contexto introductorio al elemento visual.</p>",
+        "overlayAlignX": "left",
+        "overlayAlignY": "top",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 4006,
+      "layout": "interactive-text",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80",
+        "imageSize": 50,
+        "contentAlign": "middle",
+        "showInlineTitle": true,
+        "imageAnimation": { "type": "slideUp", "delay": 0.3, "duration": 0.7 },
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.5 },
+        "title": "interactive-text: imagen abajo, overlay right-bottom",
+        "text": "<p>Con <strong>imagePosition: \"bottom\"</strong> la imagen clicable ocupa la franja inferior. El overlay se ancla a la esquina inferior derecha con <strong>overlayAlignX: \"right\"</strong> y <strong>overlayAlignY: \"bottom\"</strong>.</p><p>Pulsa sobre la imagen para ver el resultado.</p>",
+        "overlayContent": "<p><strong>Overlay inferior derecho con imagen abajo</strong></p><p>Cuando la imagen está en la parte inferior, el overlay en la esquina inferior derecha proporciona contexto adicional sin interferir con el elemento principal de la imagen.</p>",
+        "overlayAlignX": "right",
+        "overlayAlignY": "bottom",
+        "hoverScale": 0.95
+      }
+    },
+    {
+      "id": 5000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: interactive-image",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1920&q=80",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 5001,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "titleAnimation": { "type": "slideLeft", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "slideLeft", "delay": 0.2, "duration": 0.5 },
+        "title": "interactive-image: 4 imágenes, izquierda, blocking true, titlePosition top",
+        "text": "<p>Con <strong>blocking: true</strong> el usuario debe pulsar sobre todas las imágenes antes de poder avanzar. La propiedad <strong>titlePosition: \"top\"</strong> muestra las etiquetas de título en la parte superior de cada tarjeta.</p>",
+        "blocking": true,
+        "titlePosition": "top",
+        "images": [
+          {
+            "id": "ii-5001-1",
+            "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80",
+            "title": "Elemento A",
+            "overlayContent": "<p><strong>Overlay del Elemento A</strong></p><p>Contenido de ejemplo para el primer elemento. Describe las características principales de este ítem.</p>",
+            "imageAnimation": { "type": "slideRight", "delay": 0.2, "duration": 0.6 }
+          },
+          {
+            "id": "ii-5001-2",
+            "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=400&q=80",
+            "title": "Elemento B",
+            "overlayContent": "<p><strong>Overlay del Elemento B</strong></p><p>Contenido de ejemplo para el segundo elemento. Cada imagen tiene su propio overlay con información específica.</p>",
+            "imageAnimation": { "type": "slideRight", "delay": 0.35, "duration": 0.6 }
+          },
+          {
+            "id": "ii-5001-3",
+            "image": "https://images.unsplash.com/photo-1552581234-26160f608093?w=400&q=80",
+            "title": "Elemento C",
+            "overlayContent": "<p><strong>Overlay del Elemento C</strong></p><p>Tercer elemento del layout. Las imágenes se distribuyen en la cuadrícula del panel izquierdo.</p>",
+            "imageAnimation": { "type": "slideRight", "delay": 0.5, "duration": 0.6 }
+          },
+          {
+            "id": "ii-5001-4",
+            "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&q=80",
+            "title": "Elemento D",
+            "overlayContent": "<p><strong>Overlay del Elemento D</strong></p><p>Cuarto y último elemento. Una vez explorados todos los elementos, se desbloquea la navegación al siguiente slide.</p>",
+            "imageAnimation": { "type": "slideRight", "delay": 0.65, "duration": 0.6 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5002,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 50,
+        "contentAlign": "middle",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.3, "duration": 0.5 },
+        "title": "interactive-image: 2 imágenes, derecha, blocking false",
+        "text": "<p>Con <strong>blocking: false</strong> el usuario puede avanzar sin necesidad de pulsar todas las imágenes. Las imágenes se posicionan en el panel derecho mediante <strong>imagePosition: \"right\"</strong>.</p><p>Útil para contenido optativo que enriquece pero no es obligatorio explorar.</p>",
+        "blocking": false,
+        "images": [
+          {
+            "id": "ii-5002-1",
+            "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&q=80",
+            "title": "Opción 1",
+            "overlayContent": "<p><strong>Overlay de la Opción 1</strong></p><p>Contenido adicional no obligatorio. El usuario puede explorar este overlay o pasar directamente a la siguiente diapositiva.</p>",
+            "imageAnimation": { "type": "slideLeft", "delay": 0.2, "duration": 0.6 }
+          },
+          {
+            "id": "ii-5002-2",
+            "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&q=80",
+            "title": "Opción 2",
+            "overlayContent": "<p><strong>Overlay de la Opción 2</strong></p><p>Segundo elemento optativo. Con blocking: false, ninguno de estos overlays es requerido para continuar.</p>",
+            "imageAnimation": { "type": "slideLeft", "delay": 0.4, "duration": 0.6 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5003,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 45,
+        "contentAlign": "start",
+        "titleAnimation": { "type": "slideRight", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "slideRight", "delay": 0.2, "duration": 0.5, "stagger": 0.1 },
+        "title": "interactive-image: 1 imagen, derecha, blocking true",
+        "text": "<p>Con una sola imagen, el layout <strong>interactive-image</strong> funciona de forma similar a <code>interactive-text</code> pero con la imagen en el panel derecho.</p><p>Con <strong>blocking: true</strong> el usuario debe pulsar la imagen para revelar el overlay antes de continuar.</p><p>Pulsa sobre la imagen para ver el contenido adicional.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "ii-5003-1",
+            "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
+            "title": "Imagen única",
+            "overlayContent": "<p><strong>Overlay de imagen única</strong></p><p>Cuando solo hay una imagen, el overlay ocupa toda el área de la tarjeta. Es la forma más sencilla de usar interactive-image como variante de interactive-text.</p><ul><li>Una sola imagen con overlay</li><li>Bloquea navegación hasta que se pulse</li><li>El panel de texto queda libre para contexto</li></ul>",
+            "imageAnimation": { "type": "fadeIn", "delay": 0.3, "duration": 0.8 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5004,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.5 },
+        "title": "interactive-image: 3 imágenes, abajo, blocking true",
+        "text": "<p>Con <strong>imagePosition: \"bottom\"</strong> las imágenes se distribuyen en la franja inferior. El panel superior muestra el título y el texto introductorio.</p>",
+        "blocking": true,
+        "images": [
+          {
+            "id": "ii-5004-1",
+            "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=400&q=80",
+            "title": "Área 1",
+            "overlayContent": "<p><strong>Overlay Área 1</strong></p><p>Descripción del primer área o elemento. Con imagePosition bottom, las tarjetas se alinean horizontalmente en la parte inferior.</p>",
+            "imageAnimation": { "type": "slideDown", "delay": 0.2, "duration": 0.5 }
+          },
+          {
+            "id": "ii-5004-2",
+            "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=400&q=80",
+            "title": "Área 2",
+            "overlayContent": "<p><strong>Overlay Área 2</strong></p><p>Descripción del segundo área. Las tres imágenes se distribuyen a partes iguales en la franja inferior.</p>",
+            "imageAnimation": { "type": "slideDown", "delay": 0.4, "duration": 0.5 }
+          },
+          {
+            "id": "ii-5004-3",
+            "image": "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=400&q=80",
+            "title": "Área 3",
+            "overlayContent": "<p><strong>Overlay Área 3</strong></p><p>Descripción del tercer área. Con blocking: true se deben explorar los tres overlays para poder avanzar.</p>",
+            "imageAnimation": { "type": "slideDown", "delay": 0.6, "duration": 0.5 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5005,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "top",
+        "imageSize": 60,
+        "contentAlign": "middle",
+        "titleAnimation": { "type": "fadeIn", "delay": 0.3, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.5, "duration": 0.5 },
+        "title": "interactive-image: 2 imágenes, arriba",
+        "text": "<p>Con <strong>imagePosition: \"top\"</strong> las imágenes se distribuyen en la franja superior. El texto queda en la parte inferior de la diapositiva.</p>",
+        "images": [
+          {
+            "id": "ii-5005-1",
+            "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+            "title": "Vista superior A",
+            "overlayContent": "<p><strong>Overlay Vista superior A</strong></p><p>Descripción del primer elemento en disposición superior. Las tarjetas se distribuyen horizontalmente.</p>",
+            "imageAnimation": { "type": "slideDown", "delay": 0.1, "duration": 0.6 }
+          },
+          {
+            "id": "ii-5005-2",
+            "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80",
+            "title": "Vista superior B",
+            "overlayContent": "<p><strong>Overlay Vista superior B</strong></p><p>Descripción del segundo elemento en disposición superior. No es bloqueante por defecto.</p>",
+            "imageAnimation": { "type": "slideDown", "delay": 0.3, "duration": 0.6 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5006,
+      "layout": "interactive-image",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "titleAnimation": { "type": "slideLeft", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "slideLeft", "delay": 0.2, "duration": 0.5 },
+        "title": "interactive-image: 3 imágenes, izquierda, titlePosition bottom, titleTheme light",
+        "text": "<p>Con <strong>titlePosition: \"bottom\"</strong> las etiquetas de título aparecen bajo cada tarjeta de imagen. La propiedad <strong>titleTheme: \"light\"</strong> en los items aplica texto claro sobre el overlay oscuro de la tarjeta.</p>",
+        "titlePosition": "bottom",
+        "images": [
+          {
+            "id": "ii-5006-1",
+            "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&q=80",
+            "title": "Elemento claro 1",
+            "titleTheme": "light",
+            "overlayContent": "<p><strong>Overlay con titleTheme light</strong></p><p>La propiedad titleTheme: \"light\" aplica colores claros al título de la tarjeta. Útil sobre imágenes oscuras para garantizar legibilidad.</p>",
+            "imageAnimation": { "type": "slideRight", "delay": 0.2, "duration": 0.6 }
+          },
+          {
+            "id": "ii-5006-2",
+            "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80",
+            "title": "Elemento claro 2",
+            "titleTheme": "light",
+            "overlayContent": "<p><strong>Segundo elemento con titleTheme light</strong></p><p>Todos los items pueden tener su propio titleTheme independiente: dark o light, según el contraste con la imagen de fondo.</p>",
+            "imageAnimation": { "type": "slideRight", "delay": 0.4, "duration": 0.6 }
+          },
+          {
+            "id": "ii-5006-3",
+            "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80",
+            "title": "Elemento claro 3",
+            "titleTheme": "light",
+            "overlayContent": "<p><strong>Tercer elemento con titleTheme light</strong></p><p>Con titlePosition: \"bottom\", los títulos aparecen bajo las imágenes. Sin blocking explícito, usa el valor por defecto (true).</p>",
+            "imageAnimation": { "type": "slideRight", "delay": 0.6, "duration": 0.6 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 6000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: carousel",
+        "image": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?w=1920&q=80",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 6001,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 55,
+        "contentAlign": "middle",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.4 },
+        "title": "carousel: abajo, bordered, numbered, con imágenes, blocking true",
+        "text": "<p>Con <strong>bordered: true</strong> el carrusel se enmarca con borde y muestra puntos de navegación. Con <strong>numbered: true</strong> cada slide muestra un número semitransparente de gran tamaño.</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+            "title": "Slide 1 — con imagen",
+            "text": "<p>Primer slide del carrusel con imagen de fondo. La propiedad <strong>bordered: true</strong> muestra el contenedor con borde y puntos de navegación.</p>"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=800&q=80",
+            "title": "Slide 2 — con imagen",
+            "text": "<p>Segundo slide del carrusel. La propiedad <strong>numbered: true</strong> añade un número grande semitransparente en cada slide.</p>"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1552581234-26160f608093?w=800&q=80",
+            "title": "Slide 3 — con imagen",
+            "text": "<p>Tercer slide. La propiedad <strong>backgroundImage</strong> añade una imagen de fondo al área del carrusel, visible detrás del contenido.</p>"
+          },
+          {
+            "title": "Slide 4 — sin imagen",
+            "text": "<p>Cuarto slide sin imagen. Demuestra que cada slide del carrusel puede tener o no imagen de forma independiente.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6002,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 60,
+        "contentAlign": "middle",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.4 },
+        "title": "carousel: abajo, solo texto, blocking true",
+        "text": "<p>Variante del carrusel con <strong>items sin imagen</strong>. Todo el espacio del slide se dedica al texto. Útil para listas de conceptos, definiciones o pasos de un proceso.</p>",
+        "bordered": true,
+        "numbered": true,
+        "blocking": true,
+        "backgroundImage": "./assets/images/bg_carousel.jpg",
+        "items": [
+          {
+            "title": "Concepto 1",
+            "text": "<p>Primer concepto del carrusel de solo texto. Sin imagen, el contenido textual ocupa todo el slide y puede ser más extenso.</p>"
+          },
+          {
+            "title": "Concepto 2",
+            "text": "<p>Segundo concepto. Los items sin imagen pueden contener párrafos más largos, listas o cualquier HTML válido.</p>"
+          },
+          {
+            "title": "Concepto 3",
+            "text": "<p>Tercer concepto. La combinación de <strong>bordered: true</strong> y <strong>numbered: true</strong> es idéntica al modo con imágenes.</p>"
+          },
+          {
+            "title": "Concepto 4",
+            "text": "<p>Cuarto y último concepto. Con <strong>blocking: true</strong> el usuario debe navegar por todos los slides antes de continuar.</p>"
+          },
+          {
+            "title": "Concepto 5",
+            "text": "<p>Quinto concepto adicional. Los carruseles de solo texto pueden tener tantos slides como sea necesario.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6003,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 55,
+        "contentAlign": "middle",
+        "titleAnimation": { "type": "slideLeft", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "slideLeft", "delay": 0.2, "duration": 0.4 },
+        "title": "carousel: izquierda, autoPlay, 4 items con imágenes",
+        "text": "<p>Con <strong>imagePosition: \"left\"</strong> el carrusel ocupa el panel izquierdo y el texto introductorio aparece a la derecha.</p><p>La propiedad <strong>autoPlay: true</strong> con <strong>autoPlayInterval: 4000</strong> avanza automáticamente cada 4 segundos.</p>",
+        "autoPlay": true,
+        "autoPlayInterval": 4000,
+        "blocking": true,
+        "items": [
+          {
+            "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+            "title": "Auto slide 1",
+            "text": "<p>Primer slide de reproducción automática. El carrusel avanza solo cada 4 segundos.</p>"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+            "title": "Auto slide 2",
+            "text": "<p>Segundo slide. La navegación manual sigue disponible aunque autoPlay esté activo.</p>"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=800&q=80",
+            "title": "Auto slide 3",
+            "text": "<p>Tercer slide de autoPlay. El intervalo se controla en milisegundos con autoPlayInterval.</p>"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80",
+            "title": "Auto slide 4",
+            "text": "<p>Cuarto slide. Una vez visitados todos los slides, se desbloquea la navegación al siguiente slide del curso.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6004,
+      "layout": "carousel",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "top",
+        "imageSize": 60,
+        "contentAlign": "middle",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.4 },
+        "title": "carousel: arriba, itemsAlignX center, itemsAlignY middle",
+        "text": "<p>Con <strong>imagePosition: \"top\"</strong> el carrusel ocupa la franja superior. Las propiedades <strong>itemsAlignX: \"center\"</strong> e <strong>itemsAlignY: \"middle\"</strong> controlan la alineación del contenido dentro de cada slide.</p>",
+        "itemsAlignX": "center",
+        "itemsAlignY": "middle",
+        "items": [
+          {
+            "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+            "title": "Slide centrado 1",
+            "text": "<p>Contenido centrado horizontalmente y en el medio verticalmente dentro del slide.</p>"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "title": "Slide centrado 2",
+            "text": "<p>La alineación itemsAlignX y itemsAlignY se aplica a todos los slides del carrusel de forma uniforme.</p>"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
+            "title": "Slide centrado 3",
+            "text": "<p>Tercer slide con alineación centrada. imagePosition: \"top\" es ideal para carruseles de gran formato visual.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: icon-tabs",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 7001,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "icon-tabs: horizontal, filled, exclusive, closable",
+        "text": "<p>Con <strong>iconDirection: \"horizontal\"</strong> los iconos se disponen en fila horizontal. Con <strong>iconStyle: \"filled\"</strong> los iconos tienen estilo relleno. <strong>exclusive: true</strong> permite solo un panel abierto a la vez. <strong>closable: true</strong> permite cerrar el panel activo.</p>",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.5 },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-around",
+        "exclusive": true,
+        "closable": true,
+        "items": [
+          {
+            "id": "it-7001-1",
+            "icon": "fi fi-tr-rocket",
+            "title": "Pestaña 1",
+            "text": "<p>Contenido de la primera pestaña. Con <strong>exclusive: true</strong> al abrir esta pestaña se cierra cualquier otra que estuviera abierta.</p>"
+          },
+          {
+            "id": "it-7001-2",
+            "icon": "fi fi-tr-graduation-cap",
+            "title": "Pestaña 2",
+            "text": "<p>Contenido de la segunda pestaña. Con <strong>closable: true</strong> el usuario puede pulsar el mismo icono para colapsar el panel.</p>"
+          },
+          {
+            "id": "it-7001-3",
+            "icon": "fi fi-tr-globe-alt",
+            "title": "Pestaña 3",
+            "text": "<p>Contenido de la tercera pestaña. Los iconos usan el prefijo <strong>fi fi-tr-*</strong> (Thin Rounded). También disponibles: fi fi-br-* y fi fi-rr-*.</p>"
+          },
+          {
+            "id": "it-7001-4",
+            "icon": "fi fi-tr-book-alt",
+            "title": "Pestaña 4",
+            "text": "<p>Cuarta pestaña. <strong>iconJustify: \"space-around\"</strong> distribuye los iconos con espaciado uniforme dentro de la fila.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7002,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "icon-tabs: horizontal, outlined, inline, exclusive false, blocking true",
+        "text": "<p>Con <strong>inline: true</strong> cada item muestra el icono y su contenido en la misma fila (layout de acordeón horizontal). <strong>exclusive: false</strong> permite varios paneles abiertos simultáneamente. <strong>closable: false</strong> impide cerrar paneles abiertos.</p>",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.4 },
+        "iconDirection": "horizontal",
+        "iconStyle": "outlined",
+        "iconJustify": "space-around",
+        "inline": true,
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "items": [
+          {
+            "id": "it-7002-1",
+            "icon": "fi fi-tr-bullseye-arrow",
+            "title": "Item inline 1",
+            "text": "<p>Primer item en modo <strong>inline</strong>. El icono y el título aparecen en la misma fila que actúa como encabezado, y el contenido se expande debajo. Con closable: false no se puede colapsar.</p>"
+          },
+          {
+            "id": "it-7002-2",
+            "icon": "fi fi-tr-users",
+            "title": "Item inline 2",
+            "text": "<p>Segundo item inline. Con <strong>exclusive: false</strong> varios items pueden estar abiertos al mismo tiempo. El usuario debe abrir todos para desbloquear.</p>"
+          },
+          {
+            "id": "it-7002-3",
+            "icon": "fi fi-tr-chart-line-up",
+            "title": "Item inline 3",
+            "text": "<p>Tercer item. El estilo <strong>outlined</strong> muestra los iconos con contorno en lugar del relleno sólido del estilo filled.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7003,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "icon-tabs: vertical, exclusive, closable",
+        "text": "<p>Con <strong>iconDirection: \"vertical\"</strong> los iconos se disponen en columna en el panel izquierdo, y el contenido del item activo aparece a la derecha. Ideal para listas de elementos con contenido extenso.</p>",
+        "titleAnimation": { "type": "slideRight", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "slideRight", "delay": 0.2, "duration": 0.5 },
+        "contentAlign": "start",
+        "iconDirection": "vertical",
+        "iconJustify": "flex-start",
+        "exclusive": true,
+        "closable": true,
+        "items": [
+          {
+            "id": "it-7003-1",
+            "icon": "fi fi-tr-building",
+            "title": "Sección vertical 1",
+            "text": "<p>Primer item del layout vertical. El panel de iconos ocupa la columna izquierda y el contenido del item seleccionado aparece en el panel derecho.</p><p>Con exclusive y closable activos, el comportamiento es similar a un acordeón en dos columnas.</p>"
+          },
+          {
+            "id": "it-7003-2",
+            "icon": "fi fi-tr-people-network-partner",
+            "title": "Sección vertical 2",
+            "text": "<p>Segundo item del layout vertical. Los iconos en la columna izquierda actúan como navegación lateral. Solo un item puede estar activo a la vez gracias a exclusive: true.</p>"
+          },
+          {
+            "id": "it-7003-3",
+            "icon": "fi fi-tr-gears",
+            "title": "Sección vertical 3",
+            "text": "<p>Tercer item. El layout vertical es especialmente útil cuando hay mucho contenido por item, ya que el panel de contenido puede ser más alto y amplio que en el layout horizontal.</p>"
+          },
+          {
+            "id": "it-7003-4",
+            "icon": "fi fi-tr-running",
+            "title": "Sección vertical 4",
+            "text": "<p>Cuarto item. iconJustify: \"flex-start\" alinea los iconos en la parte superior de la columna izquierda en lugar de distribuirlos con espacio.</p>"
+          },
+          {
+            "id": "it-7003-5",
+            "icon": "fi fi-tr-heart-health-muscle",
+            "title": "Sección vertical 5",
+            "text": "<p>Quinto item. Este layout soporta tantos items como sean necesarios, aunque se recomienda no superar 6-8 para mantener una buena usabilidad.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7004,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "icon-tabs: horizontal, items con image (URLs Unsplash)",
+        "text": "<p>Los items del layout icon-tabs pueden usar <strong>image</strong> en lugar de <strong>icon</strong> para mostrar una imagen cuadrada como selector en lugar de un icono vectorial. No deben usarse icon e image simultáneamente en el mismo item.</p>",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.4 },
+        "iconDirection": "horizontal",
+        "iconJustify": "space-around",
+        "exclusive": true,
+        "closable": true,
+        "items": [
+          {
+            "id": "it-7004-1",
+            "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=200&q=80",
+            "title": "Item con imagen 1",
+            "text": "<p>Primer item usando <strong>image</strong> en lugar de icono. La imagen se muestra como selector cuadrado en la barra de navegación horizontal.</p>"
+          },
+          {
+            "id": "it-7004-2",
+            "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=200&q=80",
+            "title": "Item con imagen 2",
+            "text": "<p>Segundo item con imagen. Las URLs de Unsplash existentes en el JSON se reutilizan con un tamaño reducido (?w=200) para optimizar la carga.</p>"
+          },
+          {
+            "id": "it-7004-3",
+            "image": "https://images.unsplash.com/photo-1552581234-26160f608093?w=200&q=80",
+            "title": "Item con imagen 3",
+            "text": "<p>Tercer item con imagen. Los items image siguen siendo compatibles con exclusive, closable y blocking como cualquier otro item de icon-tabs.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7005,
+      "layout": "icon-tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "icon-tabs: horizontal, blocking true, completedContent",
+        "text": "<p>Con <strong>completedContent</strong> se muestra un mensaje HTML adicional una vez que el usuario ha explorado todos los items. El retraso de aparición se controla con <strong>completedContentDelay</strong> (en segundos).</p>",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.5 },
+        "iconDirection": "horizontal",
+        "iconStyle": "filled",
+        "iconJustify": "space-evenly",
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "completedContent": "<p>Has explorado todos los elementos. Ahora puedes continuar al siguiente slide.</p>",
+        "completedContentDelay": 0.5,
+        "items": [
+          {
+            "id": "it-7005-1",
+            "icon": "fi fi-tr-rocket",
+            "title": "Explorar 1",
+            "text": "<p>Primer item a explorar. Una vez abiertos todos los items, aparecerá el mensaje de <strong>completedContent</strong> con un retraso de 0,5 segundos.</p>"
+          },
+          {
+            "id": "it-7005-2",
+            "icon": "fi fi-tr-graduation-cap",
+            "title": "Explorar 2",
+            "text": "<p>Segundo item. Explora todos los items para ver el mensaje de completedContent y desbloquear la navegación.</p>"
+          },
+          {
+            "id": "it-7005-3",
+            "icon": "fi fi-tr-book-alt",
+            "title": "Explorar 3",
+            "text": "<p>Tercer y último item. Después de abrirlo, aparecerá el mensaje de completedContent y podrás avanzar.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: popup",
+        "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=1920&q=80",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 8001,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 60,
+        "contentAlign": "start",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "slideUp", "delay": 0.3, "duration": 0.5 },
+        "title": "popup: izquierda, 4 items, blocking true",
+        "text": "<p>El layout <strong>popup</strong> muestra imágenes clicables que abren un modal de diálogo. Con <strong>blocking: true</strong> se deben abrir todos los popups antes de continuar.</p><p>Pulsa sobre cada imagen para abrir su popup.</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "p-8001-1",
+            "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&q=80",
+            "title": "Popup A",
+            "popupTitle": "Título del Popup A",
+            "popupContent": "<p><strong>Contenido del modal A</strong></p><p>El layout popup abre un modal de diálogo al pulsar cada imagen. El modal tiene un botón de cierre y se puede cerrar también pulsando en el fondo.</p>",
+            "imageAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.6 }
+          },
+          {
+            "id": "p-8001-2",
+            "image": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=400&q=80",
+            "title": "Popup B",
+            "popupTitle": "Título del Popup B",
+            "popupContent": "<p><strong>Contenido del modal B</strong></p><p>Cada popup tiene su propio título y contenido HTML independiente. El título del popup (<code>popupTitle</code>) aparece como cabecera del modal.</p>",
+            "imageAnimation": { "type": "fadeIn", "delay": 0.4, "duration": 0.6 }
+          },
+          {
+            "id": "p-8001-3",
+            "image": "https://images.unsplash.com/photo-1552581234-26160f608093?w=400&q=80",
+            "title": "Popup C",
+            "popupTitle": "Título del Popup C",
+            "popupContent": "<p><strong>Contenido del modal C</strong></p><p>El <code>popupContent</code> admite HTML completo incluyendo párrafos, listas, texto en negrita y otros elementos semánticos.</p><ul><li>Elemento de lista 1</li><li>Elemento de lista 2</li></ul>",
+            "imageAnimation": { "type": "fadeIn", "delay": 0.6, "duration": 0.6 }
+          },
+          {
+            "id": "p-8001-4",
+            "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&q=80",
+            "title": "Popup D",
+            "popupTitle": "Título del Popup D",
+            "popupContent": "<p><strong>Contenido del modal D</strong></p><p>Cuarto y último popup. Con blocking: true, abrir los cuatro popups desbloquea la navegación al siguiente slide.</p>",
+            "imageAnimation": { "type": "fadeIn", "delay": 0.8, "duration": 0.6 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 8002,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "right",
+        "imageSize": 55,
+        "contentAlign": "middle",
+        "titleAnimation": { "type": "slideRight", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.3, "duration": 0.5 },
+        "title": "popup: derecha, 4 items, blocking false",
+        "text": "<p>Con <strong>imagePosition: \"right\"</strong> las imágenes del popup ocupan el panel derecho. <strong>blocking: false</strong> permite continuar sin abrir todos los popups.</p>",
+        "blocking": false,
+        "items": [
+          {
+            "id": "p-8002-1",
+            "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80",
+            "title": "Item no bloqueante 1",
+            "popupTitle": "Popup opcional 1",
+            "popupContent": "<p><strong>Popup opcional A</strong></p><p>Este popup no es obligatorio abrir. El usuario puede avanzar directamente sin interactuar con ninguna imagen.</p>",
+            "imageAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.5 }
+          },
+          {
+            "id": "p-8002-2",
+            "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&q=80",
+            "title": "Item no bloqueante 2",
+            "popupTitle": "Popup opcional 2",
+            "popupContent": "<p><strong>Popup opcional B</strong></p><p>Segundo popup optativo. Con imagePosition: \"right\", el texto del slide queda en el panel izquierdo.</p>",
+            "imageAnimation": { "type": "slideUp", "delay": 0.35, "duration": 0.5 }
+          },
+          {
+            "id": "p-8002-3",
+            "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&q=80",
+            "title": "Item no bloqueante 3",
+            "popupTitle": "Popup opcional 3",
+            "popupContent": "<p><strong>Popup opcional C</strong></p><p>Tercer popup optativo. Los popups se pueden abrir en cualquier orden sin restricciones.</p>",
+            "imageAnimation": { "type": "slideUp", "delay": 0.5, "duration": 0.5 }
+          },
+          {
+            "id": "p-8002-4",
+            "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&q=80",
+            "title": "Item no bloqueante 4",
+            "popupTitle": "Popup opcional 4",
+            "popupContent": "<p><strong>Popup opcional D</strong></p><p>Cuarto popup optativo. La navegación permanece disponible desde el principio con blocking: false.</p>",
+            "imageAnimation": { "type": "slideUp", "delay": 0.65, "duration": 0.5 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 8003,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "left",
+        "imageSize": 50,
+        "contentAlign": "start",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.5, "stagger": 0.12 },
+        "title": "popup: izquierda, 3 items, blocking true",
+        "text": "<p>Variante de popup con 3 items en el panel izquierdo. Con <strong>blocking: true</strong> se deben abrir los tres popups para poder continuar.</p>",
+        "blocking": true,
+        "items": [
+          {
+            "id": "p-8003-1",
+            "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&q=80",
+            "title": "Fase 1",
+            "popupTitle": "Primera fase",
+            "popupContent": "<p><strong>Descripción de la primera fase</strong></p><p>Contenido detallado del primer popup de tres. Con 3 items, las tarjetas se distribuyen de forma más amplia en el panel.</p>",
+            "imageAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.6 }
+          },
+          {
+            "id": "p-8003-2",
+            "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=400&q=80",
+            "title": "Fase 2",
+            "popupTitle": "Segunda fase",
+            "popupContent": "<p><strong>Descripción de la segunda fase</strong></p><p>Contenido del segundo popup. Cada item puede tener su propio popupTitle que aparece como cabecera del modal.</p>",
+            "imageAnimation": { "type": "fadeIn", "delay": 0.4, "duration": 0.6 }
+          },
+          {
+            "id": "p-8003-3",
+            "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=400&q=80",
+            "title": "Fase 3",
+            "popupTitle": "Tercera fase",
+            "popupContent": "<p><strong>Descripción de la tercera fase</strong></p><p>Tercer y último popup. Una vez abiertos los tres, se desbloquea la navegación al siguiente slide.</p>",
+            "imageAnimation": { "type": "fadeIn", "delay": 0.6, "duration": 0.6 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 8004,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "top",
+        "imageSize": 55,
+        "contentAlign": "start",
+        "titleAnimation": { "type": "slideDown", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.3, "duration": 0.5 },
+        "title": "popup: arriba, 3 items",
+        "text": "<p>Con <strong>imagePosition: \"top\"</strong> las imágenes del popup se distribuyen en la franja superior. El texto introductorio aparece en la parte inferior.</p>",
+        "items": [
+          {
+            "id": "p-8004-1",
+            "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&q=80",
+            "title": "Popup superior 1",
+            "popupTitle": "Modal superior 1",
+            "popupContent": "<p><strong>Popup con imagePosition top</strong></p><p>Las tarjetas de imagen se distribuyen horizontalmente en la parte superior de la diapositiva.</p>",
+            "imageAnimation": { "type": "slideDown", "delay": 0.2, "duration": 0.5 }
+          },
+          {
+            "id": "p-8004-2",
+            "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&q=80",
+            "title": "Popup superior 2",
+            "popupTitle": "Modal superior 2",
+            "popupContent": "<p><strong>Segundo popup superior</strong></p><p>El contenido del modal siempre se muestra centrado en la pantalla, independientemente de la posición de las imágenes en el slide.</p>",
+            "imageAnimation": { "type": "slideDown", "delay": 0.4, "duration": 0.5 }
+          },
+          {
+            "id": "p-8004-3",
+            "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&q=80",
+            "title": "Popup superior 3",
+            "popupTitle": "Modal superior 3",
+            "popupContent": "<p><strong>Tercer popup superior</strong></p><p>Sin blocking explícito, el valor por defecto es true. Explora los tres para continuar.</p>",
+            "imageAnimation": { "type": "slideDown", "delay": 0.6, "duration": 0.5 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 8005,
+      "layout": "popup",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "imagePosition": "bottom",
+        "imageSize": 55,
+        "contentAlign": "middle",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.4 },
+        "title": "popup: abajo, 3 items, titleTheme light",
+        "text": "<p>Con <strong>imagePosition: \"bottom\"</strong> las imágenes del popup se distribuyen en la franja inferior. La propiedad <strong>titleTheme: \"light\"</strong> en los items aplica texto claro sobre las tarjetas de imagen oscura.</p>",
+        "items": [
+          {
+            "id": "p-8005-1",
+            "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?w=400&q=80",
+            "title": "Popup claro 1",
+            "titleTheme": "light",
+            "popupTitle": "Modal inferior 1",
+            "popupContent": "<p><strong>Popup con titleTheme light</strong></p><p>La propiedad titleTheme: \"light\" aplica colores claros al título de la tarjeta, mejorando la legibilidad sobre imágenes oscuras.</p>",
+            "imageAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.5 }
+          },
+          {
+            "id": "p-8005-2",
+            "image": "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=400&q=80",
+            "title": "Popup claro 2",
+            "titleTheme": "light",
+            "popupTitle": "Modal inferior 2",
+            "popupContent": "<p><strong>Segundo popup inferior con titleTheme light</strong></p><p>Cada item puede tener su propio titleTheme de forma independiente. Los disponibles son: dark y light.</p>",
+            "imageAnimation": { "type": "slideUp", "delay": 0.4, "duration": 0.5 }
+          },
+          {
+            "id": "p-8005-3",
+            "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=400&q=80",
+            "title": "Popup claro 3",
+            "titleTheme": "light",
+            "popupTitle": "Modal inferior 3",
+            "popupContent": "<p><strong>Tercer popup inferior con titleTheme light</strong></p><p>Con imagePosition: \"bottom\" y titleTheme: \"light\", las tarjetas tienen apariencia de banner inferior con títulos en color claro.</p>",
+            "imageAnimation": { "type": "slideUp", "delay": 0.6, "duration": 0.5 }
+          }
+        ]
+      }
+    },
+    {
+      "id": 9000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: accordion",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1920&q=80",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 9001,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "accordion: exclusive true, closable true, blocking true",
+        "text": "<p>Con <strong>exclusive: true</strong> solo puede estar un panel abierto a la vez. Con <strong>closable: true</strong> el usuario puede colapsar el panel activo pulsando su encabezado.</p>",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.5 },
+        "exclusive": true,
+        "closable": true,
+        "blocking": true,
+        "items": [
+          {
+            "id": "ac-9001-1",
+            "title": "Panel 1 — Acordeón exclusivo",
+            "text": "<p>El primer panel del acordeón exclusivo. Con <strong>exclusive: true</strong>, al abrir este panel se cierra automáticamente cualquier otro panel abierto.</p><p>Con <strong>blocking: true</strong> se deben abrir todos los paneles para desbloquear la navegación.</p>"
+          },
+          {
+            "id": "ac-9001-2",
+            "title": "Panel 2 — Cerrable",
+            "text": "<p>Segundo panel. Con <strong>closable: true</strong>, al volver a pulsar el encabezado de este panel se colapsa. Esto permite al usuario dejar todos los paneles cerrados.</p>"
+          },
+          {
+            "id": "ac-9001-3",
+            "title": "Panel 3 — Bloqueante",
+            "text": "<p>Tercer panel. Con <strong>blocking: true</strong>, el usuario debe abrir los cuatro paneles antes de poder avanzar al siguiente slide del curso.</p>"
+          },
+          {
+            "id": "ac-9001-4",
+            "title": "Panel 4 — Último panel",
+            "text": "<p>Cuarto panel. Una vez abierto este panel (junto con los anteriores), la navegación al siguiente slide queda desbloqueada.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9002,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "accordion: exclusive false, closable false",
+        "text": "<p>Con <strong>exclusive: false</strong> múltiples paneles pueden estar abiertos simultáneamente. Con <strong>closable: false</strong> los paneles abiertos no pueden cerrarse una vez que se han abierto.</p>",
+        "titleAnimation": { "type": "slideRight", "delay": 0, "duration": 0.6 },
+        "textAnimation": { "type": "slideRight", "delay": 0.2, "duration": 0.5 },
+        "exclusive": false,
+        "closable": false,
+        "blocking": true,
+        "items": [
+          {
+            "id": "ac-9002-1",
+            "title": "Panel A — Multi-apertura",
+            "text": "<p>Primer panel del acordeón no exclusivo. Al abrirlo, los demás paneles no se cierran. Todos pueden estar abiertos al mismo tiempo.</p>"
+          },
+          {
+            "id": "ac-9002-2",
+            "title": "Panel B — No cerrable",
+            "text": "<p>Segundo panel. Con closable: false, una vez abierto este panel no se puede colapsar. Útil para mostrar contenido que el usuario no debe poder ocultar.</p>"
+          },
+          {
+            "id": "ac-9002-3",
+            "title": "Panel C — Abierto permanente",
+            "text": "<p>Tercer panel. La combinación exclusive: false + closable: false permite al usuario expandir todos los paneles progresivamente sin posibilidad de cerrarlos.</p>"
+          },
+          {
+            "id": "ac-9002-4",
+            "title": "Panel D — Todos visibles",
+            "text": "<p>Cuarto panel. Con todos los paneles abiertos simultáneamente, el contenido completo del acordeón es visible a la vez, similar a una lista expandida.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9003,
+      "layout": "accordion",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "accordion: exclusive true, closable false, items con icon",
+        "text": "<p>Los items del acordeón pueden incluir la propiedad <strong>icon</strong> con una clase CSS de icono. El icono aparece junto al título del panel. Con <strong>closable: false</strong> no se puede colapsar un panel activo.</p>",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.5 },
+        "exclusive": true,
+        "closable": false,
+        "blocking": true,
+        "items": [
+          {
+            "id": "ac-9003-1",
+            "icon": "fi fi-tr-rocket",
+            "title": "Panel con icono — Cohete",
+            "text": "<p>Primer panel con icono. La propiedad <strong>icon</strong> acepta clases CSS de Flaticon UIcons como <code>fi fi-tr-rocket</code>, <code>fi fi-br-info</code> o <code>fi fi-rr-check</code>.</p>"
+          },
+          {
+            "id": "ac-9003-2",
+            "icon": "fi fi-tr-graduation-cap",
+            "title": "Panel con icono — Birrete",
+            "text": "<p>Segundo panel con icono de birrete académico. Con exclusive: true y closable: false, al abrir este panel el anterior se cierra automáticamente y no puede reabrirse hasta pulsar su encabezado.</p>"
+          },
+          {
+            "id": "ac-9003-3",
+            "icon": "fi fi-tr-globe-alt",
+            "title": "Panel con icono — Globo",
+            "text": "<p>Tercer panel con icono de globo terráqueo. Los iconos mejoran la escaneabilidad visual del acordeón al permitir identificar cada sección de un vistazo.</p>"
+          },
+          {
+            "id": "ac-9003-4",
+            "icon": "fi fi-tr-book-alt",
+            "title": "Panel con icono — Libro",
+            "text": "<p>Cuarto panel con icono de libro. Una vez abiertos los cuatro paneles (en cualquier orden), se desbloquea la navegación gracias a blocking: true.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: tabs",
+        "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1920&q=80",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 10001,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "tabs: 4 pestañas sin iconos, blocking true",
+        "text": "<p>El layout <strong>tabs</strong> muestra una barra de pestañas horizontal en la parte superior. La primera pestaña se abre por defecto y se marca automáticamente como completada.</p>",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "fadeIn", "delay": 0.2, "duration": 0.5 },
+        "blocking": true,
+        "items": [
+          {
+            "id": "tab-10001-1",
+            "label": "Pestaña 1",
+            "title": "Título de la primera pestaña",
+            "text": "<p>Contenido de la primera pestaña. El layout tabs siempre es exclusivo: solo una pestaña puede estar activa a la vez.</p><p>La primera pestaña se abre por defecto al cargar el slide y se registra automáticamente como completada.</p>"
+          },
+          {
+            "id": "tab-10001-2",
+            "label": "Pestaña 2",
+            "title": "Título de la segunda pestaña",
+            "text": "<p>Contenido de la segunda pestaña. Con <strong>blocking: true</strong> el usuario debe activar todas las pestañas antes de poder continuar.</p>"
+          },
+          {
+            "id": "tab-10001-3",
+            "label": "Pestaña 3",
+            "title": "Título de la tercera pestaña",
+            "text": "<p>Contenido de la tercera pestaña. El campo <code>title</code> en cada item es opcional: si se omite, solo se muestra el contenido de <code>text</code>.</p>"
+          },
+          {
+            "id": "tab-10001-4",
+            "label": "Pestaña 4",
+            "title": "Título de la cuarta pestaña",
+            "text": "<p>Cuarta y última pestaña. Una vez activada esta pestaña, la navegación al siguiente slide queda desbloqueada.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10002,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "tabs: 4 pestañas con icon en cada item",
+        "text": "<p>Los items del layout tabs pueden incluir la propiedad <strong>icon</strong> con una clase CSS de icono de Flaticon UIcons. El icono aparece junto al label de la pestaña en la barra de navegación.</p>",
+        "titleAnimation": { "type": "slideRight", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "slideRight", "delay": 0.2, "duration": 0.4 },
+        "blocking": true,
+        "items": [
+          {
+            "id": "tab-10002-1",
+            "label": "Inicio",
+            "icon": "fi fi-tr-rocket",
+            "title": "Pestaña con icono de cohete",
+            "text": "<p>Primera pestaña con icono. La propiedad <strong>icon</strong> acepta clases de Flaticon UIcons. El icono se muestra a la izquierda del label en la barra de pestañas.</p>"
+          },
+          {
+            "id": "tab-10002-2",
+            "label": "Formación",
+            "icon": "fi fi-tr-graduation-cap",
+            "title": "Pestaña con icono de birrete",
+            "text": "<p>Segunda pestaña con icono de birrete académico. Los iconos mejoran la identificación visual de las pestañas, especialmente cuando los labels son similares o cortos.</p>"
+          },
+          {
+            "id": "tab-10002-3",
+            "label": "Global",
+            "icon": "fi fi-tr-globe-alt",
+            "title": "Pestaña con icono de globo",
+            "text": "<p>Tercera pestaña con icono de globo. La combinación de icono y label hace que la barra de pestañas sea más rica visualmente.</p>"
+          },
+          {
+            "id": "tab-10002-4",
+            "label": "Recursos",
+            "icon": "fi fi-tr-book-alt",
+            "title": "Pestaña con icono de libro",
+            "text": "<p>Cuarta pestaña con icono de libro. Una vez exploradas las cuatro pestañas, se desbloquea la navegación al siguiente slide.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10003,
+      "layout": "tabs",
+      "showTitle": true,
+      "showPagination": true,
+      "data": {
+        "title": "tabs: 3 pestañas, title y text en slide, contentAlign start",
+        "text": "<p>El layout tabs puede incluir <strong>title</strong> y <strong>text</strong> en el propio slide (fuera de las pestañas). La propiedad <strong>contentAlign: \"start\"</strong> alinea el conjunto al inicio del eje vertical.</p>",
+        "titleAnimation": { "type": "fadeIn", "delay": 0, "duration": 0.5 },
+        "textAnimation": { "type": "slideUp", "delay": 0.2, "duration": 0.4 },
+        "contentAlign": "start",
+        "blocking": true,
+        "items": [
+          {
+            "id": "tab-10003-1",
+            "label": "Sección A",
+            "icon": "fi fi-tr-bullseye-arrow",
+            "title": "Título de la Sección A",
+            "text": "<p>Primera sección con tres pestañas. El título y texto del slide sirven como introducción general, mientras que cada pestaña contiene el contenido específico de su sección.</p>"
+          },
+          {
+            "id": "tab-10003-2",
+            "label": "Sección B",
+            "icon": "fi fi-tr-users",
+            "title": "Título de la Sección B",
+            "text": "<p>Segunda sección. Con <strong>contentAlign: \"start\"</strong>, el bloque completo (título del slide, texto y pestañas) se ancla al inicio del área disponible.</p>"
+          },
+          {
+            "id": "tab-10003-3",
+            "label": "Sección C",
+            "icon": "fi fi-tr-gears",
+            "title": "Título de la Sección C",
+            "text": "<p>Tercera y última sección. Con 3 pestañas y blocking: true, el usuario debe explorar las tres antes de continuar.</p>"
+          }
+        ]
+      }
+    },
+    {
+      "id": 11000,
+      "layout": "section-cover",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "sectionTitle": "Layout: closing",
+        "image": "https://images.unsplash.com/photo-1526676537331-7747bf8278fc?q=80&w=2070&auto=format&fit=crop",
+        "imageFadeDelay": 0.2,
+        "imageFadeDuration": 1.2
+      }
+    },
+    {
+      "id": 11001,
+      "layout": "closing",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "backgroundImage": "https://images.unsplash.com/photo-1526676537331-7747bf8278fc?q=80&w=2070&auto=format&fit=crop"
+      }
+    },
+    {
+      "id": 11002,
+      "layout": "closing",
+      "showTitle": false,
+      "showPagination": false,
+      "data": {
+        "backgroundVideo": "./contents/course-slides-template/videos/cover.mp4"
+      }
+    }
+  ]
+}

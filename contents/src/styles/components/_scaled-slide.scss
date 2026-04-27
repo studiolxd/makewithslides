@@ -1,0 +1,16 @@
+.scaled-slide {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__surface {
+    width: 1200px;
+    height: 675px;
+    flex-shrink: 0;
+    transform-origin: center center;
+    overflow: hidden;
+  }
+}

@@ -1,0 +1,16 @@
+@use '../variables' as *;
+
+.slide-viewer {
+  flex: 1;
+  overflow: hidden;
+  background: $color-bg-slide;
+
+  &__error {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: $font-size-lg;
+    color: $color-text-light;
+  }
+}
